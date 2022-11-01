@@ -1,0 +1,116 @@
+input,textarea {
+	font-size: 9pt;
+	color: #DCC397; border: 1px solid RGB(31,22,13); background-color: RGB(133,113,86)
+}
+button {
+	font-size: 9pt;
+	color: #DCC397; border: 1px solid RGB(133,113,86); background-color:  RGB(31,22,13)
+}
+body {
+	background-color: #706747; color: #DCC397; font-family: verdana,arial,helvetica,sans-serif; margin: 0px;
+}
+
+iframe {
+	padding: 0px; margin: 0px;
+}
+
+
+.style1, table {
+	font-size: 9pt;
+	color: #DCC397;
+}
+
+a {color:#B88B58; text-decoration:underline;}
+.nolink{color: #B88B58; text-decoration:none;}
+.nolink:hover{color:#E9BA68; text-decoration:none;}
+a:hover{color:#E9BA68; text-decoration:underline;}
+a {text-decoration: none;}
+.cb {width: 15; height: 15}
+.boldCell {font-weight: bold; font-size: 9pt; vertical-align:top}
+.weakCell {font-weight: normal; font-size: 9pt; vertical-align:top}
+.weakerCell {padding-left:10pt; font-weight: normal; font-size: 8pt; vertical-align:top}
+.navmenu2 {height: 18px; background-color: #111111; padding-left: 54; border: 0; font-weight: bold; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+
+.menuCell {width: 110; font-weight: normal; border: 1px solid rgb(60, 60, 60); margin: 1px; font-size: 8pt; vertical-align:top; cursor: pointer}
+button {background-color: #333333; border: 1px solid #444444; margin-left: 2px; margin-right: 2px; font-weight: normal; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+
+.copyright {font-weight: normal; font-family: Arial; font-size: 7pt}
+.navmenu {
+	font-family: Tahoma; font-weight: Bold; background-image: url(images/header2.gif); background-repeat: repeat-x;
+	font-size: 10pt;
+	height: 38px;
+	color: #B88B58;
+	xcolor: #775D40;
+	padding-left: 30px;
+}
+.navmenunb {font-weight: bold; font-family: arial; font-size: 8pt; vertical-align:top}
+.Popup, .New {border: 1px solid outset #333333;background-color: #111111;color:rgb(183, 197, 206); font-family: arial; font-size: 8pt; vertical-align:top}
+
+.nav2, .nav3 {margin: 1px; font-weight: bold; font-family: arial; font-size: 8pt; vertical-align:top}
+.nav4 { border: 1px solid rgb(60, 60, 60); margin: 1px; font-weight: normal; font-family: arial; font-size: 8pt; vertical-align:top}
+
+.navborder {background-color: #111111; padding-left: 4; border: 2 outset rgb(121,108,92); font-weight: bold; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+.navborderx {height: 18px; background-color: #111111; padding-left: 54; border: 0; font-weight: bold; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+.title {color:gold; font-weight: bold; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+
+.itemText {font: 8pt Arial}
+
+.menuCell {border: 1px solid #333333; width: 110; font-size: 7pt; font-weight: normal; font-family: Verdana; vertical-align:top; cursor: pointer}
+.barCell {width: 110; background-position: top right; background-repeat: no-repeat; background-color: #222222; border: 1px solid rgb(121,108,92); font-size: 7pt; font-weight: normal; font-family: Verdana; vertical-align:top; cursor: pointer}
+.barCell2 {background-position: top right; background-repeat: repeat-x; background-color: rgb(31,22,13); font-size: 7pt; vertical-align:top; cursor: pointer}
+
+.newCell {width: 110; background-position: top right; background-repeat: no-repeat; background-color: #222222; border: 1px solid rgb(121,108,92); font-size: 7pt; font-weight: normal; font-family: Verdana; vertical-align:top; cursor: pointer}
+
+.iT {font: 8pt Arial; cursor: pointer}
+
+.jfbb {background-color: #111111; padding-left: 4; border: 2 outset rgb(121,108,92);font-weight: normal; font-family: Helvetica; font-size: 8pt; vertical-align:top}
+
+#ts {color: #D7D7D7; font-size: 7pt;}
+#t {color: #D7D7D7}
+#pk {color: rgb(246,75,75)}
+#npk {color: rgb(110,143,235)}
+#tred {color: rgb(220,81,81)}
+#tgold {color: gold}
+#tgreen {color: rgb(81,220,81)}
+#treds {color: rgb(220,81,81)}
+#tgreens {color: rgb(81,220,81)}
+#tblue {color: rgb(81,81,220)}
+#tcyan {color: cyan}
+#tmagenta {color: magenta}
+#theal {color: white}
+#tmagic {color: #BDBCCD}
+
+.mapcolb {width: 20; height: 20; background-repeat: no-repeat;padding:0; margin:0;}
+.gp {border: 1 solid #D7D7D7; background-color: gold}
+.sp {border: 1 solid #D7D7D7; background-color: silver}
+.bp {border: 1 solid #D7D7D7; background-color: #CC9900}
+.cp {border: 1 solid #D7D7D7; background-color: #6699FF}
+.ap {border: 1 solid #D7D7D7; background-color: white}
+.v {width: 10; height: 10; cursor: pointer}
+
+
+.box {
+	background-color: RGB(67, 51, 27);
+	width: 100%;
+}
+
+.box2 {
+	background-color: RGB(46, 32, 19);
+	background-image: URL();
+	border: 1px solid black;
+	font-size: 8pt;
+}
+
+.weakcellb {
+	background-color: RGB(46, 32, 19);
+	background-image: URL();
+	border: 1px solid black;
+	font-weight: normal; font-size: 9pt; vertical-align:top
+}
+
+.box3 {
+	background-color: RGB(67, 51, 27);
+	background-image: URL();
+	border: 1px solid RGB(46, 32, 19);
+	font-size: 8pt;
+}

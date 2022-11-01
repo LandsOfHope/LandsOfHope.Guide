@@ -1,0 +1,61 @@
+<html>
+<head>
+	<title>
+Tutorial
+	</title>
+	<link rel="stylesheet" type="text/css" href="fho2.css">
+</head>
+<body><table height='100%' width='100%' class='barCell2' style='cursor: default; color: white' align=top>
+<tr>
+<td height=22 align=center class='navmenu' colspan=8 style='height: 15'>
+<center><b>Tutorial</b></center>
+</td>
+</tr>
+<tr>
+<td colspan=8 class='weakcell'>
+<script language='JavaScript'>
+var TextOutx = new Array('You begin your travels in the lands of Myzan, from within the small estate of Society Baron Drako, following this Guide and doing the quests on the estate will give you a good start in the game.<br><br>Moving around in the estate is done solely by clicking on the Mini-map in the top left corner of your game window, clicking on a Tile will move you to that tile.<br><br>Your current position is marked by a red arrow white pink arrows often indicate a place of interest or NPC location.<br>Your position: <img src="images/ayou.gif">&nbsp;Place of Interest: <img src="images/nyou.gif"><br><br>To get back to the Starting tile (<b style="color: yellow">A</b>) at any time click the Recall to Quarters button below the Guilds menu at the top of the game screen.<br><br>To learn more about the Estate move the mouse around the map.','The Waterfall is home to a Nasty Waterspirit, but behind the Waterfall is an even nastier place.<br><br>A series of caves which contain the Bone Taker and the Bone Takers minions needed for the <b>Dark Act</b> series of quests (started by Guide Derwa at level 2).<br><br>The Skeletons are all level 3 or higher, and will be your first real challenge on the estate.<br><br>Remember to have a Weapon equipped and Armor and be at full health (World > Rest) before attacking them.','The servant girl will come to find you once you get to level 5 and ask that you come visit your master the Baron.','The Baron is your master, you better remember that at all times slave !<br><br>The Baron will not wish to speak with you until you are level 5, at level 5 you can visit him and leave the estate to continue your travels in the Lands of Myzan.','The Northern Tower, marks the Northern boundary of Drakos estate.<br><br><b>Quests Items at this Tile:</b><br><b>Soil Sample</b> for the <b>What Ails my Trees Quest</b>','The Librarian NPC, offers Casters and Healers the chance to learn some spells, if you visit this NPC you can take a simple quest that earns you a Spellbook you can use from your Inventory screen to learn up to 3 spells.<br><br>These spells can then be used in Combat, after learning some spells view your Abilities > Spellbook screen for more information on the spell.','The Blacksmith NPC, offers a few simple quests that give you some easy XP and teach you a few basics about blacksmithing.<br><br>At the end of the quests you learn Blacksmithing as a skill but you wont be able to use it until you leave the estate at level 5.<br><br>Do not worry if you did not learn the skill from the Blacksmith it can be gained after you leave the estate.','The Quarry is part of the Blacksmith NPC quest and contains stone blocks that need to be gathered.<br><br>Gathering in the estate is as simple as clicking on the block inside the quarry, if there are several people doing the quarry quest at once it may be harder to complete this quest.','The Farmstead is home to the Jurrel Family, or at least was until they were brutally slaughtered if you wish to uncover the murderer and bring them to justice you should take the <b>Dark Act</b> quest at level 2 from Guide Derwa.','This Supply Store is where Monty keeps all of his stock, you can not open it or enter it and you most certainly can not break into it.<br><br>Just remember Monty is bigger than you.','Three key NPCs can be found on this tile, they all have useful quests and lessons to teach new players.','This is the starting tile, the tile where you begin the game.<br><br>An NPC called Guide Derwa can be found here she is one of the most important NPCs on the estate and sets you off on the quests to get your Equipment.','An NPC called Shady is on this tile, he has a few simple things that Rogues can complete.','A Lumberjack can be found on this tile, if you complete his quests he will give you the Lumberjacking skill. Not to worry if you do not complete his quests as you can get the lumberjacking skill after you leave the estate anyway.','An NPC called Farmer Merisa can be found on this tile along with a farm hand called Flei, Merisa gives you a few quests which if you decide to complete will earn you the Farming skill. As with the other skills you can learn on the estate you can also buy the farming skill after you leave so it is not vital that you complete the quests.<br><br>Flei has a simple game for you to play if you feel like it!','The Eastern Tower, marks the Eastern boundary of Drakos estate.<br><br><b>Quests Items at this Tile:</b><br><b>Soil Sample</b> for the <b>What Ails my Trees Quest</b>','The Southern Tower, marks the Southern boundary of Drakos estate.<br><br><b>Quests Items at this Tile:</b><br><b>Soil Sample</b> for the <b>What Ails my Trees Quest</b>', 'The Mine is part of the Blacksmith NPC quest and contains ore that needs to be gathered.<br><br>Gathering in the estate is as simple as clicking on the ore inside the mine, if there are several people doing the ingot quest at once it may be harder to complete this quest.');
+
+function OUC(stuff) {
+	document.all.mappy.style.cursor = '';
+}
+function OVC(stuff, textnum) {
+	document.all.mappy.style.cursor = 'hand';
+}
+function ODC(stuff, textnum) {
+	document.all.mappy.style.cursor = 'hand';
+	ShowText(textnum, stuff.title);
+}
+function ShowText(textnum, title) {
+	document.all.Stuff.innerHTML = "<table width='100%' class='weakcell'><tr><td class='navmenu' style='height: 22'><center><b>" + title + "</b></center></td></tr><tr><td>" + TextOutx[textnum] + "</td></table>";
+}
+
+</script>
+<table><tr><td>
+<IMG SRC='images/TutorialMap2.gif' id=mappy border=0 USEMAP='#Tutorial'>
+<MAP NAME='Tutorial'>
+<AREA SHAPE=RECT COORDS="180,0,200,20" onclick="ODC(this, 1);" onmouseout="OUC(this)" onmouseover="OVC(this, 1);" title="Waterfall of the Lost" ALT="">
+
+<AREA SHAPE=RECT COORDS="220,40,240,60" onclick="ODC(this, 2);" onmouseout="OUC(this)" onmouseover="OVC(this, 2);"  title="Servant Girl" ALT="">
+<AREA SHAPE=RECT COORDS="240,40,260,60" onclick="ODC(this, 3);" onmouseout="OUC(this)" onmouseover="OVC(this, 3);"  title="Baron Drako" ALT="">
+<AREA SHAPE=RECT COORDS="40,40,60,60" onclick="ODC(this, 4);" onmouseout="OUC(this)" onmouseover="OVC(this, 4);"  title="Northern Tower" ALT="">
+<AREA SHAPE=RECT COORDS="40,120,60,140" onclick="ODC(this, 5);" onmouseout="OUC(this)" onmouseover="OVC(this, 5);"  title="Library" ALT="">
+<AREA SHAPE=RECT COORDS="20,160,40,180" onclick="ODC(this, 6);" onmouseout="OUC(this)" onmouseover="OVC(this, 6);"  title="Blacksmith" ALT="">
+<AREA SHAPE=RECT COORDS="0,160,20,180" onclick="ODC(this, 7);" onmouseout="OUC(this)" onmouseover="OVC(this, 7);"  title="Quarry" ALT="">
+<AREA SHAPE=RECT COORDS="80,180,100,200" onclick="ODC(this, 8);" onmouseout="OUC(this)" onmouseover="OVC(this, 8);"  title="Farmstead" ALT="">
+<AREA SHAPE=RECT COORDS="140,200,160,220" onclick="ODC(this, 9);" onmouseout="OUC(this)" onmouseover="OVC(this, 9);"  title="Supply Store" ALT="">
+<AREA SHAPE=RECT COORDS="120,240,140,260" onclick="ODC(this, 10);" onmouseout="OUC(this)" onmouseover="OVC(this, 10);"  title="Healer/Supplier and Hunter" ALT="">
+<AREA SHAPE=RECT COORDS="120,260,140,280" onclick="ODC(this, 11);" onmouseout="OUC(this)" onmouseover="OVC(this, 11);"  title="Starting Tile and Guide Derwa" ALT="">
+<AREA SHAPE=RECT COORDS="120,280,140,300" onclick="ODC(this, 12);" onmouseout="OUC(this)" onmouseover="OVC(this, 12);"  title="Shady" ALT="">
+<AREA SHAPE=RECT COORDS="220,140,240,160" onclick="ODC(this, 13);" onmouseout="OUC(this)" onmouseover="OVC(this, 13);"  title="Lumberjack Peter Nap" ALT="">
+<AREA SHAPE=RECT COORDS="320,160,340,180" onclick="ODC(this, 14);" onmouseout="OUC(this)" onmouseover="OVC(this, 14);"  title="Farmer Merisa" ALT="">
+<AREA SHAPE=RECT COORDS="380,260,400,280" onclick="ODC(this, 15);" onmouseout="OUC(this)" onmouseover="OVC(this, 15);"  title="Eastern Tower" ALT="">
+<AREA SHAPE=RECT COORDS="40,260,60,280" onclick="ODC(this, 16);" onmouseout="OUC(this)" onmouseover="OVC(this, 16);"  title="Southern Tower" ALT="">
+<AREA SHAPE=RECT COORDS="40,280,60,300" onclick="ODC(this, 17);" onmouseout="OUC(this)" onmouseover="OVC(this, 17);"  title="Mine" ALT="">
+
+<AREA SHAPE=RECT COORDS="0,0,400,300" onclick="OVC(this, 0);"  title="Baron Drakos Estate" ALT="">
+</MAP></td><td id=Stuff width='100%' valign=top></td></tr></table>
+
+</td></tr><tr><td colspan=2><table class='weakercell'><tr><td colspan=8><b>Legend </b></td></tr><tr><td><b style='color: yellow'>A</b> Your starting position</td><td><b style='color: cyan'>B</b> The Healer, Hunter and Supplier NPC</td><td><b style='color: green'>C</b> The Librarian NPC</td><td><b style='color: gold'>D</b> Baron Drako</td><td><b style='color: blue'>E</b> Blacksmith</td><td><b style='color: Red'>F</b> Entrance to the Skeletons</td></tr></table></td></tr></table><script>ShowText(0,'Baron Drakos Estate - Walkthrough')</script>
+</body>
+</html>

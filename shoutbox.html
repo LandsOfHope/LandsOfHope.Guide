@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>
+Shoutbox	
+</title>
+<link rel="stylesheet" type="text/css" href="fho2.css">
+</head>
+<body><table height='100%' width='100%' class='barCell2'  cellpadding="0" cellspacing="0" align=top>
+<tr>
+<td align=center colspan=3>
+<table width="100%" height="38" border="0" align="center" cellpadding="0" cellspacing="0" background="images/header2.gif" style="background-repeat: repeat-x"><tr height=11 valign=top><td colspan=5><table background="images/top.gif" width="100%" cellpadding="0" cellspacing="0" style="background-repeat: repeat-x" height="11"><td><img src="images/tlc.gif"></td><td width="100%" colspan=3></td><td align=right><img src="images/trc.gif"></td></tr></table></td></tr><tr><td background="images/left.gif" width="11" style="background-repeat: repeat-y; background-position: left"></td><td valign=top class=header><center><b>Shoutbox	</b></center>
+</td><td background="images/right.gif" width="11" style="background-repeat: repeat-y; background-position: right"></td></tr><tr height=11 valign=bottom><td colspan=5><table background="images/bottom.gif" width="100%" cellpadding="0" cellspacing="0" style="background-repeat: repeat-x; background-position: bottom" height="11"><td><img src="images/blc.gif"></td><td width="100%" colspan=3></td><td align=right><img src="images/brc.gif"></td></tr></table></td></tr></table></td>
+</tr>
+<tr height="100%">
+<td colspan=3 class='weakcell'>
+<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" background="images/back.gif"><tr height=11 valign=top><td colspan=5><table background="images/top.gif" width="100%" cellpadding="0" cellspacing="0" style="background-repeat: repeat-x" height="11"><td><img src="images/tlc.gif"></td><td width="100%" colspan=3></td><td align=right><img src="images/trc.gif"></td></tr></table></td></tr><tr><td background="images/left.gif" width="11" style="background-repeat: repeat-y; background-position: left"></td><td valign=top><!- TEMPLATE START -->
+The shoutbox is the default chat client there are generally a lot of people in the shoutbox.
+<br><br><table class='barCell2' style='width: 100%'><tr><td height=22 align=center class='navmenu' colspan=3 style='height: 15'><center><b>Shoutbox Commands</b></center></td></tr>
+<tr class='boldcell'><td width=150>Command</td><td width=320>Description</td></tr>
+<tr class='weakcell'><td>/nick <i>new name</i></td><td>Allows you to change nicknames.<br><br><b>Example:</b><br> /nick David</td></tr>
+<tr class='weakcell'><td>/join <i>channel</i></td><td>Allows you to join the specified channel.<br><br><b>Example:</b><br> /join Trollsgrove</td></tr>
+<tr class='weakcell'><td>/me <i>emote</i></td><td>Allows you to emotes.<br><br><b>Example:</b><br>/me dribbles</td></tr>
+<tr class='weakcell'><td>/q <i>question</i></td><td>Allows you to send a question to chat, These questions appear differently than if you just typed a question.<br><br><b>Example:</b><br>/q How do I regenerate my Health ?</td></tr>
+<tr class='weakcell'><td>/a <i>answer</i></td><td>Allows you to send an answer to chat, These answers appear differently than if you just typed the answer.<br><br><b>Example:</b><br>/a Goto World > Rest</td></tr>
+<tr class='weakcell'><td>/ignore <i>chat nick</i></td><td>Allows you to ignore someone in the shoutbox. The ignore list is not saved outside of your game session, logging out and back in will clear it for example. This is a toggle command so if someone is ignored and you send the command again it will unignore them. Users can only be ignored if they have at least one line of chat visible in the shoutbox at the time.<br><br><b>Example:</b><br>/ignore David</td></tr>
+<tr class='weakcell'><td>/clearignore</i></td><td>Allows you to clear your temporary ignore list. The list is not saved anyway but it may become necessary to clear the list when you add some people to it you want to quickly remove.<br><br><b>Example:</b><br>/clearignore</td></tr>
+<tr class='weakcell'><td>/vote</i></td><td>Sends a voting link to chat, allowing people to click the link to vote for the game on mpogd.com, it may be considered spam if you click it too much.<br><br><b>Example:</b><br>/vote</td></tr>
+<tr class='weakcell'><td>/link <i>url</i></td><td>Sends a link to a website to chat, these appear differently than if you just typed the link and stand out a little more.<br><br><b>Example:</b><br>/link http://www.landsofhope.com</td></tr>
+<tr class='weakcell'><td>/info</i></td><td>Displays your account id in the active channel, this can only be seen by you.<br><br><b>Example:</b><br>/info</td></tr>
+</table>
+<br><br><table class='barCell2' style='width: 100%'><tr><td height=22 align=center class='navmenu' colspan=3 style='height: 15'><center><b>Founder Commands</b></center></td></tr>
+<tr class='boldcell'><td width=150>Command</td><td width=320>Description</td></tr>
+<tr class='weakcell'><td>/chadd <i>channel</i></td><td>Creates and registers a channel, making you a founder. Which enables you to use the following commands..<br><br><b>Example:</b><br> /chadd Myzan</td></tr>
+<tr class='weakcell'><td>/chdel <i>channel</i></td><td>Unregisters and deletes a channel.<br><br><b>Example:</b><br> /chdel Myzan</td></tr>
+<tr class='weakcell'><td>/chban <i>nickname</i></td><td>Bans the entered nickname from chat, this only works if that nickname is present in chat at the time.<br><br><b>Example:</b><br>/chban Bob</td></tr>
+<tr class='weakcell'><td>/chunban <i>accountid</i></td><td>Unbans an account, when you ban someone using chban it bans the entire account that means all characters. To unban you have to enter the account id of the person you banned.<br><br><b>Example:</b><br>/chunban 12323</td></tr>
+<tr class='weakcell'><td>/chuser <i>accountid</i></td><td>Adds the specified account to the list of users allowed to access this channel. It can be used in conjunction with a chmode command to only allow certain people to access the channel.<br><br><b>Example:</b><br>/chuser 12121</td></tr>
+<tr class='weakcell'><td>/chvoice <i>accountid</i></td><td>Adds the specified account to the list of users allowed to have moderator permissions in this channel. Moderators have the power to ban and unban users but can not use Founder commands.<br><br><b>Example:</b><br>/chvoice 12121</td></tr>
+<tr class='weakcell'><td>/chuserdel <i>accountid</i></td><td>Removes the specified account from the list of users for this channel, this works to remove basic users, moderators and banned accounts.<br><br><b>Example:</b><br>/chuserdel 12121</td></tr>
+<tr class='weakcell'><td>/clear</td><td>Allows you to clear the channel, this is useful if someone is spamming or you want to erase something that was in chat.<br><br><b>Example:</b><br>/clear</td></tr>
+<tr class='weakcell'><td>/chdesc <i>desc</i></td><td>Sets an optional description for the channel.<br><br><b>Example:</b><br>/chdesc The world of Myzan !</td></tr>
+<tr class='weakcell'><td>/chmode <i>MODE</i></td><td>Lets you change the channel mode ... more information on this below.</td></tr>
+<tr class='weakcell'><td>/chowner <i>accountid</i></td><td>Changes the owner of the channel you are currently in (and founder of) to the given account, useful if you are going away or need to give the channel to someone else.<br><br><b>Example:</b><br>/chowner 112123</td></tr>
+</table>
+<br><br><table class='barCell2' style='width: 100%'><tr><td height=22 align=center class='navmenu' colspan=3 style='height: 15'><center><b>Voice/Moderator Commands</b></center></td></tr>
+<tr class='boldcell'><td width=150>Command</td><td width=320>Description</td></tr>
+<tr class='weakcell'><td>/chban <i>nickname</i></td><td>Bans the entered nickname from chat, this only works if that nickname is present in chat at the time.<br><br><b>Example:</b><br>/chban Bob</td></tr>
+<tr class='weakcell'><td>/chunban <i>accountid</i></td><td>Unbans an account, when you ban someone using chban it bans the entire account that means all characters. To unban you have to enter the account id of the person you banned.<br><br><b>Example:</b><br>/chunban 12323</td></tr>
+</table>
+<br><br><table class='barCell2' style='width: 100%'><tr><td height=22 align=center class='navmenu' colspan=3 style='height: 15'><center><b>Channel Modes</b></center></td></tr>
+<tr class='weakcell'><td colspan=2>The following modes are used with the /chmode command and only work for Founders.</td></tr>
+<tr class='boldcell'><td width=150>Mode</td><td width=320>Description</td></tr>
+<tr class='weakcell'><td>/chmode <i>NONE</i></td><td>Default Mode, in this mode anyone can type/access this channel.<br><br><b>Example:</b><br> /chmode NONE</td></tr>
+<tr class='weakcell'><td>/chmode <i>USER</i></td><td>User Mode, this is when only people who have been added to the user list using either /chuser or /chvoice can type in this channel, others may still access the channel but they can only read it and not write to it.<br><br><b>Example:</b><br> /chmode USER</td></tr>
+<tr class='weakcell'><td>/chmode <i>GUILD</i></td><td>Guild Mode, only members of your guild can access the channel. In addition anyone added using /chuser or /chvoice can access the channel too.<br><br><b>Example:</b><br> /chmode GUILD</td></tr>
+<tr class='weakcell'><td>/chmode <i>SERVER</i></td><td>Server Mode, only people on the same server as the Founder (or those added using /chuser and /chvoice) can type in this channel.<br><br><b>Example:</b><br> /chmode SERVER</td></tr>
+<tr class='weakcell'><td>/chmode <i>ALLEGIANCE</i></td><td>Allegiance Mode, only people in the same allegiance as the Founder (or those added using /chuser and /chvoice) can type in this channel. If the founder changes allegiance then he/she will need to type /chmode ALLEGIANCE to have the new allegiance value updated.<br><br><b>Example:</b><br> /chmode ALLEGIANCE</td></tr>
+</table>
+
+<br><br>
+The general chat rules apply to the Shoutbox, and at all times you are bound by the TOS you agreed to when making a game account.<br><br>
+<b>If you abuse the shoutbox you may end up being banned from it, or in the very worst cases getting your account banned!</b>
+
+<!- TEMPLATE END --></td><td background="images/right.gif" width="11" style="background-repeat: repeat-y; background-position: right"></td></tr><tr height=11 valign=bottom><td colspan=5><table background="images/bottom.gif" width="100%" cellpadding="0" cellspacing="0" style="background-repeat: repeat-x; background-position: bottom" height="11"><td><img src="images/blc.gif"></td><td width="100%" colspan=3></td><td align=right><img src="images/brc.gif"></td></tr></table></td></tr></table></td></tr></table></BODY></HTML>
