@@ -18,20 +18,20 @@ Skill gain through skill use
 
 ## Advanced Crafting Systems 
 
-- Alchemy 
-- Blacksmithing 
-- Carpentry 
-- Construction 
-- Cooking 
-- Dungeon Mastery 
-- Furnishing 
-- Inscription 
-- Leatherworking 
+- Alchemy
+- Blacksmithing
+- Carpentry
+- Construction
+- Cooking
+- Dungeon Mastery
+- Furnishing
+- Inscription
+- Leatherworking
 - Patchcrafting (Expansion pack)
-- Stonemasonry 
-- Tailoring 
-- Tinkering 
-- Traps (Profession Specific) 
+- Stonemasonry
+- Tailoring
+- Tinkering
+- Traps (Profession Specific)
 
 ## Up to 12 maps for a total of 120,000 tiles to explore 
 
