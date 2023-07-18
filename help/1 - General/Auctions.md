@@ -1,3 +1,5 @@
+---
+---
 Players without the time and energy to setup a shop or with special items that are best sold in a more traditional bidding environment can make auctions.
 
 An auction is a way for a player to list an item, and to allow multiple players to bid on the item with the highest bidder winning the item as such it is best used with more valuable items and not for everyday junk as I doubt very much people will go crazy trying to outbid each other on a Balsa staff, you should remember this when trying to make auctions.

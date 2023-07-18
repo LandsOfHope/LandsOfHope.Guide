@@ -1,3 +1,5 @@
+---
+---
 there are a few ways to do this, I\`ll cover as many as I can without trying to bog you down with stuff.
 
 1) Do dungeons with monsters at a level equal to the deconstruction skill you have /5 ie if deconstruction is at 25 you need level 5 or below as they will have the items you can dismantle and lower.

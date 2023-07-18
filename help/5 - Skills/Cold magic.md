@@ -1,3 +1,5 @@
+---
+---
 The **Cold Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the cold line of magic.
 
 The following playable classes get the cold magic skill:

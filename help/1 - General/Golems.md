@@ -1,3 +1,5 @@
+---
+---
 There are two types of Golems.  One type is a magical creature that spawns around level 260 and can be tamed using the Ethereal Trappings skill.  The second type is a craftable pet used by the Animator profession line.  This topic describes the second type.
 
 **What are Golems?  

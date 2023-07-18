@@ -1,3 +1,5 @@
+---
+---
 As a player of Lands of Hope you hold the destiny of the game in your hands, I can only do so much with regards posting our site links and information on various sites but you guys really have the power to make the game more than it is by getting new people to play above and beyond what I can do.
 
 I have listed the game on a number of sites, some of which are no longer actively updated so it becomes quite difficult to make news posts for those sites, so I am always on the look out for new places to submit the game to.

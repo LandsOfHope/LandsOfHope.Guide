@@ -1,3 +1,5 @@
+---
+---
 If you are performing a gathering or crafting action you may require a tool, these tools are essential and are easy to obtain in one of two ways:
 
 *   Buy the tool from a General Store

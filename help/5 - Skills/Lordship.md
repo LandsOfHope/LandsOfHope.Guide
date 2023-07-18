@@ -1,3 +1,5 @@
+---
+---
 The **Lordship** skill is a class skill gained by the Shogun and consists of one part crafting, one part strategy and one part world domination.
 
 With this skill a Shogun is able to obtain a Smallholding (special Lordship building, additional types may be added at a later date). The Shogun is responsible for making sure their Smallholdings are well maintained and kept in a good state of repair, every week during Sunday Maintenance the state of the Shoguns smallholdings is assessed and a tax given to the Shogun.

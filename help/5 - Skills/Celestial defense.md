@@ -1,3 +1,5 @@
+---
+---
 The **Celestial defense** skill enables you to defend more easily against attacks and magical spells from the following skills:
 
 *   CELESTIAL WEAPONS

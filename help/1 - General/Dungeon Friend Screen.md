@@ -1,3 +1,5 @@
+---
+---
 The dungeon friend screen is used to set a list of people who are NOT allowed access to a dungeon or room.
 
 This screen can be accessed either via the friend button found at the bottom of the screen when inside a dungeon room.

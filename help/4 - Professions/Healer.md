@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth**  
 The Healer combines some magical offensive capabilities with defensive and healing effects, while their offensive spells will never be as good as the Caster profession they have much more varied abilities including self health buffs and drain spells. The HEALING MAGIC spell line is a healers primary skill while they can use weapons it is ill advised except as a last resort.
 

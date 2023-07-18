@@ -1,3 +1,5 @@
+---
+---
 **Charms and Hexes** is a special class skill it has both crafting and magical uses, this means keeping it raised should be relatively easy as you can gain skill gains from magic casting or from crafting items.
 
 The Enchantress (50) evolution from the Hag class gains this skill.

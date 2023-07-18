@@ -1,3 +1,5 @@
+---
+---
 Part of the new PvP system has been added. The new PvP switch to turn PvP on and off is now in, and has been made so it will work on both TG and HG before the merge completes so people on TG can now PvP other people on TG ... both people need the PvP flag turned on.
 
 To turn PvP on for yourself so you can PvP others with it turned on type /pvp into chat, this will turn it on if it is off or turn it off if it is on (with a limitation to prevent someone turning it off immediately).

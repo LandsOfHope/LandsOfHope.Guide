@@ -1,3 +1,5 @@
+---
+---
 The renovate delete screen allows you to delete rooms that you no longer wish to have in your building.
 
 ![](http://www.forlornonline.com/images/rennovatedelete.jpg)

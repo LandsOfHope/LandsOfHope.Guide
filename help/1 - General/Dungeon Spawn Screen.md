@@ -1,3 +1,5 @@
+---
+---
 The dungeon spawn screen is used to set the monsters that can spawn in a room in a dungeon. See the multi-spawn page for information on setting spawns for several rooms at once.
 
 [![](https://lohcdn.com/images/t_dungeonspawns.jpg)](https://lohcdn.com/images/dungeonspawns.jpg)

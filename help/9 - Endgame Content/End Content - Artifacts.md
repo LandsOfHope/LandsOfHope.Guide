@@ -1,3 +1,5 @@
+---
+---
 Before the time of Legends, there lived a proud race of people who were skilled in the crafting of items, weapons and armor.
 
 The Arterians as they were known, were few in number and usually lived in isolated settlements as such the rarity and workmanship of Arterian items were second to none and widely sought after.

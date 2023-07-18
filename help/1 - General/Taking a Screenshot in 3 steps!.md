@@ -1,3 +1,5 @@
+---
+---
 With the game window up and active press the Alt + Print Screen button on your keyboard, this will take a screen capture of the active window (our game window in this case) and copy it to clipboard.
 
 Next up open MS Paint, (Start > Programs > Accessories > Paint)  or any graphic package, after creating a new document via File > New or similar go to the Edit > Paste menu and it will paste your clipboard into the picture.

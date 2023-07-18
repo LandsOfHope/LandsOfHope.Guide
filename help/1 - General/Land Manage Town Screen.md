@@ -1,3 +1,5 @@
+---
+---
 The Manage Town screen can be accessed by clicking the Town button at the bottom of the screen when standing on a tile you own.
 
 [![](https://lohcdn.com/images/t_landmanage.jpg)](https://lohcdn.com/images/landmanage.jpg)

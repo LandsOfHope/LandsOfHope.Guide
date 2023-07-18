@@ -1,3 +1,5 @@
+---
+---
 The **Drain resistance** is a passive skill used to help resist the effects of magic spells in the following magic lines:
 
 *   HEALING MAGIC

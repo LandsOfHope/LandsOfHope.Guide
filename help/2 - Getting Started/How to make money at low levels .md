@@ -1,3 +1,5 @@
+---
+---
 Currency it makes the world go round and you probably want more of it everybody does well here I am to tell you how to get it.
 
 When you start the game the easiest way to gain money is to kill and loot humanoid monsters these can be found in various locations around Myzan such as tile 27,54 simply kill the monster then loot the corpse remember to dispose of the body so a new spawn appears, Keep repeating this process until your inventory is full. Next head to town at 31,59 and sell the loot to the healer.

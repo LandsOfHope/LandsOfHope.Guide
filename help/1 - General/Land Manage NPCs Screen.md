@@ -1,3 +1,5 @@
+---
+---
 The Manage NPCs screen is used to add/delete and edit NPCs that you have placed on the selected tile by clicking the NPC button at the bottom of the screen when standing on a tile you own.
 
 The same screen (or very similar) can also be accessed via the Edit NPCs button on the Manage Buildings screen but allows you to edit NPCs inside buildings on the tile you own rather than on the tile itself.

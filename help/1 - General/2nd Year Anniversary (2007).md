@@ -1,3 +1,5 @@
+---
+---
 Around 5am (ET) on the 25th of July 2007 a gift box will be given to each character deemed active within the last 25days (the month of July).
 
 The box will contain one random item from the following list:

@@ -1,3 +1,5 @@
+---
+---
 The **Transmigration** skill is used to release trapped spirits from soul gems. Transmigration is a class skill available to the Shaman class it may or may not be available to other classes via item bonuses.
 
 Releasing a spirit from a soul gem causes a new monster to spawn which can then be killed.

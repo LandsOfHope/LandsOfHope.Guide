@@ -1,3 +1,5 @@
+---
+---
 Guild fame is something that individuals acquire for the guild they are in, because of this you have to be in a guild to earn guild fame.
 
 Guild fame is currently earnt through completing guild quests, there are various NPCs dotted throughout each land is at least one Guild Quest NPC, these NPCs hand out quests based on your current fame level.

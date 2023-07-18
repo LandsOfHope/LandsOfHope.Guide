@@ -1,3 +1,5 @@
+---
+---
 In most areas, equipment upgrades can be done rather infrequently, as the enemies do not pose much of a problem.  At lower levels, the bonuses offered are very small, so upgrading every 5 levels may not be necessary or cost-effective, so it may only be necessary to upgrade every 20-25 levels.  At higher levels, enemies pose more of a threat, so upgrading every 10 levels may be necessary at times.
 
 In special areas, like the Challenge Realm and Jurassic Wars, monsters continue to get stronger based on your level, and not necessarily the equipment you have on.  Therefore, it may be necessary to upgrade at every opportunity.

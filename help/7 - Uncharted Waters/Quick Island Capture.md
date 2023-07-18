@@ -1,3 +1,5 @@
+---
+---
 **Island Capture Purpose**  
 The point of Island capturing is to gain access to key resources, NPCs and eventually Paradise Island in the middle of the map.
 

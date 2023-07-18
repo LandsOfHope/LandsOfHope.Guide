@@ -1,3 +1,5 @@
+---
+---
 Equipping items is done through the Inventory > Equipment screen, no other screen can be used to equip items.
 
 [![](https://lohcdn.com/images/t_equip.jpg)](https://lohcdn.com/images/equip.jpg)

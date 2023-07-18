@@ -1,3 +1,5 @@
+---
+---
 The **Transformation** skill is a special skill that the Hermit class starts with. It is special simply because it is not trainable or raisable and only the Hermit (and subsequent evolutions) can use it.
 
 The skill is very similar to the disguise skill that other classes get except it lets the Hermit transform into one of the Jurassic Wars races. _Along with special transformation bonus._

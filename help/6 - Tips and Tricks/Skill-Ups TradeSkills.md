@@ -1,3 +1,5 @@
+---
+---
 When Mining and using Equipment that boost the Skill level of a Trade skill, such as geology.  
 You must make your Level match up to that which you want to gain skill from.  
   

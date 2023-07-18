@@ -1,3 +1,5 @@
+---
+---
 There are five control crystals in the Dark Depths, two of them can be obtained from the Underfjord the other three kinds are gained as a bonus from purchasing the pack (you get one free crystal) or from a level 1000 Dark Depths quest or as a bought extra from File > Buy Items > Amazing Items.
 
 Lets deal with the two easy to obtain ones:

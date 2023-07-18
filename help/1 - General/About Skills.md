@@ -1,3 +1,5 @@
+---
+---
 Probably 50% of the 130+ skills are profession based, which means unless you are that profession you wont get some skills, other than that you could if you wish learn every skill that is learnable and raise them all ... although the more skills you have that require time to raise the harder it is to keep them all maxxed simply because you gain xp from the skills like crafting so you find you level up faster
 
 There are some skills like Gathering / Crafting and a few other misc. ones that can be bought from a trainer, everyone can buy them from the trainer so they are available to all.

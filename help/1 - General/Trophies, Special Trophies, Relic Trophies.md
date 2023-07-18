@@ -1,3 +1,5 @@
+---
+---
 There are three types of trophies in the game:
 
 *   Ordinary Trophy, these are gained through killing specific monsters i.e. kill skeletons to get bones. These trophy items are typically used in trophy quests to gain a special reward, you can review the trophjy quests via the Library > Quests > Trophy screen.

@@ -1,3 +1,5 @@
+---
+---
 You can trade to pets directly using the standard trade system. This system can be accessed in one of two ways:
 
 *   Mouse over a pet and choose the trade button in the center of the screen.

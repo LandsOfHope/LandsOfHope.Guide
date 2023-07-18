@@ -1,3 +1,5 @@
+---
+---
 Players who need a lot of an specific item and are not particularly interested in getting it themselves or simply players who would rather outsource the gathering process to others and let them earn some coin in the process can setup Jobs.
 
 A job is a way for a player to make a specific "wanted" listed for an item(s)  and then have other players come along and fill the job, this nets the player that made the job the items they wanted and lets the person filling the job get some extra money.

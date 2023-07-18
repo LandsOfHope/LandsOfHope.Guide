@@ -1,3 +1,5 @@
+---
+---
 Updated due to recent screen changes. 
 
 1.   Log into the character you wish to have receive the goods. For more convenient trading I recommend moving to a tile out in the sticks, remember the coordinates if you do move.

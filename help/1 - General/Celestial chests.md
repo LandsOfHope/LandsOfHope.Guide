@@ -1,3 +1,5 @@
+---
+---
 Note: Stargazer and later professions only ...
 
 Timmy Tinkinton (33, 58 KV) is an odd ball who collects all kinds of things that fall from the sky, his wife is a little annoyed with his growing collection and has given him an ultimatum either he gets rid of his collection or she leaves him!

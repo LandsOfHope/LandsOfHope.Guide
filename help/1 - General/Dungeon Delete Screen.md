@@ -1,3 +1,5 @@
+---
+---
 The dungeon delete screen allows you to delete rooms that you no longer wish to have in your dungeon.
 
 ![](http://www.forlornonline.com/images/dungeondelete.jpg)

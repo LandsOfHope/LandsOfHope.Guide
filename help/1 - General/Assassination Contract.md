@@ -1,3 +1,5 @@
+---
+---
 An Assassination Contract is a way for a player to make another player a hunted target, a contract makes that person more attractive as someone a Hunter would wish to capture.
 
 Only criminals/players with an existing bounty (or people with PvP enabled) can have an Assassination contract, to put a contract out on someone go to an Assassin for Hire, there is one in Springade at 32, 58 inside Crins Den (exploration may be required). Interacting with the NPC will let you search for the person to place the contract on and allow you to specifiy the amount of money you wish to place, there is a 10% fee for placing a contract.

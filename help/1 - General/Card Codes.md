@@ -1,3 +1,5 @@
+---
+---
 The common and rare card codes found in this game can be used in the new card game that Decius (the maker of this game) released late in January 2009.
 
 These codes have one use and you can choose to keep them for yourself or sell them to other players.

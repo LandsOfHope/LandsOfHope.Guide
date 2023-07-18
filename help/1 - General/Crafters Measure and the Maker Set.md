@@ -1,3 +1,5 @@
+---
+---
 There is now a new drop only Artisan crafting plan  for 5000 Artisan skill called "Crafters Measure" it allows you to make a Trophy item called the same, requiring 10 planks and 10 cut gems.
 
 There is an NPC inside Historian Elwicks house in the Royal Hollow who will take said Crafters Measure and will need approximately 200 crafters measures in return the NPC will give you a piece of the Makers set of clothing.

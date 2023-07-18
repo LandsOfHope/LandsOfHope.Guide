@@ -1,3 +1,5 @@
+---
+---
 **Traders Alliance**  
 The Traders Alliance is a very large organisation that pretty much controls all of the trades and shops in Myzan, there are a few independant owners but generally all of the traders sell Traders Alliance merchandise and give a cut of their profits back to the Traders Alliance. They have numerous offices and banks throughout Myzan and there are rumors that the Traders Alliance have been supplying both sides of the Exiles/Society war.
 

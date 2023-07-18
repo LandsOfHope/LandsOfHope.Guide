@@ -1,3 +1,5 @@
+---
+---
 If you want to level a tradeskill quickly a good method is to get Deconstruction skill, or Grabthars Hammer bought extra, and make anything in that tradeskill that requires 1 material and as soon as you finish your quote Deconstruct what you made to get all your materials back. This also works to get materials quickly as you can purchase items from towns and Deconstruct them to get the materials they may hold. This is a very easy method but can be expensive and time-consuming.
 
 For ingots: Go to a Mail Armor Shop or a Plate Armor Shop and purchase alot of the armor and Deconstruct. You should get 1-25 ingots each time.

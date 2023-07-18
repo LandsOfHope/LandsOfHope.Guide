@@ -1,3 +1,5 @@
+---
+---
 Factions are a way for players to align themselves with organizations or groups in the game outside of their normal allegiance.
 
 Factions are usually part of an event such as the Halloween or Challenge events, and work similarly to allegiances in that once you have chosen a faction for a specific event you are bound to that faction on that character with no way to change.

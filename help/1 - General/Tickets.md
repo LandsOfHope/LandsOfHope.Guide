@@ -1,3 +1,5 @@
+---
+---
 **Golden Tickets**  
 Golden tickets can be bought from an NPC at 32, 62 KV. They cost 5pp each and can be bought singularly, in batches of five or ten.
 

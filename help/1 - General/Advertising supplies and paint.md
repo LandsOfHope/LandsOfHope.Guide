@@ -1,3 +1,5 @@
+---
+---
 There is now a way to get your listings on the marketeer to show up differently to draw attention to your items for sale.
 
 You can either buy Advertising supplies using real money/hc (File > Buy Extras > Amazing Items) or Advertising paint using ingame money (10pp).

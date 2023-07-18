@@ -1,1 +1,3 @@
+---
+---
 You should all visit the forums : [http://www.fho2.com/forums/](`http://www.fho2.com/forums/`) or Via Help > Forums ... You will need to make a forum account if you havent done so already to post properly in them but you should be able to read most of the posts.

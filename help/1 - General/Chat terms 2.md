@@ -1,3 +1,5 @@
+---
+---
 THE GAME  
 GM=Game Master.  The people who made the game.  Decius and Tekka are the only Game masters.
 

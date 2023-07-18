@@ -1,3 +1,5 @@
+---
+---
 The **Terror** skill is a special skill that was added as an interesting effect for combat.
 
 It allows you to scare your opponent during combat, there are a variety of effects you can execute in combat from scaring your opponent into paralysis, to dropping a weapon or losing stamina or mana.

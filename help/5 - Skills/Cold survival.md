@@ -1,3 +1,5 @@
+---
+---
 The **Cold Survival** skill is used passively it allows you to access surfaces and areas that might otherwise be inaccessible due to extreme temperatures.
 
 Cold survival is used to access tiles that are very cold, such as ice or snow tiles. Someone without the proper training could easily freeze to death or not recognise the dangers such as avalanches and snow holes without this skill so that is why it is required.

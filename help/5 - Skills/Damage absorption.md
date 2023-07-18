@@ -1,3 +1,5 @@
+---
+---
 The **Damage Absorption** skill allows you to block an amount of damage equal to your skill bonus. It is mainly available as shield type spell effects with a temporary duration but certain rare items do exist with it as a bonus effect.
 
 **Skill Use**  

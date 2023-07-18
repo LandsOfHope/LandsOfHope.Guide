@@ -1,3 +1,5 @@
+---
+---
 If any of you have ever done the Challenge or the JW realm, you know that in general you need to prepare for it to do well, this new realm is no different to that.
 
 The monsters in the new realm are all extremely nasty critters with much higher stats than most, perhaps even higher than the Devourer. They may also get Demonstones and once I add bosses you may end up fighting several monsters at once ... yes that is evil but you know you love me!

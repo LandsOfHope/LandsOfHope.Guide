@@ -1,3 +1,5 @@
+---
+---
 Taming is one of the many ways a player can get a pet. There are however multiple skills that allow you to tame a monster as a pet. They are predominantly class based skills, to get them naturally you must be the right class however you can find items with bonuses to them which will grant you the ability to tame.
 
 Beastmastery, this skill is gained by being an Archer that evolves into the Beastlord or Beastmaster paths, it allows you to tame Beasts such as Cows, Cats and Dogs and anything else that falls into the BEAST classification.

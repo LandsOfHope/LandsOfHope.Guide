@@ -1,3 +1,5 @@
+---
+---
 The pocket gnome is a special bought extra that allows you to remotely administer your automations without having to physically go to the location of each automation.
 
 Essentially you give orders to your pocket gnome who like a good gnome runs off and sets up the automations for you as per your instructions. You can use the automation to manage every aspect of an automation from first time placement, to harvesting and even deleting them.

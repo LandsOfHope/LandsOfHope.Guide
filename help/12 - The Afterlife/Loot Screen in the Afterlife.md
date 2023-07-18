@@ -1,3 +1,5 @@
+---
+---
 In the Afterlife the normal Loot screen has the following changes:
 
 *   Skinning - changed to Sever Spirit (gives a low chance of an Urn drop) otherwise a hide drops like normal.

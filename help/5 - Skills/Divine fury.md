@@ -1,3 +1,5 @@
+---
+---
 The **Divine fury** skill represents your ability to deal aditional damage while doing the work of your god. Divine fury is a class skill available to the Crusader class. It is a passive skill so requires no extra screens or fancy buttons, every time you take magical damage you gain more fury.
 
 The divine fury skill also has a few simple magic spells and determines what spells you can learn from the divine fury line of magic.

@@ -1,3 +1,5 @@
+---
+---
 The **Mystical Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the mystical line of magic.
 
 The following playable classes get the mystical magic skill:

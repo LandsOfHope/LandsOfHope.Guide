@@ -1,3 +1,5 @@
+---
+---
 The **Spoils of War** skill is a bonus skill the Mercenary/Gladiator class can unlock via a Skill Training Deed.
 
 This is the only way to get the skill, the skill itself is not raisable and provides a passive effect all the time once unlocked.

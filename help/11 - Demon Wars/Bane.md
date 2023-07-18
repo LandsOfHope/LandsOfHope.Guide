@@ -1,3 +1,5 @@
+---
+---
 After getting 10,000 or more race kills you can speak to an NPC in the Demon realm to gain a bane item. Bane items can be applied to weapons and can be used in addition to poison/weakness/imprints.
 
 For reaching 10,000 kills the bane item you are given will allow you to deal 5% more damage to that race when applied to your weapon.

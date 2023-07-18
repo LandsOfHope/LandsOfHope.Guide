@@ -1,3 +1,5 @@
+---
+---
 As you journey around Myzan you will collect countless amounts of items the vast majority of these will probably only be useful for selling to an NPC but some of them may be important or worthy of keeping.
 
 If you do decide to keep an item there are a number of ways you can store it to keep it safe.

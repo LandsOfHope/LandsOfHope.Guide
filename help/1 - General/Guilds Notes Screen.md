@@ -1,3 +1,5 @@
+---
+---
 You can use the notes screen to review logs and notices relating to your guild.
 
 The notes screen includes information on the following:

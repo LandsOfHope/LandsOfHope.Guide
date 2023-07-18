@@ -1,3 +1,5 @@
+---
+---
 Lands of Hope is played almost entirely with the mouse, although using the keyboard to move and perform some actions is also supported.
 
 The main interaction window is shown below while the content of the window changes depending on what tile you are on the actual layout will not differ very much.

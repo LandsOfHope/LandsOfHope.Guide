@@ -1,3 +1,5 @@
+---
+---
 The **Poison Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the poison line of magic.
 
 _No playable classes currently get this skill although there is a quest the Druid profession can take in the Jurassic Wars expansion realm at the Druid Grotto (38, 8) to switch to a Dark Druid, gaining this skill and there is also a magic spell trainer inside the Dark Druid Grotto at the same location._

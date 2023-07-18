@@ -1,3 +1,5 @@
+---
+---
 Familiarize yourself with the different menus, especially Library and Help as most questions can be answered there. Also type /search into chat to quickly find help topics.
 
 Learn Appraisal (for identifying monsters and items) and Exploration (for revealing hidden buildings) from the skill trainer outside of Springlade and read up on their use as soon as possible.

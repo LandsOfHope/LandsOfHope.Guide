@@ -1,3 +1,5 @@
+---
+---
 The inventory screen is perhaps one of the most widely used screens in the game as it allows you to interact with items you have in your inventory.
 
 ![](http://www.forlornonline.com/images/t_inventorywindow.jpg)

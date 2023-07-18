@@ -1,3 +1,5 @@
+---
+---
 Bejeweling is a skill that is gained in the Uncharted Waters expansion pack. It can be gained only by gaining access to Utopia Town on Paradise Island.
 
 **You do not need to own the expansion pack to use a bejewel but you do need to own the expansion pack to make them. This means people with the expansion pack have a good way of making extra money by selling bejewels to other players.**

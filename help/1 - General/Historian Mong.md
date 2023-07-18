@@ -1,3 +1,5 @@
+---
+---
 Historian Mong at 53, 41 in the Royal Hollow realm offers allegiance specific game rewards ... he has gathered ancient allegiance relics but will only hand them over to someone in that allegiance who gives him a relic in trade.
 
 To get a relic you must complete one of the following level 990 dungeons in Royal Hollow.

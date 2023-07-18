@@ -1,3 +1,5 @@
+---
+---
 The Character menu contains the following items:
 
 **Info**  

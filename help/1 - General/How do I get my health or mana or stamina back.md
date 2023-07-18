@@ -1,3 +1,5 @@
+---
+---
 There are three ways to regenerate, pick your preferred method or mix and match as required.
 
 *   World > Rest, move the mouse up to the World menu then when it drops down click on Rest. You will then stand a good chance of regenerating your health/mana and stamina to full unless a random encounter prevents you. Can only be used out of combat.

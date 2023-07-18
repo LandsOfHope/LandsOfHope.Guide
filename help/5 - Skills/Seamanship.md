@@ -1,3 +1,5 @@
+---
+---
 The **Seamanship** skill is a crafting skill that both the League and Navy privateers start with.
 
 **Plan Trainers**  

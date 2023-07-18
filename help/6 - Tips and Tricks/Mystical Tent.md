@@ -1,3 +1,5 @@
+---
+---
 The Mystical Tent bought extra can be used from your Inventory or via the Shortcut system, it allows you to rest anywhere and also provides a buff to your Mana, Health and Stamina regeneration allowing you to regenerate in combat.
 
 Tent Bonuses:

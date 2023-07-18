@@ -1,3 +1,5 @@
+---
+---
 The Battlefield has long been a place for a man or woman to prove themselves as such the Myzan Battlefield is an area of contested land that is fought over more vigorously than all of the other lands.
 
 While the Reaper war is nothing but a few years old, the battlefield was the site of an ancient conflict perhaps going as far back as the Legends of Myzan, many great battles have been fought there since and many more shall be fought there in the times to pass.

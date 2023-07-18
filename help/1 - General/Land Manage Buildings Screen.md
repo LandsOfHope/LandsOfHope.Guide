@@ -1,3 +1,5 @@
+---
+---
 The manage buildings screen is used to manage the buildings that are currently on your tile. You can access this screen by clicking the Buildings button at the bottom of the screen when standing on your tile.
 
 [![](https://lohcdn.com/images/t_landetb.jpg)](https://lohcdn.com/images/landetb.jpg)

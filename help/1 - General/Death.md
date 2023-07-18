@@ -1,3 +1,5 @@
+---
+---
 Death is not permanent nor overly harmful it was never intended to be so either. I realise to many this style of game is hard to grasp and some people may die countless times in the pursuit of learning to play so I did not want to overly penalise players and risk losing players simply because they didnt grasp the basics from an early level.
 
 When you die your mini-map screen will turn to grayscale or as some people refer to it black and white. There is nothing wrong with your computer when that happens it is merely intended to demonstrate you are dead and walking around as a ghost.

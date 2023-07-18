@@ -1,3 +1,5 @@
+---
+---
 To add another character as a friend in the game go to the Character > Friends screen, click on the Add Friend button at the bottom of the screen.
 
 You will then be presented with a search screen to find the person you wish to add to your friends list.

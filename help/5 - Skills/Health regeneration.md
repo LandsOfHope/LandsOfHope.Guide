@@ -1,3 +1,5 @@
+---
+---
 The **Health Regeneration** skill is used to determine how quickly you regenerate lost health during combat.
 
 Regeneration occurs once per round.

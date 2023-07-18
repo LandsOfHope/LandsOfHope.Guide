@@ -1,3 +1,5 @@
+---
+---
 The **Dark Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the dark line of magic.
 
 The following playable classes get the dark magic skill:

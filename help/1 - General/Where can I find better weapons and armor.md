@@ -1,3 +1,5 @@
+---
+---
 As you gain experience and increase in level, you will find that your equipment may no longer be strong enough to quickly kill your enemies and protect you from harm.  There are several ways to obtain new equipment:
 
 **1\. Check the local towns.**

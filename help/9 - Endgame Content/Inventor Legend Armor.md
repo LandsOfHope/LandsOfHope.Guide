@@ -1,3 +1,5 @@
+---
+---
 Apparently two brand new Legends have mysteriously appeared out of nowhere into Elwick\`s history books ... gotta love magic!
 
 Legend speaks of a Tinman, as tall as ten men and as strong as an Army. Elwick believes he has found the Tinman\`s armor.

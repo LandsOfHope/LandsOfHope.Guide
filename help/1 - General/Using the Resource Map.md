@@ -1,3 +1,5 @@
+---
+---
 The Resource map has been replaced with the Resources tab.
 
 The resources tab is a pretty looking button on the right side of the screen below your character information.

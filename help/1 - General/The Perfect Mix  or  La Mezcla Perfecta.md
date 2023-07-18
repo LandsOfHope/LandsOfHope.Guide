@@ -1,3 +1,5 @@
+---
+---
 If you neded money and level, do this, i discovered it 2 years ago.
 
 1\. Get Tailoring, Bandages Plan and Farming

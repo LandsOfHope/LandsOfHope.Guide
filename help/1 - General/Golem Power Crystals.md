@@ -1,3 +1,5 @@
+---
+---
 When making a golem the power crystal you use determines the skills and weapons the pet gains, so you need to understand the differences between them, please use this guide to help you with that.
 
 *   Blizzard

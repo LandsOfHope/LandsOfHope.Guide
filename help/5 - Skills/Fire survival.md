@@ -1,3 +1,5 @@
+---
+---
 The **Fire Survival** skill is used passively it allows you to access surfaces and areas that might otherwise be inaccessible due to extreme temperatures.
 
 Fire survival is used to access tiles that are very warm, such as fire or lava tiles. Someone without the proper training could easily burn to death or not recognise the dangers such as flashfires and eruptions without this skill so that is why it is required.

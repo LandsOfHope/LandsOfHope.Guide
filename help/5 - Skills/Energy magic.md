@@ -1,3 +1,5 @@
+---
+---
 The **Energy Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the energy line of magic.
 
 The following playable classes get the energy magic skill:

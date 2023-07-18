@@ -1,3 +1,5 @@
+---
+---
 So you want some cool armor or weapons or maybe want to live in something better than a tent. Trouble is you don't have the skill or plans to make the cool stuff you want. So where do you get it? The craft marketeer of course.
 
 What exactly is the craft marketeer? Basically it's a way you  can get any player who has the necessary skill to make an item for you - whether they are online or not. All you have to do is provide the materials at the level you want the item made.

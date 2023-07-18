@@ -1,3 +1,5 @@
+---
+---
 The dungeon portal screen allows you to place a one way portal between two rooms of your dungeon. A room may only have one dungeon portal in it but you are free to place as many portals as you wish throughout your dungeon.
 
 ![](http://www.forlornonline.com/images/dungeonportal.jpg)

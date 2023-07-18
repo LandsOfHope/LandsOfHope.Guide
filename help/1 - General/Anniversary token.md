@@ -1,3 +1,5 @@
+---
+---
 Added in 2010 the Anniversary token is a loot drop from monsters both inside and outside of dungeons.
 
 This token has a 1 in 3 chance of dropping and will only drop during the month of July.

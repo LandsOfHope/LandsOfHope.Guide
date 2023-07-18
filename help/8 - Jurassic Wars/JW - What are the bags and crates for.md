@@ -1,3 +1,5 @@
+---
+---
 Bags and Crates are items the big chief, Commander Eversight or CE to his buddies wants you to return.
 
 The camp has been hit by animal attacks several times and each time they lose more and more supplies, also caravans bringing new supplies are hit on a regular basis and monsters seem to take curious pride in guarding the bags and crates in a fashion that prevents them from being easily recovered.

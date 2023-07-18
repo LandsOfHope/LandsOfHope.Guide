@@ -1,3 +1,5 @@
+---
+---
 The **Stealing** skill is used to steal from players and monsters, Stealing is a class skill that the Pickpocket and Bard evolutions from the Rogue profession obtain.
 
 _You can also gain the use of Stealing from items that provide it as a bonus.  

@@ -1,3 +1,5 @@
+---
+---
 Gaining fame for your faction in Uncharted Waters is relatively easy, you can get fame in the following ways:
 
 1.  Defeating vessels.

@@ -1,3 +1,5 @@
+---
+---
 The **Portal Mastery** skill is a class skill that the Caster profession starts with. It allows you to craft magical portalstones that are bound to a specific location or place on a map. These portalstones can then be used to create temporary portals that last for a few minutes and let anyone on the current tile access the place the portal is bound to.
 
 **Skill Use**  

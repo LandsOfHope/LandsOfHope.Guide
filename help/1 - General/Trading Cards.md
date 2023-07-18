@@ -1,3 +1,5 @@
+---
+---
 Trading cards are for players to collect there are over 125 trading cards currently in the game, they come in the following flavors.
 
 *   Common

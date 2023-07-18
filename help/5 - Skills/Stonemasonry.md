@@ -1,3 +1,5 @@
+---
+---
 The **Stonemasonry** skill is a crafting skill that anyone can learn by speaking to the stonemasonry skill trainer.
 
 **Skill Trainer Location  

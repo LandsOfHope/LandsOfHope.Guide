@@ -1,3 +1,5 @@
+---
+---
 After reaching level 1000, a new realm will be unlocked called the "Eternal Plains" this realm contains much harder monsters but better experience gains.
 
 The realm is split vertically with the top half of the map being lands controlled by the Irellians (a race of human like beings that evolved wings) and the bottom half being controlled by the Subterrans (a race of beings that spend much of their time underground) ... there is a small band along the center of the map which is controlled by the Arterians (the artifact builders who vanished from the normal realms many moons ago).

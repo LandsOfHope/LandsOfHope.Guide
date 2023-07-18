@@ -1,3 +1,5 @@
+---
+---
 Bags are an excellent way to both organize your inventory and increase the amount of items you can carry.
 
 You can buy small bags from general store NPCs while larger bags can be crafted with the tailoring skill and special bags can be acquired from questing.

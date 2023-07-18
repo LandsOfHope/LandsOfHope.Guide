@@ -1,3 +1,5 @@
+---
+---
 Once a day between Noon and Midnight (starting tomorrow) there will be a random event, one lucky player who has 5000 or more kills in any race will be chosen and the race of monsters he/she killed will gang up and decide to reap their revenge upon thee!
 
 A dungeon will spawn packed with harder versions of that race and a boss to kill, it is a relatively small dungeon and the boss will drop a trophy item that is obviously ultra rare as it will potentially only be available once a day.

@@ -1,3 +1,5 @@
+---
+---
 The **Track Beasts** skill provides the means to track monsters or players classed as beasts. This skill is a class skill that Hunters and Trackers acquire (Archer Evolution line) you can also use it by gaining items with bonuses to the skill.
 
 To track beasts after getting this skill use the World > Track > Beasts screen.  

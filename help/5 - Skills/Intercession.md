@@ -1,3 +1,5 @@
+---
+---
 The **Intercession** skill is a class only skill that is gained from the Priest profession. With this skill a priest is able to intercede on behalf of the recently departed and aid them in reaching whatever plane of existence they might believe in after death.
 
 As a reward for performing good deeds the priest receives a special temporary buff.

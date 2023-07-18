@@ -1,3 +1,5 @@
+---
+---
 Automations allow you to gather resources and produce certain items even while you are not around, there are a few different automations and they come in two parts.
 
 **Part One**  

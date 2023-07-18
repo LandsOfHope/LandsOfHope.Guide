@@ -1,3 +1,5 @@
+---
+---
 **Debuffs in combat**  
 From now on when you cast a debuff on something in combat it will only be possible to get the debuffed skill into the negatives from one cast, subsequent casts of a debuff spell while a skill is in negatives will not yield any benefits.
 

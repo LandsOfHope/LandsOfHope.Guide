@@ -1,3 +1,5 @@
+---
+---
 The **Skinning** skill alllows you to gather hide resources from monsters you have killed. The can be learnt by anyone by speaking to the skinning skill trainer although to use it you have to be capable of killing monsters.
 
 **Skill Trainer Location  

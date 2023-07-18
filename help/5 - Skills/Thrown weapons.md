@@ -1,3 +1,5 @@
+---
+---
 The **Thrown Weapons** skill is a weapon skill. It is a skill that the following playable classes get:
 
 *   Abbot

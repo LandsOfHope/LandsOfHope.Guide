@@ -1,3 +1,5 @@
+---
+---
 The **Deception** skill is a class skill that allows you to turn an identified item into an un-identified item. This allows players to raise appraisal skill from a couple of items or simply to try to raise some extra money by fooling someone into buying unidentified items that turn out to be junk.
 
 This skill is available to the following classes:

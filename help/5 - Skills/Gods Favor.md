@@ -1,3 +1,5 @@
+---
+---
 The **Gods Favor** skill is a starting skill of the Mercenary free to play class.
 
 This skill is a faction skill that is gauge of your devotion to the gods, as you make Gladiator kills you stand a chance of gaining a point of Gods Favor skill. You may also get Gods Favor from completing some quests but this is not guaranteed.

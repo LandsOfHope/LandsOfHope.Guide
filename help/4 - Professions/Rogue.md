@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth Leather**  
 The Rogue class is kind of a cross between a Fighter and an Archer, the rogue has a more restricted choice of weapons to that of a fighter as they are able to choose:
 

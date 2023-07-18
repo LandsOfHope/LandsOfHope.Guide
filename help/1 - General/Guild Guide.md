@@ -1,3 +1,5 @@
+---
+---
 This guide is intended to explain what a guild is, as a guild is such a common term used in every RPG ever made since before humans evolved out of primordial sludge (or were put on the earth by our maker) I had assumed this topic was not necessary but it seems that it is better to write it and have it than to not write it and need it so here goes.
 
 Essentially a guild is a collection of players/people with like minded beliefs/views and a common thread joining them together.

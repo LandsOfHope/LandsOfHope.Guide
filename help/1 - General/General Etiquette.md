@@ -1,3 +1,5 @@
+---
+---
 The following are guidelines that if everyone followed would make for a more enjoyable experience for all.
 
 *   After killing a monster destroy the corpse, if you do not destroy the corpse it will linger on the tile for a few minutes and prevent new monsters from spawning. This means people entering the tile behind you will get annoyed that you are not clearing your kills. You can destroy the corpse in any of the following ways:

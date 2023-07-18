@@ -1,3 +1,5 @@
+---
+---
 The **Patchcrafting** skill is a crafting skill that can be learnt only by those people that have purchased the Jurassic Wars expansion pack. Seek out the trainer in Juratania at 43, 71.
 
 This skill allows you to craft special patches that can be fitted to existing items and weapons to increase the effects and bonuses the items provide.

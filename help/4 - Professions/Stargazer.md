@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth**  
 The Stargazer is a hybrid class with equal abilities in both magic and melee, although the class sacrifices high armor in favor of this benefit. As with the caster profession the Stargazer is limited to the Cloth line of armor. This class is the only playable class that gets CELESTIAL WEAPONS and CELESTIAL MAGIC and can also use meteorites.
 

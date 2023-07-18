@@ -1,3 +1,5 @@
+---
+---
 The Manage Items screen is used to add and remove items on your land tiles.
 
 [![](https://lohcdn.com/images/t_townitems.jpg)](https://lohcdn.com/images/townitems.jpg)

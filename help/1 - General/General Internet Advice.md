@@ -1,3 +1,5 @@
+---
+---
 The internet is in someways like a minefield, every person you meet on the internet could be a potential friend or someone who will leave a hole in your life through deceipt and lies.
 
 I am sure you have all heard stories of how people lie on the internet?

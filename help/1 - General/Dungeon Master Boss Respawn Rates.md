@@ -1,3 +1,5 @@
+---
+---
 These are the default respawn times for bosses in dungeon master boss rooms.
 
 *   Elf, 30mins

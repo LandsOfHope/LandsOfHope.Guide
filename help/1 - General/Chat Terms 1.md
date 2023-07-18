@@ -1,3 +1,5 @@
+---
+---
 This is a simple (and likely incomplete) guide to a few of the phrases and terms used in the global shoutbox in LoH. If I miss any, let me know, and I\`ll try to get them added.
 
   

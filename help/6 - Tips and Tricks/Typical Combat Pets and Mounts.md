@@ -1,3 +1,5 @@
+---
+---
 You will always want a Woundtender to Resurrect yourself and/or your Combat pet for free, and immediately. (No more leaving dungeons to Res.) 
 
 Caster:

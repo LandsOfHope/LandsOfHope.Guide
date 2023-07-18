@@ -1,3 +1,5 @@
+---
+---
 ...continuation of [How do I get a house? (part 2 of 3)](manualnew.asp?search=714)
 
 5\. Obtain the building deed

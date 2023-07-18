@@ -1,3 +1,5 @@
+---
+---
 The cancel all button is meant to be a fast way to reset your queue, however like the individual cancel button the cancel all button will not cancel any queued items that are blue (which indicates you got a skill gain from using that item).
 
 If you use multiple crafting/gathering skills at once this may mean that clicking the cancel all button leaves an odd shaped gap in your queue where the blue items are cancelled for example.....

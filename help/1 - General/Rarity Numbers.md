@@ -1,3 +1,5 @@
+---
+---
 When you look up an item in the Library > Items screen it will often have a formula next to it. This formula contains a variable R that is not listed anywhere.
 
 R relates to the rarity of the item and is expressed as a number.

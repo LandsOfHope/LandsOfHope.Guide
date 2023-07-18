@@ -1,3 +1,5 @@
+---
+---
 The guild messages screen can be accessed via the Guilds > Messages menu. The screen is intended as the standard way for guild members to communicate with each other.
 
 It can be used for the following:

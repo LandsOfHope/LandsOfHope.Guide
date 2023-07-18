@@ -1,3 +1,5 @@
+---
+---
 The **Blood over Beauty** skill is a crafting skill that can be used by the Stitchwork class (Automotron bought extra).
 
 This skill allows you to craft both special armor like items and augments that can be fitted into such items, this line focuses on body part improvement rather than technological improvement.

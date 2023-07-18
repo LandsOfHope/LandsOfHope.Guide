@@ -1,3 +1,5 @@
+---
+---
 The **Ethereal Trappings** skill is a multi-purpose tool that serves two purposes.
 
 *   Lets you track magical monsters.

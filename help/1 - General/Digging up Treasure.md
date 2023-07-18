@@ -1,3 +1,5 @@
+---
+---
 From time to time you will come across treasure maps (more so if you are a Treasure Hunter class). These are usually gained as loot from monsters, once you kill one.
 
 Treasure maps point to a place on the world map where treasure has been hidden, to gather the treasure you need to dig it up.

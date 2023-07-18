@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth**  
 The Caster is orientated to magic and not really intended for melee combat. Casters start with the MYSTICAL MAGIC spell line as their primary offensive line and can also use stave weapons such as wands and staffs although only intended as a last resort. Casters also get an auxillary skill called Portal Mastery which can be used to craft one way portals to another square on a realm you have previously visited.
 

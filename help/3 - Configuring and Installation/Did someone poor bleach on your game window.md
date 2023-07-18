@@ -1,3 +1,5 @@
+---
+---
 This could happen if you have turned Windows high contrast mode on, which evidently turns off the background images and may affect colors.
 
 Below are instructions for turning it off and correcting the problem:

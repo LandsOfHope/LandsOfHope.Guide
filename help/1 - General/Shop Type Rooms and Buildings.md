@@ -1,3 +1,5 @@
+---
+---
 The following building entrance rooms act as a shop room allowing you to place Player Shopkeepers.
 
 Stone Shop  (3 vendors)  

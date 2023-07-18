@@ -1,3 +1,5 @@
+---
+---
 Goblin Town was added in July 2009 as part of the 4th Anniversary celebrations. Implemented into the game over the course of several weeks in "short" segments that could be completed individually or as a whole.
 
 To begin these quests go to 29, 53 and enter Goblin Town.

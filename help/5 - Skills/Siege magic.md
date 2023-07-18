@@ -1,3 +1,5 @@
+---
+---
 The **Siege Magic** skill is a special skill that is available from performing a quest in Fenwood Town (Sanydale Basin map). This skill determines what magic spells you can learn and cast in siege combat.
 
 Siege magic spells are for combat alone and can not be cast outside of combat at all.

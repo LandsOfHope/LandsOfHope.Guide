@@ -1,3 +1,5 @@
+---
+---
 When writing your idea and submitting it using the Submit idea screen I usually approve or reject an idea based on the following five criteria.
 
 1.  Be possible to code (and that means in a professional fashion)

@@ -1,3 +1,5 @@
+---
+---
 The **Dungeon Mastery** skill is a special skill that players can acquire at level 395 in the fourth realm called Lakeview. The skill allows you to make your very own Dungeons and gives you the opportunity to make experience when people fight and win or die in your dungeon potentially allowing you to gain experience 24/7 if your dungeons prove popular.
 
 NOTE To prevent abuse a Dungeon master (or any player on that account) can not gain experience or rewards from fighting in a dungeon they made. The intended use of this skill is for players to make dungeons for others not for self use ... if it did allow you to use your own it would be abusive.

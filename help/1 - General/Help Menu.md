@@ -1,3 +1,5 @@
+---
+---
 The Help menu contains the following items:
 
 **Manual**  

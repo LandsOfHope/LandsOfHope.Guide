@@ -1,3 +1,5 @@
+---
+---
 The **Animation** skill is a  special crafting skill that the Animator class starts with.
 
 **Plan Trainer Location  

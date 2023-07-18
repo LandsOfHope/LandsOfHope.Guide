@@ -1,3 +1,5 @@
+---
+---
 The **Traps** skill is a class skill that Hunters and Trackers get, it can be used to construct elaborate traps which can be placed on map tiles or inside rooms. These traps have to be disarmed before someone can pass and if the trap is triggered they may die to its effects.
 
 **Skill Use  

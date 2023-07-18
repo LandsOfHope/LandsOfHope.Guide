@@ -1,3 +1,5 @@
+---
+---
 This guide is intended as a basis for players on the estate, so the information portrayed here is specific to the estate.
 
 It is assumed before you get into fighting that you have obtained your weapons and armor, or if you are a caster you have obtained your spells. If you have not done so please do so before starting a fight as it will go a lot easier if you do.

@@ -1,3 +1,5 @@
+---
+---
 The **Warding** skill is a class magic skill. The magic skill determines what spells you can learn from the Warding line of magic.
 
 The following playable classes get the warding skill:

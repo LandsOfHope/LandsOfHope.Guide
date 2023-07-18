@@ -1,3 +1,5 @@
+---
+---
 Spirit Monsters spawn in this realm and their difficulty is based on the amount of spirits in the Lifestream.
 
 *   < 100 kills spawns Spirit monsters

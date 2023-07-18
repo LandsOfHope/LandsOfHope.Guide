@@ -1,3 +1,5 @@
+---
+---
 Okay so you did something extremely stupid like:
 
 *   Made bogus game referrals so you could cheat your way to the top of the referral system to win the 3HC prize.

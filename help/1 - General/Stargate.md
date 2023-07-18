@@ -1,3 +1,5 @@
+---
+---
 The Stargate is a new bought extra for 10USD. That allows you to link building and dungeon rooms together so you can create much better themed dungeons, or perhas a "Gateway" building to allow faster access to your dungeons.
 
 The game features a system that allows one room to automatically teleport you to another room when you try to enter it, this system is what I am using to make this all possible. This means that essentially the room you choose as the Source room to teleport to another room can not be accessed so if you place chests or other furnishings inside you will not be able to get to them.

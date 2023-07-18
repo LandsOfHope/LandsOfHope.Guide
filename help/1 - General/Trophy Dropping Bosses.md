@@ -1,3 +1,5 @@
+---
+---
 Longtalon\`s Trophy  
 "Gained from killing Long Talon at 8, 82 Knotwood Valley."
 

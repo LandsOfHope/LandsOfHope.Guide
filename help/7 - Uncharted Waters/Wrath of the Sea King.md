@@ -1,3 +1,5 @@
+---
+---
 Randomly at least once a Day the Sea King will stir the oceans into a frenzy and send Storm Fronts chasing after vessels.
 
 If your vessel can outrun the storm front using its "Vessel Speed" attribute then you will suffer no ill effects, if however your vessel is not as fortunate to out run the storm front you may find that you lose an item to the briney deep!

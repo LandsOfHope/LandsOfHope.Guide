@@ -1,3 +1,5 @@
+---
+---
 The Demonstone slot is made available once you get to Level 1000, it will not show up on your equipment screen until then.
 
 Demonstones can only be gained by completing quests for the Subterran race in the Eternal Plains realm, they are extremely powerful items that offer great new combat powers.

@@ -1,3 +1,5 @@
+---
+---
 The **Lockpicking** skill is used to open locked containers and locked rooms inside NPC dungeons. You can use it to unlock items such as Battered Chests. This skill is a class skill which Rogues start with but no other classes acquire.
 
 **Skill Use  

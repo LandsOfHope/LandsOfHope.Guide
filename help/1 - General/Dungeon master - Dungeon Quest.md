@@ -1,3 +1,5 @@
+---
+---
 \- _Added December 2008_
 
 It is now possible for Dungeon Masters to setup a single quest for use in their dungeon. The type of quest is based loosely on the trophy quest system so it is used to make item recovery type quests.

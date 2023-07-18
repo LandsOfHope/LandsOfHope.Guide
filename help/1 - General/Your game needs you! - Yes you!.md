@@ -1,3 +1,5 @@
+---
+---
 Alright so perhaps you are out of work right now, or have no income to spare which is understandable with the current economic situation.
 
 Or perhaps for that matter you think the game isnt worth spending money on, which begs the question why are you here playing it!

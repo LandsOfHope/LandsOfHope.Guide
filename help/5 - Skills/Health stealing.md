@@ -1,3 +1,5 @@
+---
+---
 The **Health stealing** skill is a class magic skill. The magic skill determines what spells you can learn from the Health stealing line of magic.
 
 _No playable classes get this skill but a number of monster classes do._

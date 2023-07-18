@@ -1,3 +1,5 @@
+---
+---
 The **Bejeweling** skill is a crafting skill that can be learnt only by those people that have purchased the Uncharted Wars expansion pack. Seek out the trainer in Paradise Island at 49, 48.
 
 This skill allows you to craft special items that can be fitted to existing items that equip to the neck, earring and finger slots.

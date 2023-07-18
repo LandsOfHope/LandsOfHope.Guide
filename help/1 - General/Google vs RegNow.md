@@ -1,3 +1,5 @@
+---
+---
 The game has now been linked to Google Checkout, this should mean the phasing out of RegNow over time as it is now redundant.
 
 RegNow was a good solution but it was something that was not really intended for the kind of service I use it for, RegNow was primarily used by software developers to sell software to people and they charge a high fee of 5USD or more per transaction, the way their fee structure works is such that on a 100USD RegNow purchase the game would only receive 84USD as profit, as you can imagine that is a large amount of money to lose out on.

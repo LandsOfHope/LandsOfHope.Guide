@@ -1,3 +1,5 @@
+---
+---
 You may get a Wurmstone or a True Dragonstone as reward from your faction, the Wurmstone turns you into a Wurm and the True Dragonstone turns you into a Dragon looking cutey!
 
 Using the Dragon form will give you a 10% chance of an Ancient dragon spirit joining you in combat, while being in Wurm or Dragon form will give you a 20% chance of a familiar joining you in combat.

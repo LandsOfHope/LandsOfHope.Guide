@@ -1,3 +1,5 @@
+---
+---
 The side that wins the challenge will receive a message via the Character > Messages screen from the leader of their faction, this message has a thank you note and also an attached item.
 
 The item is a badge that can be taken from the message and then used from your Inventory screen, once used the badge is placed into your badge/special trophy list and will show up on your File > Trophies Earned list.

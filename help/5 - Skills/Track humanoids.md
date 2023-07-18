@@ -1,3 +1,5 @@
+---
+---
 The **Track Humanoids** skill provides the means to track monsters or players classed as humanoids. This skill is a class skill that Hunters and Killer and Sharpshooters acquire (Archer/Rogue Evolution line) you can also use it by gaining items with bonuses to the skill.
 
 To track humanoids after getting this skill use the World > Track > Humanoids screen.

@@ -1,3 +1,5 @@
+---
+---
 The renovate key screen allows you to make a key to the selected room. You can then give keys to other players to allow them access to a locked room in your building.
 
 ![](http://www.forlornonline.com/images/rennovatekeys.jpg)

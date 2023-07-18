@@ -1,3 +1,5 @@
+---
+---
 Today (December 31st 2008) at 3pm ET I will be holding an Auction of Promises in the Auction channel.  
   
 **What is an Auction of Promises?**  

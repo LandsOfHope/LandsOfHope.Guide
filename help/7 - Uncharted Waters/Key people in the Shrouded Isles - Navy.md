@@ -1,3 +1,5 @@
+---
+---
  **![Admiral John Hunter](game/r/big/pirate13.gif)**
 
 **Admiral John Hunter  

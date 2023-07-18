@@ -1,3 +1,5 @@
+---
+---
 After Durgen Blackcrest stood down and his son Morgan was crowned king of Myzan, there was a short peace; it was not to last long, however. Morgan had always had a crush on Vanessa Dupris, daughter of a noble family. Now as king he took her as his wife and the couple arranged a lavish wedding.  
   
 On the day of the wedding, guests and nobles from all the lands of Myzan arrived, bringing gifts and good wishes. The wedding was a magnificent affair with clowns, acrobats, dancing bears, behemoths, jesters, sword swallowers, flamecallers, and many other performers from far away lands. Everyone had a marvelous time, not realizing that treachery was brewing. It wasn’t until later in the evening, when most of the guests had already left and the vigilance of the guards had relaxed, that things began to go fatally wrong. Suddenly, alarms sounded throughout the castle and a large armed force charged the main gate.  

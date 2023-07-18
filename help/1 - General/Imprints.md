@@ -1,3 +1,5 @@
+---
+---
 _Imprints are made with the Inscription skill and can be bought from other players, you do not need the Inscription skill to fit an Imprint._
 
 Make sure you have taken the imprint you wish to fit out of your Trade Bag if you purchased it on the Marketeer or from an Auction, the item should be in your backpack.

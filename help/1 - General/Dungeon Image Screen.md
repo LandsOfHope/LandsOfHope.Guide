@@ -1,3 +1,5 @@
+---
+---
 The dungeon image screen allows you to set the two different images a room can use.
 
 ![](http://www.forlornonline.com/images/dungeonimage1.jpg)

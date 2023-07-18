@@ -1,3 +1,5 @@
+---
+---
 The **Geology** gathering skill alllows you to gather gem resources. Gem resources are used in alchemy and may also be used in stonemasonry. Anyone can take up geology as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

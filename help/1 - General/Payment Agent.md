@@ -1,3 +1,5 @@
+---
+---
 To increase the availability for people to pay for the game, especially in the case of the children or people without access to a PayPal account or Credit/Debit cards (and permission to use it) I have appointed Dragoonus as a Payment Agent.
 
 **What does this mean?**  

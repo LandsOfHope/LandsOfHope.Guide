@@ -1,3 +1,5 @@
+---
+---
 DNS stands for Domain Name Services (or sometimes Server) it is the term given to the software/hardware that links friendly domain names such as microsoft.com to the actual server addresses 100.100.100.100, after all remembering a name is a lot easier than a chain of numbers.
 
 Generally there are a lot of DNS servers on the internet and when your computer requests a web site it looks up the name in one of these DNS services and then knows the address to use to connect to it, unfortunately as the Internet has grown some DNS servers either can not keep up with the changes or simply have a moment of hiccupidness where they associate the wrong address with a name and this may lead to some websites not being accessible to a few people while most still can use it. Usually such a problem will correct itself the next time the DNS server updates but this is not always the case.

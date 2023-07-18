@@ -1,3 +1,5 @@
+---
+---
 The **Beast Breeding** skill is a class skill that the Beastlord and Beastmaster classes gain access to (Archer evolutions). The skill is used to breed two of your **beast** pets together to make a new pet.
 
 **Skill Use**  

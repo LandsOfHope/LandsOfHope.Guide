@@ -1,3 +1,5 @@
+---
+---
 Every player can own property and land in Lands of Hope, I understand that some people are confused by these two terms so I will explain them from the point of view of the game.
 
 *   Property, a building or structure.

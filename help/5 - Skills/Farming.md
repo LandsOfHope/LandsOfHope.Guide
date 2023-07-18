@@ -1,3 +1,5 @@
+---
+---
 The **Farming** gathering skill alllows you to gather crops and fiber for creating clothing. Fiber is used by tailors to make thread in Tailoring while crops are used in Cooking. Anyone can take up the skill of Farming as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

@@ -1,3 +1,5 @@
+---
+---
 The **Marine Husbandry** gathering skill alllows you to gather resources from the ocean. Marine Husbandry can be used to gather sea food such as Clams, Lobsters and Shrimp. It is also the only way to gather pearls for use in the bejeweling crafting skill.
 
 **Skill Trainer Location  

@@ -1,3 +1,5 @@
+---
+---
 I really dont want to have to make this post, as I think we have a pretty great community but I think in the end a post like this is probably a good measure.
 
 When you are in chat, and firing off half a dozen questions a second to people, remember that those people are either just like you (playing the game to have fun) or are Moderators (who do not get paid, and answer questions only if they feel like it) or a GM (i.e. Decius) who while he does make money from the game he doesnt earn enough money to be anyones private servant.

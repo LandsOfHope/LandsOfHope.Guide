@@ -1,3 +1,5 @@
+---
+---
 The **Alchemy** skill is a crafting skill that anyone can learn by speaking to the alchemy skill trainer.
 
 **Skill Trainer Location**  

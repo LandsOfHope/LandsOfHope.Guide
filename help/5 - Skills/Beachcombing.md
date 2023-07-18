@@ -1,3 +1,5 @@
+---
+---
 The **Beachcombing** skill alllows you to search the islands in the Shrouded Isles, there is a small chance that you will uncover a shipwreck or other odd resource which you can then pick up to gain any one of a number of special resources.
 
 You can gain vessel resources such as sailcloth, tar barrels, weathered planks and rope and you can also gain special items such as sulphur, saltpetre and charcoal which are used in the manufacture of fireworks and bombs.

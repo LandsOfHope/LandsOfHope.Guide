@@ -1,3 +1,5 @@
+---
+---
 You can trade to players directly using the standard trade system. This system can be accessed in one of two ways:
 
 *   Mouse over a character, npc, pet or monster and choose the trade button in the center of the screen.

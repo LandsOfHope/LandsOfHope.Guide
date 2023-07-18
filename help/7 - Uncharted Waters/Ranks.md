@@ -1,3 +1,5 @@
+---
+---
 Your Navy/Pirate rank determines what upgrades you have access to from a port, and what new ships you can buy. As well as the rewards you get from your faction leader.
 
 Your rank goes up when you visit the faction promoter NPC at your faction base after recently acquiring enough faction fame to reach a new rank.

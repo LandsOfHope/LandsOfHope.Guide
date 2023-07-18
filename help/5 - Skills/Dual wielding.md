@@ -1,3 +1,5 @@
+---
+---
 The **Dual wielding** skill is a class skill that Rogues, Fighters and Salvagers start with. This skill allows you to use two one handed weapons in combat.
 
 Any class can equip two one handed weapons however only one weapon will ever work in combat if you do not have the dual wielding skill.

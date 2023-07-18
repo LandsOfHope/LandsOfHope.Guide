@@ -1,3 +1,5 @@
+---
+---
 Feathers drop from monsters in Wooded tiles north of the river and river bank, while sheddings drop south of the river and marsh lands.
 
 The following level ranges determine what type of drop you stand a chance of getting:

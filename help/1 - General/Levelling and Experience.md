@@ -1,3 +1,5 @@
+---
+---
 The game uses a fairly standard experience system which sees you gain experience for doing almost everything in the game from crafting to fighting to gathering.
 
 To level up you have to gain a set amount of experience once you have met or passed the experience needed to level up you will gain a level and the experience used to make the level is deducted from your current total (effectively putting you back to 0 again). As you level up the experience required to get the next level increases but you will also notice the amount of experience you gain from performing actions increases.

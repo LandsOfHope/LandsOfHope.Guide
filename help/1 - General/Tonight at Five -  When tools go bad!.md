@@ -1,3 +1,5 @@
+---
+---
 Many of the crafting plans require a tool, the tool is like any other ingredient except for the fact it is never used up like ordinary ingredients are.
 
 For a tool to show up you have to have enough crafting skill, the same as you do for any ingredient. You can find out how much crafting skill a tool needs by using the Info button on the tool from your inventory.

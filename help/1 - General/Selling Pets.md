@@ -1,3 +1,5 @@
+---
+---
 You can sell pets in one of two ways, either directly to an NPC which gets you immediate money at whatever value the NPC deems your pet is worth or you can sell your pet via the marketeer system, the latter will no doubt yield more money but it will take longer to sell.
 
 To sell to NPCs go inside Springlade 31, 59 and enter the Town Building, follow the path to the north and you will come to the Stable and the Stablemaster NPC, clicking on him will present you with the Pet Buy/Sell screen. Other towns may have stablemasters also.

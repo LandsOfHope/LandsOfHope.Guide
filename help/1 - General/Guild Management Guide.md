@@ -1,3 +1,5 @@
+---
+---
 If you are a guild owner or co-owner you can manage your guild via the Guilds > Manage / Create screen. Alternatively if you are a guild member but have been given specific permissions to access parts of the guild system you can also use the Guilds > Manage / Create screen in a limited capacity.
 
 [![](https://lohcdn.com/images/t_guildsedit.jpg)](https://lohcdn.com/images/guildsedit.jpg)

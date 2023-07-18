@@ -1,3 +1,5 @@
+---
+---
 The **Husbandry** skill is used to care for monsters and pets classed as beasts, it lets you gather resources such as milk and meat and other resources used in cooking. This skill can be learnt by anyone regardless of class.
 
 **Skill Trainer Location  

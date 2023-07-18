@@ -1,3 +1,5 @@
+---
+---
 The renovate image screen allows you to set the two different images a room can use.
 
 ![](http://www.forlornonline.com/images/rennovateimage1.jpg)

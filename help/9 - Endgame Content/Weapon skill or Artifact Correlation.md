@@ -1,3 +1,5 @@
+---
+---
 **Weapon Skill / Artifacts Correlation**
 
 Note 1: All stats herein reflect the Common Basic stats (using level 1000 materials) 

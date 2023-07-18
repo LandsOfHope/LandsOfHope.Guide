@@ -1,3 +1,5 @@
+---
+---
 The **Toy Snatching** skill is a multi-purpose skill that serves two purposes.
 
 *   Lets you track toy monsters.

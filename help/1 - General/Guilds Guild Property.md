@@ -1,3 +1,5 @@
+---
+---
 Guilds can collectively own property a guilded property can be locked which prevents anyone but people from your guild from entering the building.
 
 Guild properties are a great way to make a meeting area for the guild or just a place for guild people to hang out and/or store items.

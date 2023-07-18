@@ -1,3 +1,5 @@
+---
+---
 The **Myth and Legends** skill is a special skill that no class gets. It is used to tame mythical monsters such as Unicorns.
 
 _Unlike the other taming skills this skill comes entirely from item bonuses, there is no way to train this skill._

@@ -1,3 +1,5 @@
+---
+---
 The **Frenzy** skill represents your ability to deal aditional damage while in the heat of battle. Frenzy is a class skill available to the Berserker class. It is a passive skill so requires no extra screens or fancy buttons, every time you take physical damage (not magical damage) you gain more rage.
 
 **Skill Use  

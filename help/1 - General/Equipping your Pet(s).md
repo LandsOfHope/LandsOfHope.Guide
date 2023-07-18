@@ -1,3 +1,5 @@
+---
+---
 _First things first, before thinking about getting equipment for your pet you need to know what exactly your pet can use._
 
 This means find out the pets armor type, to do this pull up the pets Info screen and see what Allowed Armor it can use, second you need to find out what weapon skills the pet has and you can do this via the Minions > Manage screen, select the pet and click skills.

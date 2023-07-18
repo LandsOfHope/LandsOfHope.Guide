@@ -1,3 +1,5 @@
+---
+---
 As well as various extras you can purchase special classes that are only available to those people that unlock them.
 
 The two classes that are available are:

@@ -1,3 +1,5 @@
+---
+---
 *   Level 1 sensors drop from level 1 mobs and higher.
 *   Level 2 sensors drop from level 75 mobs and higher.
 *   Level 3 sensors drop from level 150 mobs and higher.

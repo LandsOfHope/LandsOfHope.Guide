@@ -1,3 +1,5 @@
+---
+---
 The **Artisan** skill is a class based crafting skill that the apprentice class starts with.
 
 **Plan Trainer Location  

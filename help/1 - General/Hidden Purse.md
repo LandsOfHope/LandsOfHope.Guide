@@ -1,3 +1,5 @@
+---
+---
 Youmay have heard mention of the "hidden purse" it is a special amount of money that is logged against your character that you can not gain access to yourself.
 
 The purpose of the hidden purse is for you to accumulate money that others can access through begging and stealing, in that way you do not lose anything directly as you can not use your own hidden purse and the people who beg or steal from you have access to an amount of money directly proportional to the amount of money you have spent.

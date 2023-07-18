@@ -1,3 +1,5 @@
+---
+---
 The Pet Equipment Box can be used to spawn a set of 11 items for your pet to equip, it spawns items at your pets level and based on your pets requirements as entered by yourself when using the box itself, the box has unlimited charges! - As this box provides quite a nice boost to pets the cost has been set at 15USD (3HC) in theory if you have a level 1000 player you can buy it for that player then trade the pets you wish to have equipment upgraded to that player and perform the upgrade and trade the pet back or you can use a Carrier Pidgeon to send the box around your characters upgrading the pets as needed.  
   
 **Instructions for use**  

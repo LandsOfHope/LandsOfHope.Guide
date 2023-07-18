@@ -1,3 +1,5 @@
+---
+---
 The dungeon spawn pools screen is used to configure pools. A pool is a list of races that can then be applied to a room instead of having one specific race spawn.
 
 It can be kind of interesting to have multiple races spawn in a dungeon room as it makes the dungeon more diverse.

@@ -1,3 +1,5 @@
+---
+---
 The **Protection** skill is a class magic skill. The magic skill determines what spells you can learn from the Protection line of magic.
 
 The following playable classes get the protection skill:

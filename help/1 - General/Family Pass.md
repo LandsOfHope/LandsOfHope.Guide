@@ -1,3 +1,5 @@
+---
+---
 If you plan on playing Lands of Hope with your family (we have many family units playing) you may not necessarily have plenty of money to pay for accounts individually or you may be worried about the security risks of using someone elses account (while you pay for the game) in both cases we would recommend a Family Pass.
 
 A Family Pass is a new addition to the game, one person buys a Family Pass for 45USD this consists of 4 individual account passes which can be used by the purchaser to upgrade a free players account to paid, all that is needed to make the upgrade is the persons account number which is shown on the account screen or via /info in chat.

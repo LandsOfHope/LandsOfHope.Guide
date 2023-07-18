@@ -1,3 +1,5 @@
+---
+---
 The **Blessing** skill is a class magic skill. The magic skill determines what spells you can learn from the blessing line of magic.
 
 The following playable classes get the blessing skill:

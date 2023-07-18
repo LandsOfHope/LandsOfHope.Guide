@@ -1,3 +1,5 @@
+---
+---
 If you have decided to go into business selling goods and items to other players the first thing you will need is a base of operations. This means you will need a shop or a shop type room to base your business out of.
 
 A full list of applicable shop types is available via the link at the bottom of this help topic.

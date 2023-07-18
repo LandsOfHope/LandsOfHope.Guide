@@ -1,3 +1,5 @@
+---
+---
 First, owning a house or other building is NOT required to enjoy the game.  It can be useful from a roleplay standpoint, and is very useful for storing additional items you may find when you run out of space in your bags. 
 
   

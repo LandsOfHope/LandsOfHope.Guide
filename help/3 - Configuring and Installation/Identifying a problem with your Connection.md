@@ -1,3 +1,5 @@
+---
+---
 If you think you are lagging more than you should be, please follow these steps.
 
 Go to Windows start button, choose Run and type cmd.exe into the box provided then click OK. It will open a Windows command prompt.

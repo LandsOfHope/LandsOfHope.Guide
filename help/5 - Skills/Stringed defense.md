@@ -1,3 +1,5 @@
+---
+---
 The **Stringed defense** skill enables you to defend more easily against attacks from the following skills:
 
 *   BOWS

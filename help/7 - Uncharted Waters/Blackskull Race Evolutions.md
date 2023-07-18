@@ -1,3 +1,5 @@
+---
+---
 Below is a diagram which lists all of the Blackskull race evolutions. You can access these by siding with Blackskull and becoming a Sea Wretch.
 
 ![](https://lohcdn.com/images/blackskull.png)

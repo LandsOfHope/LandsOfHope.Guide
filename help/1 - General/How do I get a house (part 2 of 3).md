@@ -1,3 +1,5 @@
+---
+---
 ...continuation of [How do I get a house? (part 1 of 3)](manualnew.asp?search=713)
 
 3\. Determine the materials needed to construct the house.

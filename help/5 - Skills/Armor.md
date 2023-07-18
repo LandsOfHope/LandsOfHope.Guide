@@ -1,3 +1,5 @@
+---
+---
 The armor skill represents your ability to absorb damage, while most races and professions start with a tiny amount of natural armor the bulk of your **ARMOR** rating will come from wearing items and using Abilities or Spells.  
   
 Having high armor will improve your chances of absorbing more damage from an enemy.  

@@ -1,3 +1,5 @@
+---
+---
 The following shortcuts have been added:
 
 *   Alt + R, Allows you to resize windows and move them around. Toggle it on/off.

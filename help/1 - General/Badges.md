@@ -1,3 +1,5 @@
+---
+---
 As you play the game you may acquire special "badges" these are items gained as special rewards from completing faction events and other special tasks.
 
 These are mainly intended for bragging rights as you collect all of the badges and work towards having a full set of badges, however it may also be possible to gain special rewards from getting these badges.

@@ -1,3 +1,5 @@
+---
+---
 The **Taunting** skill is primarily a class skill that Fighters get, it is also an ability that pets can use.
 
 Taunting can be turned on or off once active any monsters will be drawn to attack the person who is taunting. This allows fighters tor tanking pets to take the brunt of the attack and let weaker pets or classes survive a fight.

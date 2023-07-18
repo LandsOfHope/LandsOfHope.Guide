@@ -1,3 +1,5 @@
+---
+---
 Player dungeon tokens are a special bonus item gained from fighting in player created dungeons, for every monster you kill in a player owned dungeon there is a 2% chance that it will drop a dungeon/reward token this makes them quite a rare and sought after commodity.
 
 These tokens can be redeemed inside player dungeons at prize chests for special prizes, any token can be used at any prize chest so if you find a token you can use it in any dungeon that has a prize chest so you are not limited to one prize chest.

@@ -1,3 +1,5 @@
+---
+---
 Dragons of the East (Eastern Promise - during pre-release) is the third expansion to Lands of Hope, after Jurassic Wars and Uncharted Waters.
 
 This pack takes Asian/Oriental themes and Dragons as its core gameplay content, the pack content is accessible by any existing character and there is no new class or profession to play in this pack.

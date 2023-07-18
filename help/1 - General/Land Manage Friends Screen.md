@@ -1,3 +1,5 @@
+---
+---
 The manage friends screen is accessed via  the friends button on the bottom button bar when standing on a tile you own.
 
 The screen is used to compile a list of people that have specific permissions to admin/manage a tile typically you only need to add friends if you are planning on sharing a tile with someone or distributing management rights for the tile amongst people such as if you have a guild tile.

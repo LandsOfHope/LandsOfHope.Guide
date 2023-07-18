@@ -1,3 +1,5 @@
+---
+---
 The usual reason why someone dies is equipment, every 5 levels it is possible to upgrade your equipment, while it may be very hard to do this I recommend you try to keep as many slots equipped as possible and at the very least upgrade every 10 levels, at higher levels it may be possible to skip upgrading so frequently as you will have many other ways to improve your stats available to you.
 
 If you have just left the estate, you will find there is an item called a Strangers Chest in your inventory, you should use the item if you havent already done so. It will place a spell book, a style book and a box of goodies (as well as a note from the stranger) in your inventory. Using the Training Box will get you a full set of level 5 starter items, including weapons and armor you should then go to the Equipment screen and equip the items you got to the relevant places they go to (typically Chest, Legs and Feet and Left and Right hand).

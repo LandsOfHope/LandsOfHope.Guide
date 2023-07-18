@@ -1,3 +1,5 @@
+---
+---
 You no longer have to pay the one time fee of 15USD at level 100 to unlock your account to level up further.
 
 However there are certain buildings and features that paying for the game will grant you access to.

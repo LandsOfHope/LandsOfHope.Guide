@@ -1,3 +1,5 @@
+---
+---
 The **Carpentry** skill is a crafting skill that anyone can learn by speaking to the carpentry skill trainer.
 
 **Skill Trainer Location  

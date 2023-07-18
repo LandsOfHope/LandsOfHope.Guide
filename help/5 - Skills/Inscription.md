@@ -1,3 +1,5 @@
+---
+---
 The **Inscription** skill is used to craft imprints, these are magical effects that can later be applied to a weapon by anyone regardless of if they know the Inscription skill or not.
 
 **Skill Trainer Location  

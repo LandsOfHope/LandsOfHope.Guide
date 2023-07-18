@@ -1,3 +1,5 @@
+---
+---
 The treasury screen is used to access the guild treasury which is where guild funds are kept. Any member of a guild can deposit money into this fund but only people who have been given a title that has treasury admin access can actually withdraw money from it.
 
 [![](https://lohcdn.com/images/t_guildstreasury.jpg)](https://lohcdn.com/images/guildstreasury.jpg)

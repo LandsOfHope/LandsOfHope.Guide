@@ -1,3 +1,5 @@
+---
+---
 The **Detect Hidden** skill is used to reveal Players and Buildings that have been hidden from normal sight using either magic or the Stealth Skill. It is particularly useful for tracking down players with bounties.
 
 Detect Hidden is a class skill that Scouts, Hunters, Sharpshooters, Shadowstalkers, Killers and Assassins get access to. It may also be used through items and other bonus effects.

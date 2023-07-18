@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth**  
 The Hermit is orientated to magic with the use of the NATURE MAGIC spell line as their primary offensive line. While their melee/physical skills are not their strongest point they can use TWO-HANDED STAVES which gives them a slight advantage over a caster. As with the caster profession the Hermit is limited to the Cloth line of armor. Hermits also get an auxillary skill called Begging which can be used to beg money (and with it experience) from other players and monsters.
 

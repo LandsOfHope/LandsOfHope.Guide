@@ -1,3 +1,5 @@
+---
+---
 The following changes have been made to the level 1000 realm called "Battlefield":
 
 *   Every day is a DaD day in Battlefield, this means double PvP points for making Pvp kills. Although PvP is still optional in this realm and not necessary to complete sieging and any of the additional features listed below.

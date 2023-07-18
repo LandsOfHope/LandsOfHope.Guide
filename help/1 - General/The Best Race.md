@@ -1,3 +1,5 @@
+---
+---
 This question is often raised in chat.  The quick answer is: there is none.
 
 Race selection is completely based on the preference of the player.  Most players choose the race based on which avatar, or displayed image, they would like associated with their character.  Characters who wish to portray evil characters generally join the reapers to take advantage of their more evil-looking portraits.  Ladies wishing to be alluring will often stay with the elven line (or the reaper\`s ghoul line).

@@ -1,3 +1,5 @@
+---
+---
 The **Construction** skill is a crafting skill that anyone can learn by speaking to the construction skill trainer. (available from level 95 in the second realm) 
 
 **Skill Trainer Location  

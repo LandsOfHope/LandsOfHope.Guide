@@ -1,3 +1,5 @@
+---
+---
 Many players ask this question when they reach the level 20-30 range after trying to enter the cold regions. This guide is aimed at those players and will explain the more common ways of getting the Cold Survival you crave.
 
 There are many ways to achieve your goals in this game, and getting Cold Survival is no different. Cold Survival is not a skill that can be learned - it is most easily available through item bonuses, potions and having a mountable pet with the Cold Survival mount bonus. This guide will describe some of the common ways to get this skill; it is not an exhaustive list, as there are other ways and means, but will concentrate on those that are of most use to lower level players.

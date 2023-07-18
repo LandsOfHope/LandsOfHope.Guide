@@ -1,3 +1,5 @@
+---
+---
 One of the side benefits of capturing an island for your faction is the ability to establish a trade route. A trade route allows you to assign one of your vessels as a cargo ship to carry goods from the NPC on the captured island to your home base (be it the Pirate Enclave or Hunter Hold).
 
 To establish a trade route, visit the Routemaster NPC on the island you captured, they will present you with options to allow you to setup your trade route, the amount of cargo you can transport depends on your vessel cargo size.

@@ -1,3 +1,5 @@
+---
+---
 This is a special Artifact weapon that was created based on an idea by Mamba (after she won the 2008 Auction of Promises to have an Artifact weapon added).
 
 It is a fist weapon, with INT, STR, STA and HEALTH and also a 5% bane to the undeads that spawn in the Afterlife realm.

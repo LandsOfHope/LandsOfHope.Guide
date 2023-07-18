@@ -1,3 +1,5 @@
+---
+---
 The **First Aid** skill is a class skill that is used during combat. With this skill players can heal themselves or allies using bandages.
 
 The following playable classes get the first aid skill (it is not trainable by anyone else):

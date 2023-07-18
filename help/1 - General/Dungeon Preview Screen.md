@@ -1,3 +1,5 @@
+---
+---
 The dungeon preview screen allows you to set the rendered preview images people will see when they enter this room.
 
 ![](http://www.forlornonline.com/images/dungeonpreview1.jpg)

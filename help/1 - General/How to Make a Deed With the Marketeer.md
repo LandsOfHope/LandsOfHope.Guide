@@ -1,3 +1,5 @@
+---
+---
 First, look through the different building plans in **Library > Items > Plans > Construction** to see what type of building you want. Once you find one, click on the "**Craft Info**" button to see what materials are needed to build it.   
 Next, gather or buy those materials.  
 Then go to the Marketeer, click the "**Craft**" tab. In the search bar, put the name of the plan you want to build and hit enter.  

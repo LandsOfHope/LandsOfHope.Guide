@@ -1,3 +1,5 @@
+---
+---
 Once a year at an as yet unfixed date/timet there will be a Myzan Land Rush, now some of you may be asking why this is necessary when you can already own land.
 
 The idea is that once a year one special auction will be held using real money instead of game money, the winner of this auction will gain a wonderful reward a set of up to 5 specially designed tiles.

@@ -1,3 +1,5 @@
+---
+---
 The **Floristry** skill is a crafting skill that anyone can learn by speaking to the floristry skill trainer.
 
 **Skill Trainer Location  

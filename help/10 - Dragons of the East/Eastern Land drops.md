@@ -1,3 +1,5 @@
+---
+---
 **Monster drops**  
 The following items can be gained from monster drops:
 

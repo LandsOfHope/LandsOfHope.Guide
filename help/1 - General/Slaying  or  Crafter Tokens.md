@@ -1,3 +1,5 @@
+---
+---
 You can get Slaying tokens as a random reward from killing monsters.
 
 You can get Crafter tokens as a random reward from crafting items.

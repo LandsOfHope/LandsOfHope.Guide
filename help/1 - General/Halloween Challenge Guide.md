@@ -1,3 +1,5 @@
+---
+---
 A list of frequently asked questions with answers:
 
 1.  **Where do you go to enter the challenge?**

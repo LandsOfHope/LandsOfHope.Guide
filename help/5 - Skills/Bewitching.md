@@ -1,3 +1,5 @@
+---
+---
 The **Bewitching** skill is used to craft spellbound items, these are magical effects that can be sold and traded with other players and applied to leg, chest, feet, hand and head items (Bewitching skill required to craft the spellbound item but not to fit it into an item).
 
 This is a class skill gained by the Witch (level 650)  evolution of the Hag class.

@@ -1,3 +1,5 @@
+---
+---
 The ews of the day screen can be used to set daily messages to be sent to people in your guild. It is a great way to enter a reminder or announcement that should hopefully stir your guild members into action.
 
 [![](https://lohcdn.com/images/t_guildsnod.jpg)](https://lohcdn.com/images/guildsnod.jpg)

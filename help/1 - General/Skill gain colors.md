@@ -1,3 +1,5 @@
+---
+---
 When you gain a skill up the message may be in one of three different colors, these are explained below:
 
 **Purple**  

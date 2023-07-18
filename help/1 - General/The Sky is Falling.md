@@ -1,3 +1,5 @@
+---
+---
 Released October 2010 the Sky is Falling is a new content pack for Lands of Hope.
 
 An Alien race carried through the stars in a small capsule for a million years crash lands into Myzan. The entire race begins to be reanimated but the capsule is damaged and some of the peaceful Aliens are reborn as blood frenzied killers intent on chewing faces off and being downright mean!

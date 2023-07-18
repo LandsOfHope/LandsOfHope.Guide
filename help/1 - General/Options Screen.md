@@ -1,3 +1,5 @@
+---
+---
 The Options screen can be accessed via the File > Options menu and contains as one might guess a host of different configurable options that you can use to configure how the game runs to better suit your requirements.
 
 The options screen is broken down into 15 different categories with each category being accessed via a tab on the left side of the options screen.

@@ -1,3 +1,5 @@
+---
+---
 The **Beastmastery** skill is a class skill that the Beastmaster or Beastlord class gets. It is used to tame Beast monsters such as Cats and Wolves.
 
 _As with the other taming skills you can also use bonuses on items to acquire this skill although it is unlikely you will be able to tame very high level monsters doing it that way._

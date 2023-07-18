@@ -1,3 +1,5 @@
+---
+---
 The **Necromancy** skill is a class skill that the Necromancer class gets. This skill has two main uses:
 
 *   Casting Necromancy spells

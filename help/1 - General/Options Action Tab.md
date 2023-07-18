@@ -1,3 +1,5 @@
+---
+---
 [![](https://lohcdn.com/images/t_optionsaction.jpg)](https://lohcdn.com/images/optionsaction.jpg)
 
 **Default Character Action**  

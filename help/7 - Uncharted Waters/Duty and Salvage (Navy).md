@@ -1,3 +1,5 @@
+---
+---
 The Salvage NPC at Hunter Hold does have trophy quests but they do not become available until level 50, this means you can not access them until the expansion is properly released.
 
 The quests are used in conjunction with the Duty skill you get when you evolve into the level 50 Navy class evolution.

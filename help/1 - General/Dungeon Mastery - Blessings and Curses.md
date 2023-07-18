@@ -1,3 +1,5 @@
+---
+---
 If you are lucky enough to obtain a blessing/curse room (drop only) dungeon mastery deed, you can add new content to your dungeons.
 
 **Blessing Room**  

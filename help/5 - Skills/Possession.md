@@ -1,3 +1,5 @@
+---
+---
 The **Possession** skill is a class skill that the Invoker and Necromancer classes acquire. It allows you to possess minions. While possessed your minions operate much like a normal character and it allows you to play parts of the game as that possessed minion. This can be fun for roleplaying purposes or simply allow you to do something that your character can not do itself.
 
 _Acquiring items that provide possession skill as a bonus will also work, although you may need several different items to gain the desired effect._

@@ -1,3 +1,5 @@
+---
+---
 The **Nature Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the nature line of magic.
 
 The following playable classes get the nature magic skill:

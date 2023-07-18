@@ -1,3 +1,5 @@
+---
+---
 The Salvager bought extra class line consists of the following classes.
 
 *   Salvager

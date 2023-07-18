@@ -1,3 +1,5 @@
+---
+---
 After reaching level 1000 you can begin to gain legend tokens by completing the legend dungeons. These Legend tokens can be used to gain the legend sets of armor from Elwick and weapons from the Keeps in the Battlefield realm.
 
 **Legend Historian**  

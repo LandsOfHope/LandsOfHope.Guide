@@ -1,3 +1,5 @@
+---
+---
 The roster screen can be accessed by all members of the guild and provides a list of all of the people in the guild.
 
 [![](https://lohcdn.com/images/t_guildsroster.jpg)](https://lohcdn.com/images/guildsroster.jpg)

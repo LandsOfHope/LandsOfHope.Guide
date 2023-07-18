@@ -1,3 +1,5 @@
+---
+---
 Here are some general guidelines which will make your time on the ocean a much better place:
 
 *   If you move to a tile and see another player owned vessel you should assume that person is fighting on that tile,

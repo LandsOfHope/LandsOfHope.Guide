@@ -1,3 +1,5 @@
+---
+---
 The **Deconstruction** skill is both a class skill and a skill that anyone can buy training in. The Salvager bought extra profession gets this skill to start with, but anyone can purchase this skill from the deconstruction skill trainer.
 
 **Skill Trainer Location  

@@ -1,3 +1,5 @@
+---
+---
 The members screen is used to manage your guild members.
 
 [![](https://lohcdn.com/images/t_guildsem.jpg)](https://lohcdn.com/images/guildsem.jpg)

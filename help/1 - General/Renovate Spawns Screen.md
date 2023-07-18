@@ -1,3 +1,5 @@
+---
+---
 The renovate spawn screen allows you to monster spawns to special rooms in your building (the entrance room and the lesser/greater and ordinary spawn type rooms).
 
 ![](https://lohcdn.com/images/rennovatespawn.jpg)

@@ -1,3 +1,5 @@
+---
+---
 To try to keep the size of the game database to a minimum we operate the following deletion policies:
 
 **Free Accounts**

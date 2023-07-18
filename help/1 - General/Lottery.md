@@ -1,3 +1,5 @@
+---
+---
 The Myzan Lottery is a new feature, you can go to 31, 58 and buy a lottery ticket from the NPC that sells them there, buying a lottery ticket costs 1gp per ticket ...
 
 You can buy as many tickets as you want, however blank tickets do not increase the lotto pot, only once you use the ticket and choose your 3 numbers will the lottery pot be increased and your new blank ticket bound to that weeks lottery.

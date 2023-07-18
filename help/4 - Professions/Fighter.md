@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth Leather**  
 The Fighter class has the following combat weapon skills to choose from:
 

@@ -1,3 +1,5 @@
+---
+---
 The **Stealth** skill is used to make yourself invisible, it is a handy skill for rogues and nefarious types to use so they can not be easily hunted or spotted while they perform questionable acts.
 
 Stealth is a class skill available to the Rogue class, Stealth can also be used by other players via item bonus effects, spells and similar.

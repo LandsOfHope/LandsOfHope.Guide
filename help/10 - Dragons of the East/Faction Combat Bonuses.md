@@ -1,3 +1,5 @@
+---
+---
 The following bonuses apply to factions in combat 
 
 *   Topaz, +2 Power points

@@ -1,3 +1,5 @@
+---
+---
 A new content pack was added on Friday 6th August 2010 that contains more things for level 900 - 1000+ to do.
 
 The pack contains both sieging, crafting tasks and of course fighting and is open all allegiances INCLUDING neutral.

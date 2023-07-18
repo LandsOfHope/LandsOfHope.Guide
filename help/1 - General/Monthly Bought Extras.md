@@ -1,3 +1,5 @@
+---
+---
 The following items are available in one month of the year only via the File > Buy Extras > Amazing Items screen:
 
 *   January, None yet

@@ -1,3 +1,5 @@
+---
+---
 2) How do I get the taming skill?/tame a pet?  
   
 Only certain professions are able to tame things.  

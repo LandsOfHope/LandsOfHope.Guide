@@ -1,3 +1,5 @@
+---
+---
 Randomly once a day for the forseeable future a portal will open in a random town in the game, a bunch of demons will come through and cause mischief.
 
 **When you see the notice in the status window of an invasion you have five minutes from the time of that notice to kill the demons to get a key, after which time the demons will automatically despawn and you will have to wait until the next invasion.**

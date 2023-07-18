@@ -1,3 +1,5 @@
+---
+---
 Upon Gaining 100 Bronze Pieces(bp), you will earn 1 Silver pieces(sp)
 
 After Gaining 100 Silver pieces, You will earn 1 Gold Pieces(gp)

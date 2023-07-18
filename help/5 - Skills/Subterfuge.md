@@ -1,3 +1,5 @@
+---
+---
 The **Subterfuge** skill is a class skill that the Deceiver class gains. It is used to make disguise kits which anyone regardless of class can use to disguise themselves as something else.
 
 **Skill Use**  

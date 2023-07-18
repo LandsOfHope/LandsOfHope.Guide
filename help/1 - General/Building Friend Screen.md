@@ -1,3 +1,5 @@
+---
+---
 The building friend screen is used to set a list of people who are allowed access to a building or room.
 
 The friend screen can be accessed either via the Friend button on the Property > Manage screen or via the friend button found at the bottom of the screen when inside a building room.

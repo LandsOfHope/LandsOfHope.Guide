@@ -1,3 +1,5 @@
+---
+---
 The **Mana Regeneration** skill is used to determine how quickly you regenerate lost mana during combat.
 
 Regeneration occurs once per round.

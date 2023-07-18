@@ -1,3 +1,5 @@
+---
+---
 This guide explains what all of the vessel skills actually mean, this guide is only intended for people participating in the Uncharted Waters expansion pack.
 
 *   Hull Capacity, A ships inventory capacity. How many items it can carry in its hold. The higher the skill the more items it can carry.

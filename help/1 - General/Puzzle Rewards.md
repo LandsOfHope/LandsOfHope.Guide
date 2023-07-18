@@ -1,3 +1,5 @@
+---
+---
 For getting all the pieces of a puzzle you gain the following rewards:
 
 1.  Kurts Puzzle (up to 3 random rewards from this list) (Pirate  - Treasure Seeking skill)

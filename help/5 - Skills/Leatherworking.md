@@ -1,3 +1,5 @@
+---
+---
 The **Leatherworking** skill is a crafting skill that anyone can learn by speaking to the leatherworking skill trainer.
 
 **Skill Trainer Location  

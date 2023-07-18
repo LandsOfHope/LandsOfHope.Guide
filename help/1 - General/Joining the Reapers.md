@@ -1,3 +1,5 @@
+---
+---
 While the Exiles or Society are not really considered good or evil simply two opposing sides of a war, the third allegiance the "Reapers" are considered very evil and dangerous.
 
 You may join the Reapers at level 100, even if you have previously joined an allegiance you can join the Reapers. Unlike the other allegiances they are not fussy about who they accept as you are all considered meat and even if you suck at being a Reaper you might make a career out of being a light snack before dinner.

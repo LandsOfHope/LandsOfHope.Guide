@@ -1,3 +1,5 @@
+---
+---
 Buying land can be done via the Land > Buy Land screen, it can be bought for ingame money ... however a tile can only be bought if one is for sale. There are 10,000 tiles per realm but because the game world would be cluttered if all were up for sale at once there are never normally more than a couple of tiles for sale at any one time.
 
 Tiles can be put up for sale by players who have previously bought a tile, and also I sometimes put a series of tiles up for sale to mark special events such as holidays, and the games release anniversary.

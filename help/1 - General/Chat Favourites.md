@@ -1,3 +1,5 @@
+---
+---
 You can now mark two chat channels as your favourite chat channels, this makes switching to them easier as you can click the red or blue flag button in the chat bar to switch to the channel quickly.
 
 To make a channel your favourite use /join or the room list to enter that channel then type:

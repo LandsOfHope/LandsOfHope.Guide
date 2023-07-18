@@ -1,3 +1,5 @@
+---
+---
 There is no realtime regeneration in this game once your health goes down it will stay down until you use the **World > Rest** menu to rest.
 
 _Resting can be done in any location you do not need to be in an Inn or near a camp fire or bed as you need to be in other similar games._

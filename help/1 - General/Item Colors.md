@@ -1,3 +1,5 @@
+---
+---
 Items come in a variety of colors. These colors are used to indicate the rarity of an item its location and also its special status.
 
 The colors are explained in detail below.

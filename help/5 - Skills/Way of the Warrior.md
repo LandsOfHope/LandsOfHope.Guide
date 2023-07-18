@@ -1,3 +1,5 @@
+---
+---
 The **Way of the Warrior** skill is a class skill gained by the Samurai class. It has several purposes in game and is used both in combat and out of combat.
 
 Note: Like Dual Wielding this skill has no benefit from being raised if indeed it can be raised. Having 1pt in the skill has the same effect as having 4000pts in the skill.

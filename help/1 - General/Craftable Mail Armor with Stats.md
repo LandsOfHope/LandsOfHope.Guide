@@ -1,3 +1,5 @@
+---
+---
 The following craftable sets now have stats:
 
 *   Chainmail = MAXHITPOINTS

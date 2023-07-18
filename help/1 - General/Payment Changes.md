@@ -1,3 +1,5 @@
+---
+---
 As of today a new payment system has been implemented, some may find it a little more confusing/complicated than before while others may love it!  
   
 Starting today Regal Computer Services (that is my fancy name for my company) now has Merchant status, that means I can now accept Credit/Debit cards directly without going through PayPal or Google Checkout.  

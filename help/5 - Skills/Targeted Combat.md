@@ -1,3 +1,5 @@
+---
+---
 The **Targeted Combat** skill is a class skill that Denshis gain. This skill allows you to target specific body parts rather than attacking the target in general.
 
 While you will not hit the body part each turn there is a 12 - 15% chance of you hitting, and the effect that is dealt to the target depends on the location you are hitting. 

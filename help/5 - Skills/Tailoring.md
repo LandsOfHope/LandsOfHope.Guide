@@ -1,3 +1,5 @@
+---
+---
 The **Tailoring** skill is a crafting skill that anyone can learn by speaking to the tailoring skill trainer.
 
 **Skill Trainer Location  

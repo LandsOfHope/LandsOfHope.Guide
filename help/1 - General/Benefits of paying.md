@@ -1,3 +1,5 @@
+---
+---
 **What do I get for my One time payment?**  
 Paying is now optional (as of August 2010) all free players can now reach level 1000.
 

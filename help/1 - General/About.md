@@ -1,3 +1,5 @@
+---
+---
 Lands of Hope is a fantasy browser based MMORPG which takes place in the fictional lands of Myzan, a world with a long and trouble history which is currently in the midst of a terrible conflict.  
   
 The King has been removed from the throne by an act of treachery led by one of his closest friends and a band of nobles calling themselves the Society.  

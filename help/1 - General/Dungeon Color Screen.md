@@ -1,3 +1,5 @@
+---
+---
 The dungeon color screen allows you to set the background color of a room using a palette of quite a large number of alternate colors which should please almost everyone.
 
 ![](http://www.forlornonline.com/images/dungeoncolor.jpg)

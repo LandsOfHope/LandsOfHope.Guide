@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Leather**  
 The Salvager is melee orientated with the use of the following skills:
 

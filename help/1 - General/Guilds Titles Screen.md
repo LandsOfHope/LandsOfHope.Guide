@@ -1,3 +1,5 @@
+---
+---
 The titles screen is used to manage and configure your guild titles.
 
 [![](https://lohcdn.com/images/t_guildset.jpg)](https://lohcdn.com/images/guildset.jpg)

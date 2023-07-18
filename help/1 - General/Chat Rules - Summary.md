@@ -1,3 +1,5 @@
+---
+---
 You should have read our chat rules before chatting in the game, it is assumed that you have read and accepted them when you tick the TOS Acceptance box to make a character.
 
 The rules can be found at the following link: [http://www.forlornonline.com/chatrules.asp](http://www.forlornonline.com/chatrules.asp)[](http://www.forlornonline.com/chatrules.asp)

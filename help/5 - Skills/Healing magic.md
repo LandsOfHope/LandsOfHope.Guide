@@ -1,3 +1,5 @@
+---
+---
 The **Healing magic** skill is a class magic skill. The magic skill determines what spells you can learn from the Healing line of magic.
 
 The following playable classes get the healing magic skill:

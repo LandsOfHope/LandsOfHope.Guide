@@ -1,3 +1,5 @@
+---
+---
 Today I have added in a new bought extra called a "Scroll of Cookie Summoning". You can buy these as either a scroll with 5 charges or a scroll with 50 charges.
 
 Upon using the scroll one charge is consumed and a very nasty monster called a Cookie Devourer is spawned. Older players may remember these as special monsters that spawned once or twice a day a few years ago to celebrate the games anniversary.

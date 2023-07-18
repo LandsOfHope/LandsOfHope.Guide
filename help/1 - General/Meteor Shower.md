@@ -1,3 +1,5 @@
+---
+---
 Once a day at a random time there will be a Meteor Shower, Myzan will be hit by up to 20 meteorite fragments that will land in the standard level 1 to 1000 realms (JW, DE, UW, Challenge Realms and EP not included).
 
 While anyone can pick a meteorite up they are only able to be used by the forthcoming Starchaser class.

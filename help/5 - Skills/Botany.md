@@ -1,3 +1,5 @@
+---
+---
 The **Botany** skill is a class magic skill. The magic skill determines what spells you can learn from the botany line of magic.
 
 The following playable classes get the botany skill:

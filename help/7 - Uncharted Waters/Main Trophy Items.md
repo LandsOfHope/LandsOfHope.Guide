@@ -1,3 +1,5 @@
+---
+---
 **Faction Trophy Items**
 
 *   Pirate Bandana, dropped by pirates used to gain fame at Hunter Hold.

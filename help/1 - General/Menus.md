@@ -1,3 +1,5 @@
+---
+---
 At the top of the game window is the menu bar. This bar contains a number of menus and sub-menus and is an important way for you to access game screens.
 
 There are 11 main menus:

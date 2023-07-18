@@ -1,3 +1,5 @@
+---
+---
 The **Tinkering** skill is a crafting skill that anyone can learn by speaking to the tinkering skill trainer.
 
 **Skill Trainer Location  

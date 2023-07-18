@@ -1,3 +1,5 @@
+---
+---
 To clear the Cache in Chromium please do the following:
 
 *   Close the Game Down

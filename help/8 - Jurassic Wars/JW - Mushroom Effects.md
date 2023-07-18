@@ -1,3 +1,5 @@
+---
+---
 **Childsbane**  
 You gain AIR RESISTANCE +x and FIRE RESISTANCE +x and EARTH RESISTANCE +x and ENERGY RESISTANCE +x and WATER RESISTANCE +x for yminutes.  
 **Whitecap**  

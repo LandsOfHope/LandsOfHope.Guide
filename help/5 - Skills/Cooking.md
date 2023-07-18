@@ -1,3 +1,5 @@
+---
+---
 The **Cooking** skill is a crafting skill that anyone can learn by speaking to the cooking skill trainer.
 
 **Skill Trainer Location  

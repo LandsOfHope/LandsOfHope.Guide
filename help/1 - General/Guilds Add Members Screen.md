@@ -1,3 +1,5 @@
+---
+---
 The add members screen is used by guild leaders or member admins to selectively invite people to join the guild.
 
 [![](https://lohcdn.com/images/t_guildsam.jpg)](https://lohcdn.com/images/guildsam.jpg)

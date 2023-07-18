@@ -1,3 +1,5 @@
+---
+---
 The combat screen is shown when you attack someone or accept a duel or tournament fight request.
 
 [![](https://lohcdn.com/images/t_combatscreen.jpg)](https://lohcdn.com/images/combatscreen.jpg)

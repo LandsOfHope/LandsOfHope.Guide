@@ -1,3 +1,5 @@
+---
+---
 Throughout the game there are special NPC guild buildings usually called "Guilds of Hope" once you are in a guild and promoted past the new recruit level you will be able to access these buildings.
 
 To get started there is one at 32, 58 in Knotwood Valley

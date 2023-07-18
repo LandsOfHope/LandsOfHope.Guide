@@ -1,3 +1,5 @@
+---
+---
 Your stats will go up each time you level depending on what stats are available to your profession and your stat point distribution and stat gain may change when you evolve into a higher class choice.
 
 You can raise your stats outside of levelling by equipping items with stat bonuses on them or casting buff spells or riding a mount  or anything else that may give a temporary boost to a stat.

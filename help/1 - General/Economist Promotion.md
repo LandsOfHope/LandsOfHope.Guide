@@ -1,3 +1,5 @@
+---
+---
 Starting October 17th and running at least until 2010 we are holding a new promotion.
 
 Anyone who spends real money on the game will earn a Statue in the Monument to Economists at 31, 59 as well as a new title "Economist". These rewards will be given to people manually so it may take 24 - 48hrs before such rewards show up.

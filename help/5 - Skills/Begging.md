@@ -1,3 +1,5 @@
+---
+---
 The **Begging** skill is used to beg from players and monsters, it is a class skill that the Hermit class starts with it may also be acquired and used from item bonuses.  
   
 Monsters start with a small purse of money which can be begged from, Players have a small purse which goes up the more money they earn.  

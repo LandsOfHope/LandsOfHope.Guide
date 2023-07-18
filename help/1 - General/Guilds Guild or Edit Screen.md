@@ -1,3 +1,5 @@
+---
+---
 The guild screen is the main screen for updating your basic guild settings and options.
 
 [![](https://lohcdn.com/images/t_guildsedit2.jpg)](https://lohcdn.com/images/guildsedit2.jpg)

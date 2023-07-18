@@ -1,3 +1,5 @@
+---
+---
 Once a day or perhaps once every 2 days a random event occurs in Lands of Hope, a magical palace descends from the skies and lands for one of the players online at the time.
 
 This palace can only be entered by the player it landed for, inside you will find a dungeon full of evil Genie monsters who wish to kill you.

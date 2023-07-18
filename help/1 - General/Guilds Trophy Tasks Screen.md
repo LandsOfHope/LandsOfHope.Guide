@@ -1,3 +1,5 @@
+---
+---
 The Trophy Tasks screen is used to enable/disable various special guild trophy items.
 
 Once enabled these items can be unlocked by doing the quests from the NPCs at 31, 58 (Knotwood Valley) and other locations in the game.

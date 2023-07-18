@@ -1,3 +1,5 @@
+---
+---
 The Navy have a 10 piece puzzle to collect called Stewart\`s Puzzle, while the Pirates have a 10 piece puzzle called Joe\`s Puzzle (different to the Treasure Seeking 50piece one they also have).
 
 The first two pieces of this puzzle can be done by sinking treasure ships for your faction leaders, you should complete the sink bouy quests before you will be given these quests.

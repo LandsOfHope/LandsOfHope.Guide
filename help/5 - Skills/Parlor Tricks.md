@@ -1,3 +1,5 @@
+---
+---
 The **Parlor Tricks** skill is a class based crafting skill that the Ninja class starts with.
 
 **Plan Trainer Location  

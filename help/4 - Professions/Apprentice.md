@@ -1,3 +1,5 @@
+---
+---
 _This class is intended for experienced players or people who are fast learners it may be difficult to play for new players to the game simply because of the lack of the easy learning mode called the estate._
 
 Allowed Armor: **None**  

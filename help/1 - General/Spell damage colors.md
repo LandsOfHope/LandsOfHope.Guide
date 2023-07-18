@@ -1,3 +1,5 @@
+---
+---
 The following colors are now used to highlight damage from spells in combat.
 
 *   **ACID**

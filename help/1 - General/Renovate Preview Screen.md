@@ -1,3 +1,5 @@
+---
+---
 The renovate preview screen allows you to set the rendered preview images people will see when they enter this room.
 
 ![](http://www.forlornonline.com/images/rennovatepreview1.jpg)

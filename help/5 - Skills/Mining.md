@@ -1,3 +1,5 @@
+---
+---
 The **Mining** gathering skill alllows you to mine ore and stone. Stone is used in stonemasonry while ore is used with Blacksmithing. Anyone can take up the skill of Mining as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

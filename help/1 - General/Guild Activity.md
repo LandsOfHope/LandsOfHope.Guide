@@ -1,3 +1,5 @@
+---
+---
 The Guilds screen now includes a section showing the total number of members in the guild and the average activity of the guild members.
 
 For larger guilds this activity reading may not be so accurate, but for smaller guilds it should be a clear indicater of the status of the guild.

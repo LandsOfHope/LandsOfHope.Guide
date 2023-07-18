@@ -1,3 +1,5 @@
+---
+---
 A long time ago the Arterans one of the ancient races (Eternal Plains) were instructed to hide something within a place no one could ever find it.  
   
 For centuries what was actually hidden has been lost, some speculate it was a treasure the likes of which any King would seek, while others think for it to have been hidden for so long whatever it was must have been dangerous.  

@@ -1,3 +1,5 @@
+---
+---
  **![Lone Joe](game/r/big/pirate11.gif)**
 
 **Joseph \`Lone Joe\` Malone  

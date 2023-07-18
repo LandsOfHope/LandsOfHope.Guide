@@ -1,3 +1,5 @@
+---
+---
 As well as being a Pirate/Navy member you can also choose to access additional content by joining forces with either the Sea Goddess Hydrania or Blackskull.
 
 Hydrania is in charge of the well being of the ocean in general terms, she takes great pride in ensuring the oceans are kept in harmony with the rest of the world. She is also the deity you should pray to to ensure a safe journey when traveling by sea, she is reputed to be kind and tolerates humanities use of the oceans as long as they are not harmful.

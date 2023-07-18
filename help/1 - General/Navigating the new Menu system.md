@@ -1,3 +1,5 @@
+---
+---
 The new menu system is much better looking than the old system, it is also much smaller and requires less system resources to run.
 
 The menu should operate just like the old menu with one change, once a menu pops up the menu does not hide itself automatically unless one of the following actions is done.

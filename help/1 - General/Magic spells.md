@@ -1,3 +1,5 @@
+---
+---
 **About Spells  
 **There are a number of magic skills in the game, each one of these magic skills has a number of magic spells. The skills and therefore spells that are available to you depend on your class and future class evolutions. For a full list of all of the spells in the game please look at the Library > Spells.
 

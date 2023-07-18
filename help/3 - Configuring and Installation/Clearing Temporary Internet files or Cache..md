@@ -1,3 +1,5 @@
+---
+---
 **Internet Explorer:**
 
 Click on the Tools button on the file bar, then click Internet options. Look for a Delete files button, click it, then confirm in the new smaller window that should open. After doing this, you should close your browser window, and open another for changes to take effect.

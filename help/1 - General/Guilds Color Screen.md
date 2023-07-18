@@ -1,3 +1,5 @@
+---
+---
 The color screen can be used to pick a color that you wish to use to represent your guild. This color is displayed on various guild related screens and may be used in conjunction with your guild symbol/icon.
 
 [![](https://lohcdn.com/images/t_guildscolor.jpg)](https://lohcdn.com/images/guildscolor.jpg)

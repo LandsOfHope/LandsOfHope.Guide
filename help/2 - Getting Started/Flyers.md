@@ -1,3 +1,5 @@
+---
+---
 I have created two flyers for advertising the game at locations where you all are permitted to post flyers in the dun dun dun REAL WORLD (yes it does exist! I saw photos of it once!).  
   
 The first flyer is a generic one intended for people to use if they are not interested in referrals.  

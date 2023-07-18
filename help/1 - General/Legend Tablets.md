@@ -1,3 +1,5 @@
+---
+---
 Legend Tablets are gained randomly from completing Treasure Maps, they are a semi-rare bonus intended for players to collect. There are ten of these tablets in all, one for each of the ten legends.
 
 These tablets can be placed inside a Museum room, the museum room/building deed is a drop only 5000 skill construction plan.

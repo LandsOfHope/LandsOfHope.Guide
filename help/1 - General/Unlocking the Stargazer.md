@@ -1,3 +1,5 @@
+---
+---
 To unlock the Stargazer profession for your account you must do one of the following two things:
 
 *   Get one of your characters to level 1000 then go speak to Astronomer Shimmer at 50, 50 in the Eternal Plains realm.

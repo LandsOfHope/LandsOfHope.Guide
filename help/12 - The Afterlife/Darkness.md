@@ -1,3 +1,5 @@
+---
+---
 Within the Afterlife you will find the Darkness, this is not some ordinary darkness that you find in dark places of your house this is the combination of thousands of dead souls merged together in conscious hatred and evilness!
 
 No one knows when the Darkness was formed but they do know it grows on a daily basis as hatred and evilness spreads through the land.

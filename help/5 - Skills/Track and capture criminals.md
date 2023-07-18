@@ -1,3 +1,5 @@
+---
+---
 The **Track and Capture criminals** skill is a class skill that Hunters gain (Archer evolution), the skill provides two possible uses:
 
 *   Track criminal players and pets

@@ -1,3 +1,5 @@
+---
+---
 The renovate items screen allows you to add and remove furnishings to a building room.
 
 ![](http://www.forlornonline.com/images/rennovatefurnish.jpg)

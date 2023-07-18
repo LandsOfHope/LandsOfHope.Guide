@@ -1,3 +1,5 @@
+---
+---
 The **Fishing** gathering skill alllows you to gather fish resources. Fish resources are used in cooking and anyone can take up the art of fishing as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

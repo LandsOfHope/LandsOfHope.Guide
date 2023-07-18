@@ -1,3 +1,5 @@
+---
+---
 **Click the Wrench in the top Right corner of the browser, below the red X button.**
 
 **Click \`Clear Browsing Data\`**

@@ -1,3 +1,5 @@
+---
+---
 For the Christmas 08 event you can perform quests for Oldman Wintersvale and he will reward you with a Wintersvale deluxe gift box.
 
 This box will contain one of seven random items:

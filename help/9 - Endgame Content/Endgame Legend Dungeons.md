@@ -1,3 +1,5 @@
+---
+---
 The Legend Dungeons are infact tombs and former homes of the Legends of Myzan, there are many Legends in Myzan. The Legend of Five or the Trials of the Ten as it is sometimes known is perhaps the most well known legend.
 
 There are ten known Legend Dungeons, the Historian Elwick who resides at the Citdael in the Royal Hollow has been conducting research on them for many years.

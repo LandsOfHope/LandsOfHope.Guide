@@ -1,3 +1,5 @@
+---
+---
 [![](https://lohcdn.com/images/t_optionsdisplay.jpg)](https://lohcdn.com/images/optionsdisplay.jpg)
 
 _Options in red will cause the game window to be refreshed when changed._

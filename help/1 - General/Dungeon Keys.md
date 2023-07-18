@@ -1,3 +1,5 @@
+---
+---
 **What is the point of dungeon keys?**
 
 The idea of dungeon keys is to give you a little exp and one or two equipment (randomly chosen). There is no confirmation that you\`ll always find treasure though.

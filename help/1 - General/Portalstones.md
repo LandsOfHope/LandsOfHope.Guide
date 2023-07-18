@@ -1,3 +1,5 @@
+---
+---
 Portalstones are items that have been made using the Portal Mastery skill, while crafting a portalstone requires a skill the use of the stone itself does not. This means players are free to buy/trade/sell and use these stones as they see fit.
 
 Portalstones provide an alternate way to travel, when you use a portalstone it creates a clickable but temporary item that lets you and anyone else that clicks on the portal access the destination the portalstone was bound to.

@@ -1,3 +1,5 @@
+---
+---
 A new system was introduced (October 2010) for Social Gifts. When you link yourself into chat players can click on your Social tab to view what kind of gifts have been unlocked for you ... these people viewing your social tab can then choose to unlock other social gifts for you.
 
 You can not unlock your own social gifts only other players can give the gift!

@@ -1,3 +1,5 @@
+---
+---
 The dungeon spawn items screen is used to create a list of items that you wish your dungeon spawns to start with to make them harder to beat and to offer incentives for people to fight them.
 
 [![](https://lohcdn.com/images/t_dungeonspawnitem.jpg)](https://lohcdn.com/images/dungeonspawnitem.jpg)

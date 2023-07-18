@@ -1,3 +1,5 @@
+---
+---
 So you bought the expansion pack ... good on ya!
 
 First things first, head over to springlade and click on the Jurassic Wars portal to transport yourself to Juratania, if you havent done so already of course.

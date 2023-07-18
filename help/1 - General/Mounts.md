@@ -1,3 +1,5 @@
+---
+---
 Certain pet races are considered Mountable, this means you can ride them like for example riding a horse.
 
 Tip: For a full list of the mountable races go to Library > Races > Mounts.

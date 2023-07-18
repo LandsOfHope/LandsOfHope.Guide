@@ -1,3 +1,5 @@
+---
+---
 Skinning is an excellent skill to learn at a low level as it gives an extra xp bonus once you have killed an enemy. It seems to be quite difficult to raise on occasion, but this is not the case, all you need to know shall be revealed.
 
 First off you can learn the skill from Kaelia Kaka at Springlade (31,59 KV) upon doing so you will receive 5 skill, you won\`t be able to skin much with this but the level 1 cows found directly north of Springlade are a good start, you can even stretch to a level 2 if you feel the need to.

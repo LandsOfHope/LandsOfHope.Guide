@@ -1,3 +1,5 @@
+---
+---
 The **Experience Bonus** skill is used to increase the amount of experience you gain while playing the game. This is a skill that no one starts with, it can not be learned or trained and it is hard to come by in large quantities.
 
 **Skill Use  

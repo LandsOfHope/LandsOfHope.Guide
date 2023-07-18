@@ -1,3 +1,5 @@
+---
+---
 From time to time we hold special events, such as Christmas and Halloween events.
 
 Also there are certain events that occur at set intervals.

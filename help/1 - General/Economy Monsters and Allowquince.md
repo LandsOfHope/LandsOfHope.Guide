@@ -1,3 +1,5 @@
+---
+---
 At random times during the day an Economy Monster will spawn in KV, the level can be anywhere from 50 to level 1000.
 
 If you kill the monster you get a Job Application, take these Applications to Job Seeker Allowquince inside Coldglen (22, 13) in Knotwood Valley.

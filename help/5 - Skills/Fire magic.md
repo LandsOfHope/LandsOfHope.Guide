@@ -1,3 +1,5 @@
+---
+---
 The **Fire Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the fire line of magic.
 
 The following playable classes get the fire magic skill:

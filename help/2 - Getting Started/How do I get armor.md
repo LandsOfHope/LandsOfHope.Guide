@@ -1,3 +1,5 @@
+---
+---
 There are NPC shops that sell Armor in all of the realms, however as there are potentially at least 20 different items of armor available each realm it is not possible to have a shop for each available armor piece.
 
 So there are generally only two NPC shops that sell armor per realm.

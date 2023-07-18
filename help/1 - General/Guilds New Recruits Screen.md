@@ -1,3 +1,5 @@
+---
+---
 The new recruits screen is used to manage your new guild members and provides the same functions that the main members screen provides except this screen only shows the newest members of the guild who have not been promoted to a proper rank yet.
 
 _New recruits have restricted access to features so it is recommend you either promote a new member past the -1 rank or kick them out of the guild if you do not plan on having them as a member._

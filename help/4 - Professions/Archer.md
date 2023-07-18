@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth Leather**  
 The Archer class has a number of combat skills to choose from including:
 

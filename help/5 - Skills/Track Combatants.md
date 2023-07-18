@@ -1,3 +1,5 @@
+---
+---
 The **Track Combatants** skill provides the means to track players such as Gladiators (or anyone with PvP enabled). This skill is a class skill that can only be learnt via the Skill training deeds that Gladiators get as an evolution reward.
 
 To track combatants after getting this skill use the World > Track > Combatants screen.

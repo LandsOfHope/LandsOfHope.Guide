@@ -1,3 +1,5 @@
+---
+---
 The **Exploration** skill is used to discover buildings and places that have been forgotten or lost for any number of reasons. After you discover a lost place it remains accessible for 30minutes after which time it is forgotten again.
 
 Exploration is a trainable skill that anyone can pick up, and is not bound to a specific class.

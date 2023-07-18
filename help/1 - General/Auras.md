@@ -1,3 +1,5 @@
+---
+---
 Auras were added in November 2008, essentially a new equipment slot called "Aura" was added along with 5 special aura items.
 
 *   Aura of the Generous (Health and Experience Bonus)

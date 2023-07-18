@@ -1,3 +1,5 @@
+---
+---
 While you do not have to patch the game to play it, we are constantly adding new content to the game this is often done in the background without any interruption to game play.
 
 Sometimes it is necessary to update core files, these are an integral part of the game and patching them will produce errors. It is not that the game is broken it is merely that the file is unaccessible while it is being patched.

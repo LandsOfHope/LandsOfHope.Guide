@@ -1,3 +1,5 @@
+---
+---
 Allowed Armor: **Cloth** **Leather**  
 The Mercenary class has the following combat weapon skills to choose from:
 

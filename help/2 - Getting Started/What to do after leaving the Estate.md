@@ -1,3 +1,5 @@
+---
+---
 Firstly congratulations on making it this far, you are surely a special breed of player as most people falter before reaching the end of the estate.
 
 You are now in the main game, it is a lot more open ended than the estate so you will have to get used to not straying too far from areas suited to your level.

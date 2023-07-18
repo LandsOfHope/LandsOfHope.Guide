@@ -1,3 +1,5 @@
+---
+---
 The **Pole defense** skill enables you to defend more easily against attacks from the following skills:
 
 *   POLE WEAPONS

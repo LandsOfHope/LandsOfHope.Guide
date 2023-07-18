@@ -1,3 +1,5 @@
+---
+---
 The referral system has now been totally redesigned, for each player you refer to Lands of Hope you will earn 1 referral point, and each player you refer that pays will get you **1 golden referral point**.
 
 These points can then be used to redeem the following account rewards:

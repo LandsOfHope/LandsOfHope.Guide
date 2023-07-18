@@ -1,3 +1,5 @@
+---
+---
 The **Demonology** skill is a multi-purpose tool that serves three purposes.
 
 *   Lets you learn and cast magic spells.

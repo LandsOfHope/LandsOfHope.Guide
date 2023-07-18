@@ -1,3 +1,5 @@
+---
+---
 The **Slavemastery** skill is a class skill that the Warlord class gets. It is used to enslave (tame) Humanoid monsters such as Humans and Elves.
 
 _As with the other taming skills you can also use bonuses on items to acquire this skill although it is unlikely you will be able to tame very high level monsters doing it that way._

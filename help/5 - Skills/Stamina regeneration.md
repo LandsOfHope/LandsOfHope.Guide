@@ -1,3 +1,5 @@
+---
+---
 The **Stamina Regeneration** skill is used to determine how quickly you regenerate lost stamina during combat.
 
 Regeneration occurs once per round.

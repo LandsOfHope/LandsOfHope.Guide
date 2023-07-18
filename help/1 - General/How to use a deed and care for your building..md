@@ -1,3 +1,5 @@
+---
+---
 First, go to the tile that you want to build on. I reccomend it to be at least two tiles away from a town tile, because they are reserved.
 
 When you have found a good location, go to your inventory and click on the deed. Click the **"Use"** button. This will place the building onto the tile.

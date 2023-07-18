@@ -1,3 +1,5 @@
+---
+---
 A Money deed is like a money order, you can visit any post NPC such as the one inside Springlade town building, then click on them and click the Money deed button to access the screen for making a money deed.
 
 You basically turn all or just a part of your money into a deed, this is essentially an item which means it can be posted or stored in a vault or chest or simply given away.

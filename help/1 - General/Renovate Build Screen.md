@@ -1,3 +1,5 @@
+---
+---
 The renovate build screen allows you to add rooms onto your existing building or to upgrade one type of room to another type of room.
 
 ![](http://www.forlornonline.com/images/rennovatebuild.jpg)

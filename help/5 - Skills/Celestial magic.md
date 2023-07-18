@@ -1,3 +1,5 @@
+---
+---
 The **Celestial Magic** skill is a class magic skill. The magic skill determines what spells you can learn from the Celestial line of magic.
 
 This skill is gained by the Stargazer special playable class.

@@ -1,3 +1,5 @@
+---
+---
 If you need help and someone tells you to go to some place, they will most likely give you two sets of numbers i.e. 31, 59 these are coordinates and indicate the position of someplace within a map.
 
 They correspond to the grid location, each map is a 100 \* 100 grid so 31, 59 would mean the 31st column, and the 59th row. They are also called x and y coordinates also with x being the first number (31) and y the second (59).

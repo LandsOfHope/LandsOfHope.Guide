@@ -1,3 +1,5 @@
+---
+---
 With the new interface in place it is now possible to Move and Resize many of the game elements.
 
 You must activate Resize mode to do this, either use Alt + R or click the Cog icon in the top right corner ![](https://lohcdn.com/game/icons/cog.png) of the game window and choose Toggle Resize .

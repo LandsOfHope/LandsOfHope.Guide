@@ -1,3 +1,5 @@
+---
+---
 We recently sought a new direction for our grouping system that really did not work very well, not through poor coding but because a browser game and our style of game is not really suited to grouping. It was decided that we would then come up with a new system that would replace grouping and after a few hours of brain straining thought it was decided that we would call it "Fellowships".
 
 A fellowship can consist of up to 6 players, each player goes off and does their own thing and fights monsters, for each person online in your fellowship while you fight you will receive a 5% xp bonus called the Fellowship bonus which will show up in orange text on the fight window when you see your actual xp.

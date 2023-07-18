@@ -1,3 +1,5 @@
+---
+---
 **Farmer Class**  
 The Farmer Class is now included with the Dragons of the East expansion pack (don't worry if you purchased the pack already you will find it unlocked on the New Character screen). This class leads to the has two unique lines (versus the three with normal classes or one with most other bought extra classes) at level 50 you can evolve into a Spy which later leads to Ninja or a Conscript which leads to Shogun.
 

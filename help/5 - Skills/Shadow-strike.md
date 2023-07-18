@@ -1,3 +1,5 @@
+---
+---
 The **Shadow-strike** skill is a special class skill that Assassins get. The skill allows an assassin the ability to use special shadow-strike combat styles, which are available while stealthed.
 
 _A shadow-strike style is used in the first round of the fight and no other, but deals more damage than ordinary styles.._

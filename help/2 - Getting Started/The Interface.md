@@ -1,3 +1,5 @@
+---
+---
 The Interface for Lands of Hope is somewhat different to other browser based games, this is mainly due to the amount of features that are available in the game and the fact we wanted them to be easily available.
 
 [![](https://lohcdn.com/images/t_mainwindow.jpg)](https://lohcdn.com/images/mainwindow.jpg)

@@ -1,3 +1,5 @@
+---
+---
 To look for meteorites you should be a Stargazer (or later Evolution) and leave the estate and go to 33, 58 ... if you have emptied your starting chest you should have gained a key (this is invisible in your inventory) to the Springlade Observatory.
 
 Enter the Observatory and either speak to the Celestial Supplier or click on the Star Seeker item on the ground to gain your first Star Seeker tool, this is what Stargazers use to find the meteorites.

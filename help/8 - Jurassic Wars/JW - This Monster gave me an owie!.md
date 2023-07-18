@@ -1,3 +1,5 @@
+---
+---
 As you have probably noticed the monsters in Juratania are not weak and feeble like the monsters in the other realms, they are ferocious beasts that like nothing more enjoyable than ripping your still beating heart out and dipping it in bbq sauce before eating it.
 
 So be prepared, check your equipment before fighting them make sure you are using the best you can use for your level ... that means if you are level 50 using level 5 gear you need to go get new gear.

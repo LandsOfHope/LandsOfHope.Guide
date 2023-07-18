@@ -1,3 +1,5 @@
+---
+---
 Shamans using Spirit Magic have the ability to trap souls of monsters they killed in battle, these trapped souls are placed into empty soul gems the Shaman must have in his inventory prior to starting combat.
 
 When you kill a monster and use the Loot screen there will be an option to trap the soul, once the button is clicked the corpse will be destroyed so make sure you have looted the corpse prior to clicking the button.

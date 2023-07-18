@@ -1,3 +1,5 @@
+---
+---
 Note: These bonuses did not apply to Preview Weekend 1 characters, if you wish to get these bonuses you will have to start over.
 
 *   Wealthy Bonus, you start with 900doubloons instead of 300.

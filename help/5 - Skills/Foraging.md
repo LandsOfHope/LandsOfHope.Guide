@@ -1,3 +1,5 @@
+---
+---
 The **Foraging** gathering skill alllows you to gather fruit and vegetables. Both of these resources are used in Cooking. Anyone can take up the skill of Foraging as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

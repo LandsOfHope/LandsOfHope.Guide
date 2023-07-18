@@ -1,3 +1,5 @@
+---
+---
 There are many different ways to travel around the world of Myzan the most commonly used are explained below.
 
 **Mini-map clicking**  

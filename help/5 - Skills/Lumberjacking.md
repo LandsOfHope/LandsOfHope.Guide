@@ -1,3 +1,5 @@
+---
+---
 The **Lumberjacking** gathering skill alllows you to gather log resources. Logs are used in constructing plans and items using the Carpentry skill. Anyone can take up the skill of lumberjacking as it is a trainable skill regardless of class.
 
 **Skill Trainer Location  

@@ -1,3 +1,5 @@
+---
+---
 To create a new accout you must first accept the LoH/Forlorn Games Terms of Service document which can be found at the following location:
 
 [http://www.forlornonline.com/fhtos.asp](http://www.forlornonline.com/fhtos.asp)  

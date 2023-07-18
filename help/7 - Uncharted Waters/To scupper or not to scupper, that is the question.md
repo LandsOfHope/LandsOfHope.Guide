@@ -1,3 +1,5 @@
+---
+---
 **What is scuppering?**  
 Scuppering is common sea folk term for sinking a vessel on purpose, usually by opening a sea cock or some other form of valve that lets water into the vessel. As pirates and navy folk aren't smart enough to work valves usually their form of scuppering involves blowing a blooming great big hole in the bottom of the vessel.
 

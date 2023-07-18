@@ -1,3 +1,5 @@
+---
+---
 If you need an item that isn't sold by the NPCs and you don't have the time and patience to get your crafting skills up to speed, the craft marketeer can be a big help.  Here's how to use him:
 
 First, make sure you have at least one open slot in your queue, because that's where the item will go when you make it.  Go to Springlade (31, 59) or the main town of any realm and click on the General Marketeer.  At the bottom of the screen, click the "craft" button.  In the search box that appears, type in the name of the thing you want to make.  Since most people use the craft marketeer for buildings, as an example we'll say you're looking for a house deed, so you would type "deed" in the search box and click "Find."  A list of all the deeds you can have made will appear.  Search through the deeds until you find the one you want to create.  In this example, we'll choose a "Wooden Farm House deed."  Click on the deed name to continue the creation process.

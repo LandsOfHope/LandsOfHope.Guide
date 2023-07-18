@@ -1,3 +1,5 @@
+---
+---
 **About Styles**  
 If you have a weapon skill you should be able to learn combat styles for that skill. There are typically hundreds of combat styles available for the various weapon skills in the game you can view more information on these styles via the Library > Styles screen.
 

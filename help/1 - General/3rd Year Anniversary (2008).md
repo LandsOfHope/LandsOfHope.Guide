@@ -1,3 +1,5 @@
+---
+---
 Around 5am (ET) on the 22nd of July 2008 a gift will be given to each account deemed active in the last 28 days. To access this gift box go to File > Claim Account Item, please note that unlike previous years this gift box can only be gained for one character, choose wisely!.
 
 The box will contain one random item from the following list:

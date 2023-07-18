@@ -1,3 +1,5 @@
+---
+---
 Aside from 50, 50 which is neutral, the following territory has been distributed evenly between the five factions:
 
 *   Oceans, rivers and Lakes areas = Topaz Flight

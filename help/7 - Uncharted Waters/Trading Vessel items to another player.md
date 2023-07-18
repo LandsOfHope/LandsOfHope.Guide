@@ -1,3 +1,5 @@
+---
+---
 You can trade vessel items to another player, the only vessel items that can be traded are:
 
 *   Cargo items (things you loot off vessels)

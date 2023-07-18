@@ -1,3 +1,5 @@
+---
+---
 The **Blacksmithing** skill is a crafting skill that anyone can learn by speaking to the blacksmithing skill trainer.
 
 **Skill Trainer Location  

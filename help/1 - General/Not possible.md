@@ -1,3 +1,5 @@
+---
+---
 **Why does Decius say an idea is not possible?**  
 Well ultimately at the end of the day every idea is possible, however some ideas/featues that are requested require massive changes to the core gameplay or additional overhead in terms of how the game retrieves/updates information in the system which make them extremely unattractive to add.
 

@@ -1,3 +1,5 @@
+---
+---
 Pets have a bunch of uses, but predominantly they can be used for the following:
 
 *   Gathering raw resources

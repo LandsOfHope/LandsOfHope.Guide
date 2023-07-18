@@ -1,3 +1,5 @@
+---
+---
 If you have been lucky enough to purchase your own tile of land you have almost full control over the tile. The only things you can not change on the tile are the terrain, images and monster spawns for the simple reason that it may cause problems for other players if you could.
 
 _As tiles are extremely rare and only made available in limited numbers anyone who does get a land tile should count themselves extremely lucky and dare I say it special._

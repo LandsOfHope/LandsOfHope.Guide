@@ -1,3 +1,5 @@
+---
+---
 There comes a point in every players life when they must make their first trip to sell goods or simply to make room in their inventory.
 
 You can sell your goods to a number of NPCs including the Healer and General Store characters.

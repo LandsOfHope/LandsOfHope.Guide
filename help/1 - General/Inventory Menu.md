@@ -1,3 +1,5 @@
+---
+---
 The Inventory menu contains the following items:
 
 **Crafting Supplies**  

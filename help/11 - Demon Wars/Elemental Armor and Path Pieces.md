@@ -1,3 +1,5 @@
+---
+---
 A new update has been made to the Demonic Plains realms. The NPCs inside the Temple at Path now have new quests.
 
 You can turn in Guardian spirits and Brotherhood blood for path pieces, these in turn can be traded at another NPC for Elements.

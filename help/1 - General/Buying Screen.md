@@ -1,3 +1,5 @@
+---
+---
 There are many NPCs in the game that can sell you goods and items such as Healers and more commonly the General Store NPC.
 
 _When you click on a shop type NPC it should show the screen below, in some cases such as the Healer a different screen is shown first requiring you to click the Buy Items button at the bottom of the screen to show the screen that lets you Buy Items._

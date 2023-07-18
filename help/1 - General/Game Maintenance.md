@@ -1,3 +1,5 @@
+---
+---
 Game maintenance is conducted every day at 12:00am Eastern, various maintenance routines are run to fine tune and tweak the game database for optimal performance for the rest of the day.
 
 Between 12:00 to 12:10 you will not be able to play the game, but chat may work. Previously the server was also rebooted as part of maintenance but we are going to try it without the reboots for a while.

@@ -1,3 +1,5 @@
+---
+---
 [![](https://lohcdn.com/images/t_optionscombat.jpg)](https://lohcdn.com/images/optionscombat.jpg)
 
 **Go to Loot screen**  

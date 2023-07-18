@@ -1,3 +1,5 @@
+---
+---
 Those of you using IE7 or 8 may find this post useful to improve speed overall.
 
 [http://reliancepc.com/menu/tips/IE7tuning/index.php](http://reliancepc.com/menu/tips/IE7tuning/index.php)

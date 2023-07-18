@@ -1,3 +1,5 @@
+---
+---
 There are a number of management screens involved in managing your buildings the most commonly used is the Property > Manage screen.
 
 [![](https://lohcdn.com/images/t_propertymanagement.jpg)](https://lohcdn.com/images/propertymanagement.jpg)

@@ -1,3 +1,5 @@
+---
+---
 The possession skill is a class skill that is gained from being an Invoker or Necromancer. It is however possible to possess monsters and minions without having natural skill in the possession skill.
 
 There are three ways you can accomplish this.

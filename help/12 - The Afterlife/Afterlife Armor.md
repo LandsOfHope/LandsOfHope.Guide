@@ -1,3 +1,5 @@
+---
+---
 There is now a new NPC at 54, 52 The Afterlife called "Shrillbone Nubbins", she can be found inside the Necropolis.
 
 This NPC is a Quartermaster and sells you pieces of a new armor set. This new armor set is imaginatively titled the Afterlife armor set and consists of 5 pieces of armor.

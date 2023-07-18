@@ -1,3 +1,5 @@
+---
+---
 Lands of Hope is free to play for the first 100 levels.  If you want to go beyond 100 levels, there is a small one-time fee required.  That fee is paid using Hope Credits (HCs).  The one-time fee is 3HCs. 
 
 There are several ways to acquire HCs:  

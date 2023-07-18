@@ -1,3 +1,5 @@
+---
+---
 To the right of a chatters name in chat there will sometimes be a tag, these tags are explained below.
 
 **Rank Symbols**
