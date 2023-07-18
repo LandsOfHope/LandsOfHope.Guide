@@ -1,6 +1,6 @@
 The renovate spawn screen allows you to monster spawns to special rooms in your building (the entrance room and the lesser/greater and ordinary spawn type rooms).
 
-![](images/rennovatespawn.jpg)
+![](https://lohcdn.com/images/rennovatespawn.jpg)
 
 The build screen lists all of the full soul gems you have in your inventory that you are high enough level to use.
 

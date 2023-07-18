@@ -6,6 +6,6 @@ There are a total of five pieces that make up this set, completing a full set an
 
 Both the legend armor pieces and the Crafters Measure item are no trade, no auction etc and are in no way shape or form meant to be given to other players.
 
-![](game/i/6392.gif)![](game/i/6393.gif)![](game/i/6394.gif)![](game/i/6395.gif)![](game/i/6396.gif)
+![](https://lohcdn.com/game/i/6392.gif)![](https://lohcdn.com/game/i/6393.gif)![](https://lohcdn.com/game/i/6394.gif)![](https://lohcdn.com/game/i/6395.gif)![](https://lohcdn.com/game/i/6396.gif)
 
 This is the artwork for the set.

@@ -1,6 +1,6 @@
 Below is a diagram which lists all of the Hydrania race evolutions. You can access these by siding with Hydrania and becoming a Watuman.
 
-![](images/hydrania.png)
+![](https://lohcdn.com/images/hydrania.png)
 
 To evolve you should seek out an Evolved Spirit NPC, there is one at 32, 62 (Knotwood Valley) inside the South Glade Tower, but there are others.
 

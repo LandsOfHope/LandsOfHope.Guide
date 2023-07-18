@@ -11,4 +11,4 @@ This will make it easier to fight against magic users, although with the lack of
 
 Elemental armor artwork:
 
-![](game/i/6377.gif)![](game/i/6378.gif)![](game/i/6379.gif)![](game/i/6380.gif)![](game/i/6381.gif)
+![](https://lohcdn.com/game/i/6377.gif)![](https://lohcdn.com/game/i/6378.gif)![](https://lohcdn.com/game/i/6379.gif)![](https://lohcdn.com/game/i/6380.gif)![](https://lohcdn.com/game/i/6381.gif)
