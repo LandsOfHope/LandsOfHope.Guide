@@ -34,13 +34,13 @@ If you have your own website or plan on starting your own website you can use th
 
 **Example**
 
-[![](images/badge100.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
+[![](https://lohcdn.com/images/badge100.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
 
 <a href="http://www.forlornonline.com/signup.asp?Ref={AccountID}" title="Signup to Lands of Hope and play!"><img src="http://www.forlornonline.com/images/badge100.png" border=0></a>
 
 **Example**
 
-[![](images/badgebar1.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
+[![](https://lohcdn.com/images/badgebar1.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
 
 <a href="http://www.forlornonline.com/signup.asp?Ref={AccountID}" title="Signup to Lands of Hope and play!"><img src="http://www.forlornonline.com/images/badgebar1.png" border=0></a>
 
@@ -48,6 +48,6 @@ If you have your own website or plan on starting your own website you can use th
 
 **Example**
 
-[![](images/badgebar2.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
+[![](https://lohcdn.com/images/badgebar2.png)](signup.asp?Ref={AccountID} "Signup to Lands of Hope and play!")
 
 <a href="http://www.forlornonline.com/signup.asp?Ref={AccountID}" title="Signup to Lands of Hope and play!"><img src="http://www.forlornonline.com/images/badgebar4.png" border=0></a>
