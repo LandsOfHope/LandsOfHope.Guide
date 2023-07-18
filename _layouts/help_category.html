@@ -1,0 +1,9 @@
+<ul>
+    {% for help_topic in site.help_topics %}
+
+    {% if help_topic.category == page.slug %}
+    <li><a href="{{help_topic.url}}">{{help_topic.name}}</a></li>
+    {% endif %}
+
+    {% endfor %}
+</ul>

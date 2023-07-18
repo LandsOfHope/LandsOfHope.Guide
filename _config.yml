@@ -53,3 +53,11 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  help_categories:
+    output: true
+    sort_by: order
+  help_topics:
+    output: true
+    permalink: /help/:name

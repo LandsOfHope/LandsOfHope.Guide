@@ -1,0 +1,8 @@
+---
+name: Wintersvale
+category: general
+layout: help_topic
+---
+Over twenty years ago, a Lemurian businessman founded a store called Wintersvale Supplies, the store was very popular and after a year he had expanded into three realms and diversified into manufacture and supply, the business was becoming very successful. Mr. Wintersvale was not a greedy person and he was earning far too much money than he could ever spend in his lifetime so he set about spreading his wealth and investing in various projects to make the lives of Myzans easier, one such project is called the Wintersvale Celebrations and it is held every year during December. Traditionally during December Mr. Wintersvale hands out gifts to his workers for there hard work that year but a few years ago he took it one step further and made it a global holiday and began handing out gifts to everyone in the land of Myzan.  
+  
+Now in its fifth year Oldman Wintersvale plans on handing out more presents than ever, to be eligible for an in game present you must have visited Myzan during the Wintersvale Celebrations (1st December to the 24th), however this year there has been a slight problem some of the seasonal help have decided to play a little prank and have hidden a lot of the Wintersvale gifts inside the Player dungeons of Myzan, so Oldman Wintersvale has put a call out to everyone to go inside player dungeons and fight the monsters inside to save Wintersvale for everyone!
