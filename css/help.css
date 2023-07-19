@@ -9,16 +9,17 @@ body {
     margin: 0;
 }
 
-.help-category-tabs,
 .help-category-topics-container {
     border: 1px solid rgb(60, 60, 60);
     display: table-cell;
     vertical-align: top;
     min-width: min-content;
+    width: 100%;
 }
 
-body section:nth-child(2) {
-    width: 100%;
+.help-category-tabs {
+    height: 100%;
+    overflow-y: scroll;
 }
 
 .help-category-tab {
