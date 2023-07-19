@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(31, 22, 13);
+    color: white;
+    font-family: Helvetica;
+    font-size: 1em;
+    display: table;
+    width: 100%;
+}
+
+section {
+    border: 1px solid rgb(60, 60, 60);
+    display: table-cell;
+    vertical-align: top;
+    min-width: min-content;
+}
+
+body section:nth-child(2) {
+    width: 100%;
+}
+
+.help-category-tab {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    color: RGB(238, 210, 173);
+    cursor: pointer;
+    font-weight: normal;
+    background-color: #4C3F2F;
+    border: 1px solid;
+    border-top-color: RGB(62, 44, 32);
+    border-left-color: RGB(62, 44, 32);
+    border-right-color: RGB(48, 36, 22);
+    border-bottom-color: RGB(48, 36, 22);
+    padding: 0.3em;
+}
+
+.help-category-tab:hover {
+    color: gold;
+    background-color: RGB(66, 50, 35);
+    border-top-color: RGB(48, 36, 22);
+    border-left-color: RGB(48, 36, 22);
+    border-right-color: RGB(62, 44, 32);
+    border-bottom-color: RGB(62, 44, 32);
+}
+
+.help-topic-frame {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}

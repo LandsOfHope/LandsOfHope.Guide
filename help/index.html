@@ -1,17 +1,42 @@
 ---
 ---
 
-<ul>
+<html>
 
-    {% for help_category in site.help_categories %}
+<head>
+    <link rel="stylesheet" href="/css/help.css" />
+</head>
 
-    <li><a href="{{help_category.url}}" target="frame" style="color: {{help_category.color}}">{{help_category.name}}</a>
-    </li>
+<body>
 
-    {% endfor %}
+    <section id="help-category-tabs">
 
-</ul>
+        {% for help_category in site.help_categories %}
 
-<iframe name="frame" />
+        <a href="{{help_category.url}}" target="help-topic-frame" class="help-category-tab"
+            style="color: '{{help_category.color}}'">{{help_category.name}}</a>
 
-<!-- <html><body><ul><li><a href="1 - General/index.html" target="frame">1 - General</a></li><li><a href="2 - Getting Started/index.html" target="frame">2 - Getting Started</a></li><li><a href="3 - Configuring and Installation/index.html" target="frame">3 - Configuring and Installation</a></li><li><a href="4 - Professions/index.html" target="frame">4 - Professions</a></li><li><a href="5 - Skills/index.html" target="frame">5 - Skills</a></li><li><a href="6 - Tips and Tricks/index.html" target="frame">6 - Tips and Tricks</a></li><li><a href="7 - Uncharted Waters/index.html" target="frame">7 - Uncharted Waters</a></li><li><a href="8 - Jurassic Wars/index.html" target="frame">8 - Jurassic Wars</a></li><li><a href="9 - Endgame Content/index.html" target="frame">9 - Endgame Content</a></li><li><a href="10 - Dragons of the East/index.html" target="frame">10 - Dragons of the East</a></li><li><a href="11 - Demon Wars/index.html" target="frame">11 - Demon Wars</a></li><li><a href="12 - The Afterlife/index.html" target="frame">12 - The Afterlife</a></li><li><a href="13 - Dark Depths/index.html" target="frame">13 - Dark Depths</a></li></ul><iframe name="frame" /></body></html> -->
+        {% endfor %}
+
+    </section>
+
+    <section class="help-category-topics-container">
+        <iframe name="help-topic-frame" class="help-topic-frame" src="{{site.help_categories[0].url}}" />
+    </section>
+
+    <table>
+
+        <tr>
+            <td>
+                <table>
+
+                </table>
+            </td>
+            <td width="*">
+
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
