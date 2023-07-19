@@ -88,18 +88,13 @@ a.help-topic-row:hover {
     padding: .5em;
 }
 
-.help-topic-icon>circle {
+a.help-topic-row .help-topic-icon circle {
     fill: green;
 }
 
-a.help-topic-row:visited>.help-topic-icon>circle {
+a.help-topic-row:visited .help-topic-icon circle {
     fill: palevioletred;
 }
-
-/* 
-a.help-topic-row:visited>.help-topic-icon {
-    background-image: url("https://res.landsofhope.com/game/i/fl2.gif");
-} */
 
 .help-topic-title {
     display: table-cell;
