@@ -3,4 +3,4 @@ name: Finding Skill Trainers
 category: general
 layout: help_topic
 ---
-Please read the manual page: [http://www.fho2.com/guide/10.html](`http://www.fho2.com/guide/10.html`)
+The [Realm Links](/help/realm-links.html) page has a list of links to realm info pages which contain the skill trainers available in each realm.
