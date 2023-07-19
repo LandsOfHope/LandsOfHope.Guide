@@ -5,9 +5,12 @@ body {
     font-size: 1em;
     display: table;
     width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
-section {
+.help-category-tabs,
+.help-category-topics-container {
     border: 1px solid rgb(60, 60, 60);
     display: table-cell;
     vertical-align: top;
@@ -31,7 +34,7 @@ body section:nth-child(2) {
     border-left-color: RGB(62, 44, 32);
     border-right-color: RGB(48, 36, 22);
     border-bottom-color: RGB(48, 36, 22);
-    padding: 0.3em;
+    padding: 0.5em;
 }
 
 .help-category-tab:hover {
@@ -43,9 +46,63 @@ body section:nth-child(2) {
     border-bottom-color: RGB(62, 44, 32);
 }
 
+.help-category-topics-container {
+    height: 100%;
+}
+
 .help-topic-frame {
     width: 100%;
     height: 100%;
     border: none;
     display: block;
+}
+
+.help-topic-table {
+    display: table;
+    width: 100%;
+}
+
+.help-topic-row {
+    display: table-row;
+    vertical-align: middle;
+    width: 100%;
+}
+
+a {
+    color: #dcc397;
+}
+
+a.help-topic-row {
+    color: white;
+    text-decoration: none;
+}
+
+a.help-topic-row:hover {
+    background-color: #4C3F2F;
+}
+
+.help-topic-icon {
+    display: table-cell;
+    width: 15px;
+    height: 15px;
+    padding: .5em;
+}
+
+.help-topic-icon>circle {
+    fill: green;
+}
+
+a.help-topic-row:visited>.help-topic-icon>circle {
+    fill: palevioletred;
+}
+
+/* 
+a.help-topic-row:visited>.help-topic-icon {
+    background-image: url("https://res.landsofhope.com/game/i/fl2.gif");
+} */
+
+.help-topic-title {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
 }

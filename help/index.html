@@ -14,7 +14,7 @@
         {% for help_category in site.help_categories %}
 
         <a href="{{help_category.url}}" target="help-topic-frame" class="help-category-tab"
-            style="color: '{{help_category.color}}'">{{help_category.name}}</a>
+            style="color: {{help_category.color}}">{{help_category.name}}</a>
 
         {% endfor %}
 
@@ -23,20 +23,6 @@
     <section class="help-category-topics-container">
         <iframe name="help-topic-frame" class="help-topic-frame" src="{{site.help_categories[0].url}}" />
     </section>
-
-    <table>
-
-        <tr>
-            <td>
-                <table>
-
-                </table>
-            </td>
-            <td width="*">
-
-            </td>
-        </tr>
-    </table>
 </body>
 
 </html>

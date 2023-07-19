@@ -5,15 +5,23 @@
 </head>
 
 <body>
-    <ul>
+    <section class="help-topic-table">
         {% for help_topic in site.help_topics %}
 
         {% if help_topic.category == page.slug %}
-        <li><a href="{{help_topic.url}}">{{help_topic.name}}</a></li>
+        <a href="{{help_topic.url}}" class="help-topic-row">
+            <svg class="help-topic-icon" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="7.5" cy="7.5" r="7.5" />
+            </svg>
+            <span class="help-topic-title">{{help_topic.name}}</span>
+        </a>
         {% endif %}
 
         {% endfor %}
-    </ul>
+    </section>
+    <section class="help-topic-pages">
+
+    </section>
 </body>
 
 </html>

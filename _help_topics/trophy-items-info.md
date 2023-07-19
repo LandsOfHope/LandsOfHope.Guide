@@ -1,5 +1,5 @@
 ---
-name: &#126;&#126;Trophy Items Info&#126;&#126;
+name: Trophy Items Info
 category: general
 layout: help_topic
 ---
