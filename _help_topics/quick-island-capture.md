@@ -20,6 +20,6 @@ To begin with each faction has two islands which remain in their control 100% of
 
 There is  a diagram that I have created which shows the island capture path, you can view it at the following location:
 
-[http://www.forlornonline.com/images/pirates.jpg](http://www.forlornonline.com/images/pirates.jpg)
+![https://lohcdn.com/images/pirates.jpg](https://lohcdn.com/images/pirates.jpg)
 
 The diagram shows each of the islands and uses arrows to outline the route each faction must take to capture all of the islands.

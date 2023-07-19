@@ -11,6 +11,6 @@ The second flyer is one that allows you to write (yes with a pen) your referral 
   
 Both are in PDF format.  
   
-[http://www.forlornonline.com/images/flyer.pdf](images/flyer.pdf)  
+[https://lohcdn.com/images/flyer.pdf](images/flyer.pdf)  
   
-[http://www.forlornonline.com/images/flyer2.pdf](images/flyer2.pdf)
+[https://lohcdn.com/images/flyer2.pdf](images/flyer2.pdf)

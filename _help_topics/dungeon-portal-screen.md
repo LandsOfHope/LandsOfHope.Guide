@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The dungeon portal screen allows you to place a one way portal between two rooms of your dungeon. A room may only have one dungeon portal in it but you are free to place as many portals as you wish throughout your dungeon.
 
-![](http://www.forlornonline.com/images/dungeonportal.jpg)
+![](https://lohcdn.com/images/dungeonportal.jpg)
 
 To make a portal you must select a source and destination room this is done simply by clicking on the rooms on the dungeon map on the left. You will notice when you click the display updates to indicate a new source or destination you can change these by clicking the Clear button and re-selecting a room.
 

@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The renovate build screen allows you to add rooms onto your existing building or to upgrade one type of room to another type of room.
 
-![](http://www.forlornonline.com/images/rennovatebuild.jpg)
+![](https://lohcdn.com/images/rennovatebuild.jpg)
 
 The build screen lists all of the room deeds you have in your inventory that you can use. _As you can see from the image above the right side of the deed display lists the level of the deed but you can not use a deed that is higher than your level to expand your building._
 

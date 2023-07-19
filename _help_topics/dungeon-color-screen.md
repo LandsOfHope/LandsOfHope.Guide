@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The dungeon color screen allows you to set the background color of a room using a palette of quite a large number of alternate colors which should please almost everyone.
 
-![](http://www.forlornonline.com/images/dungeoncolor.jpg)
+![](https://lohcdn.com/images/dungeoncolor.jpg)
 
 To save the current room simply choose the new color you wish to use then click the Save button.
 

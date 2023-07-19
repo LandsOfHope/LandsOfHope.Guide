@@ -18,7 +18,7 @@ Using the resources tab you can plot convenient map markers straight onto your m
 
 While you can stumble around blindly trying to find the above resources using the Resources tab is much quicker and easier not to mention spifier!
 
-![](http://www.forlornonline.com/images/resourcebar3.jpg?x=1)
+![](https://lohcdn.com/images/resourcebar3.jpg?x=1)
 
 Each resource is listed above together with the skill that is required to gather it. There are some of the above resources on each map but the location of the resources is relative to the type of resource being gathered. This means you are not going to find vegetables on water tiles or fish on land tiles however you can use the Compass button at the bottom of the game screen to move your displayed map view around to find resources in other parts of the current map.
 

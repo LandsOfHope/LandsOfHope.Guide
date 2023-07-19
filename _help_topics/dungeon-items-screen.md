@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The dungeon items screen allows you to add and remove furnishings to a dungeon room.
 
-![](http://www.forlornonline.com/images/dungeonfurnish.jpg)
+![](http://lohcdn.com/images/dungeonfurnish.jpg)
 
 _The list of furnishings available to a room is largely room specific although most of the dungeon rooms support the addition of stairs and sell boxes._
 

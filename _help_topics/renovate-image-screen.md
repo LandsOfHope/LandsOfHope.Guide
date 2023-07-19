@@ -5,11 +5,11 @@ layout: help_topic
 ---
 The renovate image screen allows you to set the two different images a room can use.
 
-![](http://www.forlornonline.com/images/rennovateimage1.jpg)
+![](https://lohcdn.com/images/rennovateimage1.jpg)
 
 As there are over 500 images for you to use inside your rooms the available list of images has been broken down into multiple categories to make displaying and picking your images a much easier action.
 
-![](http://www.forlornonline.com/images/rennovateimage2.jpg)
+![](https://lohcdn.com/images/rennovateimage2.jpg)
 
 Once you choose a category such as "Stone Walls" all of the images in the chosen category will be displayed.
 

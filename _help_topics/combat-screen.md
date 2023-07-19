@@ -21,7 +21,7 @@ The combat screen is broken down into the following sections:
 **Info and Buttons**  
 The central area of the fight window displays information on the selected fighter in the top part of the screen and below that it has a number of buttons that can be used to perform fight actions.
 
-![](http://www.forlornonline.com/images/combatbuttons.jpg)
+![](https://lohcdn.com/images/combatbuttons.jpg)
 
 The buttons perform the following functions:
 

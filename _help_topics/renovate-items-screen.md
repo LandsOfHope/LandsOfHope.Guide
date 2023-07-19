@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The renovate items screen allows you to add and remove furnishings to a building room.
 
-![](http://www.forlornonline.com/images/rennovatefurnish.jpg)
+![](https://lohcdn.com/images/rennovatefurnish.jpg)
 
 _The list of furnishings available to a room is room specific this means you can not add a bed to a kitchen room or a water trough to a bedroom._
 

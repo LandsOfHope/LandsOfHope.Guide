@@ -31,6 +31,6 @@ Once you sell an item your held funds will go up by however much money you earne
 **Selling from other bags**  
 To sell items from inside other bags use the bag bar at the bottom of the screen and click on the bag icon you wish to sell from.
 
-![](http://www.forlornonline.com/images/bagbar.jpg)
+![](https://lohcdn.com/images/bagbar.jpg)
 
 _i.e. Click on the Backpack icon to open the backpack and sell items in your backpack to the NPC_

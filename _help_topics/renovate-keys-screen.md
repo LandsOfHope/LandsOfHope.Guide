@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The renovate key screen allows you to make a key to the selected room. You can then give keys to other players to allow them access to a locked room in your building.
 
-![](http://www.forlornonline.com/images/rennovatekeys.jpg)
+![](https://lohcdn.com/images/rennovatekeys.jpg)
 
 Clicking the Make button will make a new key and place it in your backpack you can then give the key to whoever you wish to give them access to that locked room.
 

@@ -34,7 +34,7 @@ The Character Bar is in the top left corner of the game window just below the me
 *   Stamina/Mana
 *   Possession/Mount icon
 
-![](http://www.forlornonline.com/images/infowindow.jpg)
+![](https://lohcdn.com/images/infowindow.jpg)
 
 **3). Spell Bar**  
 The spell bar is in the top middle area of the screen just to the right of the character bar. It shows all of the active spell effects your character currently has in effect. In addition it may show 2 other buttons:
@@ -44,12 +44,12 @@ The spell bar is in the top middle area of the screen just to the right of the c
 
 Any listed spell will have a timer below it indicating how long is left before the spell expires. You can click on a spell to cancel the spell if that is an available option or go to Abilities > Active to find out more information.
 
-![](http://www.forlornonline.com/images/spellwindow.jpg)
+![](https://lohcdn.com/images/spellwindow.jpg)
 
 **4). Money Bar**  
 The money bar is in the top right corner of the game window, to the right of the spell bar. It is where your currently held funds are displayed.
 
-![](http://www.forlornonline.com/images/moneywindow.jpg)
+![](https://lohcdn.com/images/moneywindow.jpg)
 
 **5). Map and Tip Bar**  
 On the left side of the screen is a mini-map of the area you are in you use this to move around the area. Simply click on a square on the mini-map to travel to that location.
@@ -68,7 +68,7 @@ _These bars are only available if you are using 1024 \* 768 or higher to play th
 **9). Status Window**  
 The bottom left corner of the game window is reserved for the status window. When you perform actions in the game these actions usually return a line of text which is displayed in this status window so it pays to take notice to it.
 
-![](http://www.forlornonline.com/images/statuswindow.jpg)
+![](https://lohcdn.com/images/statuswindow.jpg)
 
 **10). Chat**  
 The bottom right corner is reserved for the chat box system.

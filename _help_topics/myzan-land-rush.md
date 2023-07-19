@@ -29,6 +29,6 @@ The first Myzan Land Rush will take place at **1pm ET (6pm GMT) on Saturday 9th 
 *   Set yourself a maximum price you are willing to pay before the auction starts. Then do not exceed it ...
 *   Only bid if you know you have the money to cover your bids, fraudulent bidders will have their cookie priviledges taken away and will be locked in a room with no cookies to the end of time!
 
-If you can not make this Auction but wish to have a chance at winning, please email [support@forlornonline.com](mailto:support@forlornonline.com) with a subject of Auction proxy bid, include your account number or name in the email and the maximum amount of money in USD you will be prepared to bid. Your bids will then be taken into consideration during the live auction and you may still be chosen as the winner.
+If you can not make this Auction but wish to have a chance at winning, please email [support@landsofhope.com](mailto:support@landsofhope.com) with a subject of Auction proxy bid, include your account number or name in the email and the maximum amount of money in USD you will be prepared to bid. Your bids will then be taken into consideration during the live auction and you may still be chosen as the winner.
 
 This truly is an amazing prize and you will go down in the Myzan history books by winning it!

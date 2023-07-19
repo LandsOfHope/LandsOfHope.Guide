@@ -23,11 +23,11 @@ As with ordinary resting the events that happen when resting at night are random
 
 If you get bitten and your picture now looks like this:
 
-![](http://www.forlornonline.com/game/r/sofem1.gif)![](http://www.forlornonline.com/game/r/sofef1.gif)
+![](https://lohcdn.com/game/r/sofem1.gif)![](https://lohcdn.com/game/r/sofef1.gif)
 
 You were bitten by a Feralkin (which does not help you join the reapers), while if it looks like this:
 
-![](http://www.forlornonline.com/game/r/srnsm1.gif)![](http://www.forlornonline.com/game/r/srnsf1.gif)
+![](http://lohcdn.com/game/r/srnsm1.gif)![](https://lohcdn.com/game/r/srnsf1.gif)
 
 You were bitten by a Nightstalker and can join the reapers if the level 100 requirement is met.
 

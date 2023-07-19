@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The inventory screen is perhaps one of the most widely used screens in the game as it allows you to interact with items you have in your inventory.
 
-![](http://www.forlornonline.com/images/t_inventorywindow.jpg)
+![](https://lohcdn.com/images/t_inventorywindow.jpg)
 
 As you can see from the above screenshot the layout of the inventory screen is very similar to that of any other screen in the game.
 

@@ -3,9 +3,9 @@ name: Account Creation
 category: general
 layout: help_topic
 ---
-To create a new accout you must first accept the LoH/Forlorn Games Terms of Service document which can be found at the following location:
+To create a new accout you must first accept the Lands of Hope Terms of Service document which can be found at the following location:
 
-[http://www.forlornonline.com/fhtos.asp](http://www.forlornonline.com/fhtos.asp)  
+[https://www.landsofhope.com/tos](https://www.landsofhope.com/tos)  
   
 After reading the TOS there will be a button to ACCEPT the Terms, this will then take you to the new account screen.
 
@@ -23,6 +23,6 @@ After entering the details in the new account screen click the Signup button to 
   
 _All of these details can be changed after making the account but remember the Email Address is vitally important as we need to verify that address before you can play._  
   
-If you do not receive a verification email to that address it is most likely due to the fact that you entered an incorrect email address, the email was deleted due to junk filters or there was some problem sending the email. If you have email filtering or blocking enabled you should add @forlornonline.com and @fho2.com to your list of trusted domains/email senders so that our emails can reach you.  
+If you do not receive a verification email to that address it is most likely due to the fact that you entered an incorrect email address, the email was deleted due to junk filters or there was some problem sending the email. If you have email filtering or blocking enabled you should add @landsofhope.com to your list of trusted domains/email senders so that our emails can reach you.  
   
 Once your account is verified you can make new characters and begin to play Lands of Hope!

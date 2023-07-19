@@ -11,4 +11,4 @@ Then click **Build.**
 After that, select a person from the list that will pop up to build it, then click **ok**. It will then be in your queue.   
 When it finishes, move it to your inventory.
 
-For more info on how to use the deed, see my other help topic: [**How to use a deed and care for your building**](http://www.forlornonline.com/fhhelp.asp?CharsAt=44&P=4)
+For more info on how to use the deed, see my other help topic: [**How to use a deed and care for your building**](https://lohcdn.com/fhhelp.asp?CharsAt=44&P=4)

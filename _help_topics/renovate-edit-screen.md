@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The renovate edit screen allows you to rename your rooms and add a small textual description that everyone will see when they enter your room..
 
-![](http://www.forlornonline.com/images/rennovatedit.jpg)
+![](https://lohcdn.com/images/rennovatedit.jpg)
 
 The different settings are as follows:
 

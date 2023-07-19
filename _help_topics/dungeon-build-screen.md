@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The dungeon build screen allows you to add rooms onto your existing dungeon.
 
-![](http://www.forlornonline.com/images/dungeonbuild.jpg)
+![](https://lohcdn.com/images/dungeonbuild.jpg)
 
 The build screen lists all of the dungeon room deeds you have in your inventory that you can use. _As you can see from the image above the right side of the deed display lists the level of the deed but you can not use a deed that is higher than your level to expand your dungeon._
 

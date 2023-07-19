@@ -9,6 +9,6 @@ Next up open MS Paint, (Start > Programs > Accessories > Paint)  or any graphic
 
 Save the picture to your Hard Disk, in a folder you can remember. On the File > Save screen select your file type as GIF or JPG format these will create a much smaller image perfect for email or web posting purposes.
 
-If Decius or someone else has asked you to send them a screenshot, open up your email program of choice then attach the picture you made to the email and send it to the email address you were given.
+If someone has asked you to send them a screenshot, open up your email program of choice then attach the picture you made to the email and send it to the email address you were given.
 
-Typically if you are trying to email Decius the email address will be [mailto:support@forlornonline.com](mailto:support@forlornonline.com)[](mailto:support@forlornonline.com)
+Typically if you are trying to email the GM the email address will be [mailto:support@landsofhope.com](mailto:support@landsofhope.com)[](mailto:support@landsofhope.com)

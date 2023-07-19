@@ -13,7 +13,7 @@ _You can have any mixture of bags equipped so that could mean 5 small bags or 5 
 
 Once a bag is equipped it will show up in the bag bar on any screen that is linked to bags (typically the Inventory based screens).
 
-![](http://www.forlornonline.com/images/bagbar.jpg)
+![](https://lohcdn.com/images/bagbar.jpg)
 
 The bag bar shows all of the bags you have and will include:
 

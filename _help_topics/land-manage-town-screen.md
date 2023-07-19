@@ -17,7 +17,7 @@ You can use the Action Mode toggle in the center of the screen to switch between
 
 **Edit Mode**
 
-![](http://www.forlornonline.com/images/landedit.jpg)  
+![](https://lohcdn.com/images/landedit.jpg)  
 Using edit mode you can change the following tile properties:
 
 *   **Name**, allows you to change the name of the tile.
@@ -31,7 +31,7 @@ Click the Save button to confirm your changes.
 
 **Town Mode**
 
-![](http://www.forlornonline.com/images/landtown.jpg)  
+![](https://lohcdn.com/images/landtown.jpg)  
 Using town mode you can perform the following actions:
 
 *   **Make Permit**, creates a single construction permit. A permit is required by anyone who tries to build on a tile that has the Permit box ticked (Edit action mode). You can therefore make multiple permits and give them to people you wish to allow to own property on your tile.

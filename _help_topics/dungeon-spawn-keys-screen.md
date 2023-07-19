@@ -7,7 +7,7 @@ The dungeon spawn keys screen allows you to place a key you made previously usin
 
 It is a great way to secure part of your dungeon and make it so people have to find the keys to get further in to your masterpiece.
 
-![](http://www.forlornonline.com/images/dungeonspawnkey.jpg)
+![](https://lohcdn.com/images/dungeonspawnkey.jpg)
 
 Select the key then either click the Place key button to place the selected key into the room or click the Delete Key button to delete any placed keys in the room.
 

@@ -5,7 +5,7 @@ layout: help_topic
 ---
 The dungeon edit screen allows you to rename your rooms and add a small textual description that everyone will see when they enter your room..
 
-![](http://www.forlornonline.com/images/dungeonedit.jpg)
+![](https://lohcdn.com/images/dungeonedit.jpg)
 
 The different settings are as follows:
 

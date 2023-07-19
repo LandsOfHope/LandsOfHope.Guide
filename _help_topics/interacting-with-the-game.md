@@ -7,7 +7,7 @@ Lands of Hope is played almost entirely with the mouse, although using the keyb
 
 The main interaction window is shown below while the content of the window changes depending on what tile you are on the actual layout will not differ very much.
 
-![](http://www.forlornonline.com/images/innerwindow.jpg)
+![](https://lohcdn.com/images/innerwindow.jpg)
 
 The window contains the following elements:
 
