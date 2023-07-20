@@ -95,7 +95,7 @@ a.help-topic-row .help-topic-icon circle {
 }
 
 a.help-topic-row:visited .help-topic-icon circle {
-    fill: palevioletred;
+    fill: grey;
 }
 
 .help-topic-title {
