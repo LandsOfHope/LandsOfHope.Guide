@@ -61,3 +61,8 @@ collections:
   help_topics:
     output: true
     permalink: /help/:name
+  faq_categories:
+    output: true
+  faqs:
+    output: true
+    permalink: /faq/:slug
