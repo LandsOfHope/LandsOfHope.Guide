@@ -2,14 +2,33 @@
 
 <head>
     <link rel="stylesheet" href="/css/help.css" />
+    <script type="text/javascript" src="/js/fontawesome.min.js"></script>
 </head>
 
-<body>
+<body style="padding: 1em">
     <h1>
-        {{page.name}}
+        {{page.name}} <div class="tooltip" onclick="copylink(this)"><i id="copy-link"
+                class="fa fa-link fa-2xs"></i><span class="tooltip-text">Copy link</span></div>
     </h1>
 
     {{page.content}}
+
+    <script>
+        let pendingCopyTextChange = undefined;
+        let originalText = undefined;
+        function copylink(tooltipElement) {
+            if (pendingCopyTextChange) {
+                clearTimeout(pendingCopyTextChange);
+            }
+            const textElement = tooltipElement.getElementsByClassName('tooltip-text')[0];
+            if (!originalText) {
+                originalText = textElement.textContent;
+            }
+            navigator.clipboard.writeText(document.URL);
+            textElement.textContent = "Link copied";
+            pendingCopyTextChange = setTimeout((element, text) => { element.textContent = text; pendingCopyTextChange = undefined; }, 1300, textElement, originalText);
+        }
+    </script>
 
 </body>
 

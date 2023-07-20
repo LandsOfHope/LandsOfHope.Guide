@@ -7,6 +7,7 @@ body {
     width: 100%;
     height: 100%;
     margin: 0;
+    box-sizing: border-box;
 }
 
 .help-category-topics-container {
@@ -19,7 +20,7 @@ body {
 
 .help-category-tabs {
     height: 100%;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .help-category-tab {
@@ -101,4 +102,32 @@ a.help-topic-row:visited .help-topic-icon circle {
     display: table-cell;
     width: 100%;
     vertical-align: middle;
+}
+
+.tooltip {
+    display: inline;
+}
+
+.tooltip-text {
+    user-select: none;
+    font-size: 1rem;
+    display: none;
+    position: relative;
+}
+
+.tooltip:hover .tooltip-text {
+    display: inline;
+}
+
+.tooltip #copy-link {
+    user-select: none;
+    color: grey;
+}
+
+.tooltip:hover #copy-link {
+    color: lightsteelblue;
+}
+
+.tooltip:active #copy-link {
+    color: grey;
 }
