@@ -1,5 +1,5 @@
 ---
-name: - What are the advantages and disadvantages of playing a `neutral` character?- Do they lose some of the bonus items awards from common allegiances? `if so, there is any benefit for been a neutral and sacrifice those bonus items?`
+name: What are the advantages and disadvantages of playing a 'neutral' character? Do they lose some of the bonus items awards from common allegiances?  If so, there is any benefit for been a neutral and sacrifice those bonus items?
 category: general-questions
 layout: faq_topic
 ---

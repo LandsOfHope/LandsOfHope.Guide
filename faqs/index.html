@@ -1,0 +1,26 @@
+---
+---
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="/css/faq.css" />
+</head>
+
+<body>
+    <section class="faq-category-tabs">
+
+        {% for faq_category in site.faq_categories %}
+
+        <a href="{{faq_category.url}}" target="faq-topic-frame" class="faq-category-tab">{{faq_category.name}}</a>
+
+        {% endfor %}
+
+    </section>
+
+    <section class="faq-category-topics-container">
+        <iframe name="faq-topic-frame" class="faq-topic-frame" src="{{site.faq_categories[0].url}}"></iframe>
+    </section>
+</body>
+
+</html>

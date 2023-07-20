@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(31, 22, 13);
+    color: white;
+    font-family: Helvetica;
+    font-size: 12px;
+    display: table;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.faq-category-topics-container {
+    border: 1px solid rgb(60, 60, 60);
+    display: table-cell;
+    vertical-align: top;
+    min-width: min-content;
+    width: 100%;
+}
+
+.faq-category-tabs {
+    height: 100%;
+    overflow-y: auto;
+}
+
+.faq-category-tab {
+    display: block;
+    white-space: nowrap;
+    text-decoration: none;
+    color: RGB(238, 210, 173);
+    cursor: pointer;
+    font-weight: normal;
+    background-color: #4C3F2F;
+    border: 1px solid;
+    border-top-color: RGB(62, 44, 32);
+    border-left-color: RGB(62, 44, 32);
+    border-right-color: RGB(48, 36, 22);
+    border-bottom-color: RGB(48, 36, 22);
+    padding: 0.5em;
+}
+
+.faq-category-tab:hover {
+    color: gold;
+    background-color: RGB(66, 50, 35);
+    border-top-color: RGB(48, 36, 22);
+    border-left-color: RGB(48, 36, 22);
+    border-right-color: RGB(62, 44, 32);
+    border-bottom-color: RGB(62, 44, 32);
+}
+
+.faq-category-topics-container {
+    height: 100%;
+}
+
+.faq-topic-frame {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+.faq-topic-table {
+    display: table;
+    width: 100%;
+}
+
+.faq-topic-row {
+    display: table-row;
+    vertical-align: middle;
+    width: 100%;
+}
+
+a {
+    color: #dcc397;
+}
+
+a.faq-topic-row {
+    color: white;
+    text-decoration: none;
+}
+
+a.faq-topic-row:hover {
+    background-color: #4C3F2F;
+}
+
+.faq-topic-icon {
+    display: table-cell;
+    width: 15px;
+    height: 15px;
+    padding: .5em;
+}
+
+a.faq-topic-row .faq-topic-icon circle {
+    fill: green;
+}
+
+a.faq-topic-row:visited .faq-topic-icon circle {
+    fill: grey;
+}
+
+.faq-topic-title {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.tooltip {
+    display: inline;
+}
+
+.tooltip-text {
+    user-select: none;
+    font-size: 1rem;
+    display: none;
+    position: relative;
+}
+
+.tooltip:hover .tooltip-text {
+    display: inline;
+}
+
+.tooltip #copy-link {
+    user-select: none;
+    color: grey;
+}
+
+.tooltip:hover #copy-link {
+    color: lightsteelblue;
+}
+
+.tooltip:active #copy-link {
+    color: grey;
+}
