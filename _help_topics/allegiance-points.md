@@ -3,10 +3,11 @@ name: Allegiance Points
 category: general
 layout: help_topic
 ---
+
 When you perform tasks for your allegiance leaders, or kill monsters inside enemy allegiance dungeons you gain **allegiance points (AP)**. These points are cuumulative so you can gain them freely without any limit. Aside from ranking purposes the purpose of these points is to allow you to access two allegiance features.
 
-**Track Outposts  
-**World > Track > Outposts  
+**Track Outposts**  
+World > Track > Outposts  
 This feature lets you track enemy outposts (used with sieging to gain AP). There are outposts in the second realm and higher, but not the first.
 
 **Track Enemies**  
