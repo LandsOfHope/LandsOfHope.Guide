@@ -42,4 +42,4 @@ To locate the materials on the map, use the World > Resources screen, select the
 
 To create the planks, ingots, and bricks, use the Inventory > Tradeskill screen.  Select the appropriate crafting skill (carpentry, blacksmithing, stonemasonry), then select the item you want to create.  If all the Requirements are listed in green, then clicking on the Assemble button will create the desired item.  You may need to use the Stack button to put similar items into a single pile. A brick requires three stone blocks, and the blocks will not stack themselves into piles of three or more, unless you click the Stack button.
 
-...continued in [How do I get a house? (part 3 of 3)](manualnew.asp?search=715)
+...continued in [How do I get a house? (part 3 of 3)](/help/how-do-i-get-a-house-part-3-of-3)
