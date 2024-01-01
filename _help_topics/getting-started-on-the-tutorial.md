@@ -3,13 +3,14 @@ name: Getting Started on the Tutorial
 category: getting-started
 layout: help_topic
 ---
+
 For more information:
 
-*   Interface \[[Guide](fhhelp.asp?CharsAt=363) | [Tutorial](javascript: void(0);)\]
-*   [Tutorial Walkthrough](start/)
-*   Starting Items \[[Guide](fhhelp.asp?CharsAt=147)\]
-*   Equipping \[[Guide](fhhelp.asp?CharsAt=148) | [Tutorial](javascript: void(0);)\]
-*   Fighting \[[Guide](fhhelp.asp?CharsAt=150)\]
+- Interface \[[Guide](/Guides/Interface.html)\]
+- [Tutorial Walkthrough](/start/)
+- Starting Items \[[Guide](/help/how-to-get-items)\]
+- Equipping \[[Guide](/help/how-to-equip-items)\]
+- Fighting \[[Guide](/help/how-to-fight)\]
 
 Click one of the links above for specific help, also on any of the screens try the ![](https://lohcdn.com/game/icons/information.png) icon to see if there is a tutorial available for that screen.
 
