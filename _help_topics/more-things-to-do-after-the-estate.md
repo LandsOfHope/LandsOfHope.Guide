@@ -3,6 +3,7 @@ name: More things to do after the Estate
 category: getting-started
 layout: help_topic
 ---
+
 Familiarize yourself with the different menus, especially Library and Help as most questions can be answered there. Also type /search into chat to quickly find help topics.
 
 Learn Appraisal (for identifying monsters and items) and Exploration (for revealing hidden buildings) from the skill trainer outside of Springlade and read up on their use as soon as possible.
@@ -17,7 +18,7 @@ If you’ve already paid for the game Greenmead at 15,59 offers dungeon appropri
 
 To find yet more dungeons and other places to explore beyond these go to World>Landmarks and explore the selections there.
 
-Read up on the conflict between the Society and the Exiles over the throne of Myzan at [http://forlornonline.com/stories.asp](http://forlornonline.com/stories.asp) . To join either side visit the Tower of the Emissary’s at 27,47. Each side offers quests and rewards to players of all levels. Joining either does not prevent you from joining the Reapers at level 100.
+Read up on the [conflict between the Society and the Exiles over the throne of Myzan](/help/the-exiles-and-society) . To join either side visit the Tower of the Emissary’s at 27,47. Each side offers quests and rewards to players of all levels. Joining either does not prevent you from joining the Reapers at level 100.
 
 Check out Guilds>View for a list of player run guilds. These often have their own in-game or offsite forums to communicate with fellow members, and guild only quests such as those found in the Guilds of Hope at 31,58.
 
