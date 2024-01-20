@@ -28,7 +28,7 @@ c. Do you have a preference on what the house looks like?
 
 Look at the available houses at Library > Buildings.  Ignore the blue buildings, as they will not be useful until around level 250 (when automations are available).  If you need a shopkeeper immediately, then the pink buildings will support one or more vendors in the entrance room (any building can have vendors by adding appropriate rooms to it.  This help topic covers GETTING a house, not renovating it).  The White buildings are also available, and are more general-purpose type buildings.
 
-If the building\`s appearance is important, look at the picture displayed next to each building.  Unless you own a land tile (or a Wand of Alteration bought-extra), that is the image that will be displayed next to your building, so find an appearance that matches what you are looking for.
+If the building\`s appearance is important, look at the picture displayed next to each building.  Unless you own a land tile, that is the image that will be displayed next to your building, so find an appearance that matches what you are looking for.
 
 Clicking on any of the buildings will display the number of rooms (and, in the case of pink buildings, the number of vendors) it supports.  Clicking the view button on the right will show the building layout.  In the layout, clicking on any of the rooms will show what furnishings the room supports.  Again, any building can eventually contain any type of room, but there are other help files for that.
 
