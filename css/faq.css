@@ -135,4 +135,5 @@ a.faq-topic-row:visited .faq-topic-icon circle {
 table, th, td {
     border-collapse: collapse;
     border: solid 1px white;
+    text-align: left;
 }
