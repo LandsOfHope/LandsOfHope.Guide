@@ -131,3 +131,8 @@ a.faq-topic-row:visited .faq-topic-icon circle {
 .tooltip:active #copy-link {
     color: grey;
 }
+
+table, th, td {
+    border-collapse: collapse;
+    border: solid 1px white;
+}
