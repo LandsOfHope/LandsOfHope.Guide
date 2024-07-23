@@ -3,4 +3,4 @@ name: How do I save this game?
 category: general-questions
 layout: faq_topic
 ---
-You dont need to save, the game us saved in real time. This is an Online game, so you dont have to save anything it is all saved on the game server.
+Lands of Hope is an online game and all data is saved on our servers as you interact with the game.  As a player, you don't need to do anything besides play the game to have your progress saved.

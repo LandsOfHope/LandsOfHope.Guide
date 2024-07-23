@@ -3,7 +3,7 @@ name: Track undead
 category: skills
 layout: help_topic
 ---
-The **Track Undead** skill provides the means to track monsters or players classed as beasts. This skill is a class skill that Hunters and Paladins/Crusaders acquire (Archer/Healer/Fighter Evolution line) you can also use it by gaining items with bonuses to the skill.
+The **Track Undead** skill provides the means to track monsters or players classed as beasts. This skill is a class skill that Hunters and Templars/Crusaders acquire (Archer/Healer/Fighter Evolution line) you can also use it by gaining items with bonuses to the skill.
 
 To track undead after getting this skill use the World > Track > Undead screen.
 

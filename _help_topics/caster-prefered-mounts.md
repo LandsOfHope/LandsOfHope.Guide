@@ -12,4 +12,4 @@ Caster Advantages
 *   Royal Drake  Int 400  MP 400
 *   Sea Dragon $ Int +113 - +600
 
-(JW = Juassic Wars $= Buyable pet)
+(JW = Jurassic Wars $= Buyable pet)

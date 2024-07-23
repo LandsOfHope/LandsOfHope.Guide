@@ -116,12 +116,6 @@ Rooms and Maps support layered images allowing for a far more realistic game env
 
 ### Player Owned Tile/Land management 
 
-## Multiple Servers 
-
-- A Grief free server for those that dont wish to be stolen from or routinely killed by enemies. 
-
-- A Grief server for those that do wish to have fun at the expense of others. 
-
 Over 500 hand drawn map and room tile images (bigger dimensions than the Fh1 map artwork) 
 
 Beautiful 3D rendered internal preview images for Rooms 

@@ -14,11 +14,11 @@ Warlocks tame Demons with Demonology (Caster > Invoker (Level 50) > Summoner (L
 Druids tame Plants with Druid Magic (Hermit > Diviner (Level 50) > Warden (Level 350) > Druid (Level 650))  
 Druids tame Insects with Druid Magic (Hermit > Diviner (Level 50) > Warden (Level 350) > Druid (Level 650))
 
-The Hermit > Druid line is a bought extra profession which can be gained with the Jurrasic Wars Expansion Pack for 15USD/3HC.
+The Hermit > Druid line is an extra profession which can be gained with the Jurrasic Wars Expansion Pack, included with a game subscription.
 
 _Myth and Legends_ is only accessable through items.
 
-_Ethereal Trappings_ is only accessable by buying the new bought extra _Ethereal Bindings_ for $10USD/2HC.
+_Ethereal Trappings_ is only accessable by buying the new bought extra _Ethereal Bindings_ for 2HC.
 
   
 All of these are listed on the Library>Professions>Profession Evolution list in the game menus.  
