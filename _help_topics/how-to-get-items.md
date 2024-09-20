@@ -3,7 +3,7 @@ name: How to get Items?
 category: getting-started
 layout: help_topic
 ---
-On the estate, items can be gained from doing quests such as the [Training - Equipment](/start/), you will also start with a ful set of equipment in your inventory. You can also get equipment if you are level three by killing the skeletons behind the waterfall and looting the items they drop.
+On the estate, items can be gained from doing quests such as the <a href="/start/" target="LANDSOFHOPE_GUIDE">Training - Equipment</a>, you will also start with a full set of equipment in your inventory. You can also get equipment if you are level three by killing the skeletons behind the waterfall and looting the items they drop.
 
 You can buy some basic equipment from an NPC on the Estate. The NPC in question is called Monty he can be found one square north of Guide Derwa on the same square as Patricia Preystalker and Vanessa the Healer.
 
