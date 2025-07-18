@@ -9,4 +9,4 @@ This tool is intended only as an aid to help the helpers help you and can only b
 
 This feature also only works on Characters up to level 100 so as to prevent unnecessary requests to Helpers for players wanting their gear to be inspected/reviewed for uberness when we already have the Character link system for that.
 
-If you feel that a Helper is abusing this command please contact [support@forlornonline](mailto:support@forlornonline) / Decius immediately and explain what you think they are abusing.
+If you feel that a Helper is abusing this command please contact [support@landsofhope.com](mailto:support@landsofhope.com) / Decius immediately and explain what you think they are abusing.
