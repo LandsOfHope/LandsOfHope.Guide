@@ -9,7 +9,7 @@ Caster:
 
 Best Mount (if Possible): Mindfreak Mount, Next best is Harpy Mount
 
-Combat Pet: Nobleman or Battler with Taunting turned on. (with Holy Armor, 1 Blood Red Sword and 1 Razorsharp Sheild equipped, Buffs up Strength and Stamina)
+Combat Pet: Nobleman or Battler with Taunting turned on. (with Holy Armor, 1 Blood Red Sword and 1 Razorsharp Shield equipped, Buffs up Strength and Stamina)
 
 Melee Type:
 
