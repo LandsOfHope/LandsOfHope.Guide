@@ -15,8 +15,6 @@ The list of bars available in these options is identical. You can have two extra
 
 *   None
 *   Change Character, Shows a list of your characters allowing you to switch character very quickly.
-*   Favourites - All, Shows you a list of useful links.
-*   Favourites - Yours, Shows you a list of your favourite useful links.
 *   Fellowship, Lists the characters who are online and in your fellowship.
 *   Filters, Shows a list of filters.
 
